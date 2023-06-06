@@ -1,6 +1,6 @@
 PODS:
   - SnapKit (5.6.0)
-  - VerifyBlocSDK (0.2.0)
+  - VerifyBlocSDK (0.3.0)
 
 DEPENDENCIES:
   - SnapKit
@@ -16,7 +16,7 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   SnapKit: e01d52ebb8ddbc333eefe2132acf85c8227d9c25
-  VerifyBlocSDK: 062d8192cfc4934fdf091f3d637333368b95b445
+  VerifyBlocSDK: d98d238d6c5ca16b445642764e78e9384ba1b60a
 
 PODFILE CHECKSUM: 4a1e4be828aa3379ab91634e38f7921873f85cdb
 

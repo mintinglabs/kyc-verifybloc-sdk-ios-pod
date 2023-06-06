@@ -22,7 +22,7 @@
 		</data>
 		<key>Modules/VerifyBloc.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		5e6dl9BXkx/QIrt9w8+C9Vbh5yU=
+		77U4SGupH5l8b+LpzpEQA/qPELo=
 		</data>
 		<key>Modules/VerifyBloc.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Modules/VerifyBloc.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		hpbK3GNqqVchUKGbdNznW/KUgu8=
+		Fj5AhxhYq0mHmiA/jXuIaJjMpvA=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -373,6 +373,30 @@
 		<data>
 		ZUYN5vPKfr0g/+hAF55/QhrtBuY=
 		</data>
+		<key>VerifyBloc.bundle/photo_box.png</key>
+		<data>
+		jwl3LPyQ3D/IuIEMJyvdcrHa7I0=
+		</data>
+		<key>VerifyBloc.bundle/photo_box@2x.png</key>
+		<data>
+		xP3tmJfkCH4M/vTg2n59CyTdcPE=
+		</data>
+		<key>VerifyBloc.bundle/photo_box@3x.png</key>
+		<data>
+		g4pvW86DbTtbeC1P4r96+xLJ7RY=
+		</data>
+		<key>VerifyBloc.bundle/photo_box_full.png</key>
+		<data>
+		SZC+UWH/izy58n79Bzp6vuRXPOI=
+		</data>
+		<key>VerifyBloc.bundle/photo_box_full@2x.png</key>
+		<data>
+		FC3kgCqN070G7VjE7BPyAzMqvq4=
+		</data>
+		<key>VerifyBloc.bundle/photo_box_full@3x.png</key>
+		<data>
+		YOOeqfRa6vXIVhDYkvpIRas9Ht4=
+		</data>
 		<key>VerifyBloc.bundle/photo_gif.gif</key>
 		<data>
 		XYDEtVhoR+WLTj0R8erQ5YzLM2M=
@@ -703,11 +727,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			5e6dl9BXkx/QIrt9w8+C9Vbh5yU=
+			77U4SGupH5l8b+LpzpEQA/qPELo=
 			</data>
 			<key>hash2</key>
 			<data>
-			I7YNjTs0IxeEv8kVkjsD31Gv8XHPCIZ6rUfmSgOofl4=
+			X+jdI09nr48izhMBR9w3ewN1CJz7/xbzLzMJXQFK0Fw=
 			</data>
 		</dict>
 		<key>Modules/VerifyBloc.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -747,11 +771,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			hpbK3GNqqVchUKGbdNznW/KUgu8=
+			Fj5AhxhYq0mHmiA/jXuIaJjMpvA=
 			</data>
 			<key>hash2</key>
 			<data>
-			bKs+NVZHA+SFyk6+tRiYLIC7ywzqkBXXvcPiwACl/hI=
+			r1yNE42ntldSnpmFXu0zZtnXe52EteSl2mNIy2yYqu8=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -1515,6 +1539,72 @@
 			<key>hash2</key>
 			<data>
 			m42aknUKIYWmerIPbCj/pCBa9pEvPI7e7phR0fcCL5E=
+			</data>
+		</dict>
+		<key>VerifyBloc.bundle/photo_box.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			jwl3LPyQ3D/IuIEMJyvdcrHa7I0=
+			</data>
+			<key>hash2</key>
+			<data>
+			Sbetb8bGup3CnYLR4QbBRhlmM42PKE+4z4R7/IqlFQ4=
+			</data>
+		</dict>
+		<key>VerifyBloc.bundle/photo_box@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			xP3tmJfkCH4M/vTg2n59CyTdcPE=
+			</data>
+			<key>hash2</key>
+			<data>
+			rCuGgn0VyN05rYzWNa+71ZQ69YnT9ogOJg0QqRbTYgk=
+			</data>
+		</dict>
+		<key>VerifyBloc.bundle/photo_box@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			g4pvW86DbTtbeC1P4r96+xLJ7RY=
+			</data>
+			<key>hash2</key>
+			<data>
+			1j25qIKf5tpcVkIs5Ad6z27Eym+0KS1kgDOCw2QM/04=
+			</data>
+		</dict>
+		<key>VerifyBloc.bundle/photo_box_full.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			SZC+UWH/izy58n79Bzp6vuRXPOI=
+			</data>
+			<key>hash2</key>
+			<data>
+			J/be6cM//06HajmSr0k+KCFaLv38fgkS9QZ73GXfETQ=
+			</data>
+		</dict>
+		<key>VerifyBloc.bundle/photo_box_full@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			FC3kgCqN070G7VjE7BPyAzMqvq4=
+			</data>
+			<key>hash2</key>
+			<data>
+			V/OG5EGXPjTq3yIuTS1EyLtdeAbIGg3YuaXUGL29q+U=
+			</data>
+		</dict>
+		<key>VerifyBloc.bundle/photo_box_full@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			YOOeqfRa6vXIVhDYkvpIRas9Ht4=
+			</data>
+			<key>hash2</key>
+			<data>
+			Hen8m9QNhOr8qW1y9HfbKn6qD0r4KDP+p8mlfMb1988=
 			</data>
 		</dict>
 		<key>VerifyBloc.bundle/photo_gif.gif</key>

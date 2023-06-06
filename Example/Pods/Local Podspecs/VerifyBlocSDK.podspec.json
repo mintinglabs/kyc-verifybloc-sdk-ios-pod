@@ -1,6 +1,6 @@
 {
   "name": "VerifyBlocSDK",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "VerifyBlocSDK is a verification service.",
   "description": "VerifyBlocSDK is a verification service.",
   "homepage": "https://www.verifybloc.com",
@@ -9,17 +9,23 @@
     "file": "LICENSE"
   },
   "authors": {
-    "haozheng": "haozheng@presslogic.com"
+    "mintinglabs": "yu.yang@mintinglabs.com"
   },
   "source": {
-    "git": "https://github.com/VerifyBloc/VerifyBlocSDK-iOS.git",
-    "tag": "0.2.0"
+    "git": "git@github.com:mintinglabs/kyc-verifybloc-sdk-ios-pod.git",
+    "tag": "0.3.0"
   },
   "platforms": {
-    "ios": "10.0"
+    "ios": "12.0"
   },
+  "pod_target_xcconfig": {
+    "DEFINES_MODULE": "YES",
+    "EXCLUDED_ARCHS[sdk=iphonesimulator*]": "i386"
+  },
+  "swift_versions": "5.0",
   "vendored_frameworks": [
     "VerifyBlocSDK/Frameworks/VerifyBloc.xcframework"
   ],
-  "resources": "VerifyBlocSDK/Bundles/VerifyBloc.bundle"
+  "resources": "VerifyBlocSDK/Bundles/VerifyBloc.bundle",
+  "swift_version": "5.0"
 }

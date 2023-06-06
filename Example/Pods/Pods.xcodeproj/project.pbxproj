@@ -650,21 +650,6 @@
 			};
 			name = Release;
 		};
-		5CA46D2879B3B678081FE3774B58FEC5 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = DDFBD1768510F725F95BB36E1D540B34 /* VerifyBlocSDK.debug.xcconfig */;
-			buildSettings = {
-				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CLANG_ENABLE_OBJC_WEAK = NO;
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				SDKROOT = iphoneos;
-				TARGETED_DEVICE_FAMILY = "1,2";
-			};
-			name = Debug;
-		};
 		63FAF33E1C55B71A5F5A8B3CC8749F99 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -793,6 +778,37 @@
 			};
 			name = Debug;
 		};
+		CE00EFBAF97FEBDF23A3D74B4B8926D4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 1AA6411EB2440DA80EFB7E0B0108957C /* VerifyBlocSDK.release.xcconfig */;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		E98F3F9E16D78F26B78273685D593EF9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = DDFBD1768510F725F95BB36E1D540B34 /* VerifyBlocSDK.debug.xcconfig */;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
 		E9E004D309FBD1286886327A583343D5 /* Release */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 1D784A2F964C5026DE3FDB4031DC9C50 /* Pods-VerifyBlocSDK_Example.release.xcconfig */;
@@ -825,22 +841,6 @@
 				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
-		EF7FF42FE7C12F2AACCDCEF8937D3302 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 1AA6411EB2440DA80EFB7E0B0108957C /* VerifyBlocSDK.release.xcconfig */;
-			buildSettings = {
-				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CLANG_ENABLE_OBJC_WEAK = NO;
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				SDKROOT = iphoneos;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
 			};
 			name = Release;
 		};
@@ -877,8 +877,8 @@
 		70EA36405293DFA35BBF15DCCF808C7A /* Build configuration list for PBXAggregateTarget "VerifyBlocSDK" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				5CA46D2879B3B678081FE3774B58FEC5 /* Debug */,
-				EF7FF42FE7C12F2AACCDCEF8937D3302 /* Release */,
+				E98F3F9E16D78F26B78273685D593EF9 /* Debug */,
+				CE00EFBAF97FEBDF23A3D74B4B8926D4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

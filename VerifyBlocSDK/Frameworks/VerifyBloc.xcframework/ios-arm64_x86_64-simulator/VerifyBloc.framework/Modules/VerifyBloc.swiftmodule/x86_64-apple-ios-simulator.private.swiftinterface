@@ -1,0 +1,74 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)
+// swift-module-flags: -target x86_64-apple-ios12.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name VerifyBloc
+// swift-module-flags-ignorable: -enable-bare-slash-regex
+import AVFoundation
+import AVKit
+import CommonCrypto
+import Foundation
+import MessageUI
+import Security
+import Swift
+import UIKit
+@_exported import VerifyBloc
+import WebKit
+import _Concurrency
+import _StringProcessing
+public enum ThemeUI : Swift.Int {
+  case light
+  case dark
+  public init?(rawValue: Swift.Int)
+  public typealias RawValue = Swift.Int
+  public var rawValue: Swift.Int {
+    get
+  }
+}
+public enum VerifyBlocIdentityType : Swift.Int64 {
+  case person
+  case corporate
+  public init?(rawValue: Swift.Int64)
+  public typealias RawValue = Swift.Int64
+  public var rawValue: Swift.Int64 {
+    get
+  }
+}
+public enum VerifyBlocEnv : Swift.String, Swift.CaseIterable {
+  case DEV
+  case TEST
+  case UAT
+  case PRD
+  public init?(rawValue: Swift.String)
+  public typealias AllCases = [VerifyBloc.VerifyBlocEnv]
+  public typealias RawValue = Swift.String
+  public static var allCases: [VerifyBloc.VerifyBlocEnv] {
+    get
+  }
+  public var rawValue: Swift.String {
+    get
+  }
+}
+public struct ButtonSetting {
+  public init(bgColor: UIKit.UIColor? = nil, circle: CoreFoundation.CGFloat? = nil, color: UIKit.UIColor? = nil)
+}
+@objc @_inheritsConvenienceInitializers public class VerifyBlocManager : ObjectiveC.NSObject {
+  public static let shared: VerifyBloc.VerifyBlocManager
+  public var buttonSetting: VerifyBloc.ButtonSetting?
+  public var themeColor: UIKit.UIColor
+  public class func changeStyle(_ theme: VerifyBloc.ThemeUI)
+  public class func config(appId: Swift.String, parterId: Swift.String, secret: Swift.String)
+  public class func language(code: Swift.String)
+  public class func setEnv(env: VerifyBloc.VerifyBlocEnv)
+  public class func verify(userId: Swift.String, verityType: VerifyBloc.VerifyBlocIdentityType = .person, presentingController: UIKit.UIViewController, handler: @escaping (_ applicationId: Swift.String, _ status: Swift.String) -> Swift.Void)
+  public class func queryVerification(userId: Swift.String, handler: @escaping (_ status: Swift.String) -> Swift.Void)
+  @objc override dynamic public init()
+  @objc deinit
+}
+extension VerifyBloc.ThemeUI : Swift.Equatable {}
+extension VerifyBloc.ThemeUI : Swift.Hashable {}
+extension VerifyBloc.ThemeUI : Swift.RawRepresentable {}
+extension VerifyBloc.VerifyBlocIdentityType : Swift.Equatable {}
+extension VerifyBloc.VerifyBlocIdentityType : Swift.Hashable {}
+extension VerifyBloc.VerifyBlocIdentityType : Swift.RawRepresentable {}
+extension VerifyBloc.VerifyBlocEnv : Swift.Equatable {}
+extension VerifyBloc.VerifyBlocEnv : Swift.Hashable {}
+extension VerifyBloc.VerifyBlocEnv : Swift.RawRepresentable {}

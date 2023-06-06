@@ -1,0 +1,6 @@
+Target dependency graph (3 targets)
+SnapKit in Pods, no dependencies
+VerifyBlocSDK in Pods, no dependencies
+Pods-VerifyBlocSDK_Example in Pods, depends on:
+SnapKit in Pods (explicit)
+VerifyBlocSDK in Pods (explicit)

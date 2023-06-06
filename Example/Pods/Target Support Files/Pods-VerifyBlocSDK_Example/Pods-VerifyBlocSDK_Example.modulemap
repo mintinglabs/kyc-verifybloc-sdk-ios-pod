@@ -1,0 +1,6 @@
+framework module Pods_VerifyBlocSDK_Example {
+  umbrella header "Pods-VerifyBlocSDK_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

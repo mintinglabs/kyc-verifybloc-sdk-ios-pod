@@ -1,0 +1,1478 @@
+[
+  {
+    "code": "93",
+    "pinyin": "AFUHAN",
+    "name": "افغانستان",
+    "locale": "AF"
+  },
+  {
+    "code": "358",
+    "pinyin": "AOLAN",
+    "name": "Åland",
+    "locale": "AX"
+  },
+  {
+    "code": "355",
+    "pinyin": "AERBANIYA",
+    "name": "Shqipëria",
+    "locale": "AL"
+  },
+  {
+    "code": "213",
+    "pinyin": "AERJILIYA",
+    "name": "الجزائر",
+    "locale": "DZ"
+  },
+  {
+    "code": "1684",
+    "pinyin": "MEISHUSAMOYA",
+    "name": "American Samoa",
+    "locale": "AS"
+  },
+  {
+    "code": "376",
+    "pinyin": "ANDAOER",
+    "name": "Andorra",
+    "locale": "AD"
+  },
+  {
+    "code": "244",
+    "pinyin": "ANGELA",
+    "name": "Angola",
+    "locale": "AO"
+  },
+  {
+    "code": "1264",
+    "pinyin": "ANGUILA",
+    "name": "Anguilla",
+    "locale": "AI"
+  },
+  {
+    "code": "672",
+    "pinyin": "NANJIZHOU",
+    "name": "Antarctica",
+    "locale": "AQ"
+  },
+  {
+    "code": "1268",
+    "pinyin": "ANTIGUAHEBABUDA",
+    "name": "Antigua and Barbuda",
+    "locale": "AG"
+  },
+  {
+    "code": "54",
+    "pinyin": "AGENTING",
+    "name": "Argentina",
+    "locale": "AR"
+  },
+  {
+    "code": "374",
+    "pinyin": "YAMEINIYA",
+    "name": "Հայաստան",
+    "locale": "AM"
+  },
+  {
+    "code": "297",
+    "pinyin": "ALUBA",
+    "name": "Aruba",
+    "locale": "AW"
+  },
+  {
+    "code": "61",
+    "pinyin": "AODALIYA",
+    "name": "Australia",
+    "locale": "AU"
+  },
+  {
+    "code": "43",
+    "pinyin": "AODILI",
+    "name": "Österreich",
+    "locale": "AT"
+  },
+  {
+    "code": "994",
+    "pinyin": "ASAIBAIJIANG",
+    "name": "Azərbaycan",
+    "locale": "AZ"
+  },
+  {
+    "code": "1242",
+    "pinyin": "BAHAMA",
+    "name": "Bahamas",
+    "locale": "BS"
+  },
+  {
+    "code": "973",
+    "pinyin": "BALIN",
+    "name": "‏البحرين",
+    "locale": "BH"
+  },
+  {
+    "code": "880",
+    "pinyin": "MENGJIALAGUO",
+    "name": "Bangladesh",
+    "locale": "BD"
+  },
+  {
+    "code": "1246",
+    "pinyin": "BABADUOSI",
+    "name": "Barbados",
+    "locale": "BB"
+  },
+  {
+    "code": "375",
+    "pinyin": "BAIELUOSI",
+    "name": "Белару́сь",
+    "locale": "BY"
+  },
+  {
+    "code": "32",
+    "pinyin": "BILISHI",
+    "name": "België",
+    "locale": "BE"
+  },
+  {
+    "code": "501",
+    "pinyin": "BOLIZI",
+    "name": "Belize",
+    "locale": "BZ"
+  },
+  {
+    "code": "229",
+    "pinyin": "BEINING",
+    "name": "Bénin",
+    "locale": "BJ"
+  },
+  {
+    "code": "1441",
+    "pinyin": "BAIMUDA",
+    "name": "Bermuda",
+    "locale": "BM"
+  },
+  {
+    "code": "975",
+    "pinyin": "BUDAN",
+    "name": "ʼbrug-yul",
+    "locale": "BT"
+  },
+  {
+    "code": "591",
+    "pinyin": "BOLIWEIYA",
+    "name": "Bolivia",
+    "locale": "BO"
+  },
+  {
+    "code": "387",
+    "pinyin": "BOHEI",
+    "name": "Bosna i Hercegovina",
+    "locale": "BA"
+  },
+  {
+    "code": "267",
+    "pinyin": "BOCIWANA",
+    "name": "Botswana",
+    "locale": "BW"
+  },
+  {
+    "code": "47",
+    "pinyin": "BUWEIDAO",
+    "name": "Bouvetøya",
+    "locale": "BV"
+  },
+  {
+    "code": "55",
+    "pinyin": "BAXI",
+    "name": "Brasil",
+    "locale": "BR"
+  },
+  {
+    "code": "246",
+    "pinyin": "YINGSHUYINDUYANGLINGDI",
+    "name": "British Indian Ocean Territory",
+    "locale": "IO"
+  },
+  {
+    "code": "673",
+    "pinyin": "WENLAI",
+    "name": "Negara Brunei Darussalam",
+    "locale": "BN"
+  },
+  {
+    "code": "359",
+    "pinyin": "BAOJIALIYA",
+    "name": "България",
+    "locale": "BG"
+  },
+  {
+    "code": "226",
+    "pinyin": "BUJINAFASUO",
+    "name": "Burkina Faso",
+    "locale": "BF"
+  },
+  {
+    "code": "257",
+    "pinyin": "BULONGDI",
+    "name": "Burundi",
+    "locale": "BI"
+  },
+  {
+    "code": "855",
+    "pinyin": "JIANPUZHAI",
+    "name": "Cambodia",
+    "locale": "KH"
+  },
+  {
+    "code": "237",
+    "pinyin": "KAMAILONG",
+    "name": "Cameroon",
+    "locale": "CM"
+  },
+  {
+    "code": "1",
+    "pinyin": "JIANADA",
+    "name": "Canada",
+    "locale": "CA"
+  },
+  {
+    "code": "238",
+    "pinyin": "FODEJIAO",
+    "name": "Cabo Verde",
+    "locale": "CV"
+  },
+  {
+    "code": "1345",
+    "pinyin": "KAIMANQUNDAO",
+    "name": "Cayman Islands",
+    "locale": "KY"
+  },
+  {
+    "code": "236",
+    "pinyin": "ZHONGFEI",
+    "name": "Ködörösêse tî Bêafrîka",
+    "locale": "CF"
+  },
+  {
+    "code": "235",
+    "pinyin": "ZHADE",
+    "name": "Tchad",
+    "locale": "TD"
+  },
+  {
+    "code": "56",
+    "pinyin": "ZHILI",
+    "name": "Chile",
+    "locale": "CL"
+  },
+  {
+    "code": "86",
+    "pinyin": "ZHONGGUO",
+    "name": "China",
+    "locale": "CN"
+  },
+  {
+    "code": "61",
+    "pinyin": "SHENGDANDAO",
+    "name": "Christmas Island",
+    "locale": "CX"
+  },
+  {
+    "code": "61",
+    "pinyin": "KEKESI（JILIN）QUNDAO",
+    "name": "Cocos (Keeling) Islands",
+    "locale": "CC"
+  },
+  {
+    "code": "57",
+    "pinyin": "GELUNBIYA",
+    "name": "Colombia",
+    "locale": "CO"
+  },
+  {
+    "code": "269",
+    "pinyin": "KEMOLUO",
+    "name": "Komori",
+    "locale": "KM"
+  },
+  {
+    "code": "242",
+    "pinyin": "GANGGUO（BU）",
+    "name": "République du Congo",
+    "locale": "CG"
+  },
+  {
+    "code": "243",
+    "pinyin": "GANGGUO（JIN）",
+    "name": "République démocratique du Congo",
+    "locale": "CD"
+  },
+  {
+    "code": "682",
+    "pinyin": "KUKEQUNDAO",
+    "name": "Cook Islands",
+    "locale": "CK"
+  },
+  {
+    "code": "506",
+    "pinyin": "GESIDALIJIA",
+    "name": "Costa Rica",
+    "locale": "CR"
+  },
+  {
+    "code": "225",
+    "pinyin": "KETEDIWA",
+    "name": "Côte d'Ivoire",
+    "locale": "CI"
+  },
+  {
+    "code": "385",
+    "pinyin": "KELUODIYA",
+    "name": "Hrvatska",
+    "locale": "HR"
+  },
+  {
+    "code": "53",
+    "pinyin": "GUBA",
+    "name": "Cuba",
+    "locale": "CU"
+  },
+  {
+    "code": "357",
+    "pinyin": "SAIPULUSI",
+    "name": "Κύπρος",
+    "locale": "CY"
+  },
+  {
+    "code": "420",
+    "pinyin": "JIEKE",
+    "name": "Česká republika",
+    "locale": "CZ"
+  },
+  {
+    "code": "45",
+    "pinyin": "DANMAI",
+    "name": "Danmark",
+    "locale": "DK"
+  },
+  {
+    "code": "253",
+    "pinyin": "JIBUTI",
+    "name": "Djibouti",
+    "locale": "DJ"
+  },
+  {
+    "code": "1767",
+    "pinyin": "DUOMINIKE",
+    "name": "Dominica",
+    "locale": "DM"
+  },
+  {
+    "code": "1",
+    "pinyin": "DUOMINIJIA",
+    "name": "República Dominicana",
+    "locale": "DO"
+  },
+  {
+    "code": "593",
+    "pinyin": "EGUADUOER",
+    "name": "Ecuador",
+    "locale": "EC"
+  },
+  {
+    "code": "20",
+    "pinyin": "AIJI",
+    "name": "مصر‎",
+    "locale": "EG"
+  },
+  {
+    "code": "503",
+    "pinyin": "SAERWADUO",
+    "name": "El Salvador",
+    "locale": "SV"
+  },
+  {
+    "code": "240",
+    "pinyin": "CHIDAOJINEIYA",
+    "name": "Guinea Ecuatorial",
+    "locale": "GQ"
+  },
+  {
+    "code": "291",
+    "pinyin": "ELITELIYA",
+    "name": "ኤርትራ",
+    "locale": "ER"
+  },
+  {
+    "code": "372",
+    "pinyin": "AISHANIYA",
+    "name": "Eesti",
+    "locale": "EE"
+  },
+  {
+    "code": "251",
+    "pinyin": "AISAIEBIYA",
+    "name": "ኢትዮጵያ",
+    "locale": "ET"
+  },
+  {
+    "code": "500",
+    "pinyin": "FUKELANQUNDAO",
+    "name": "Falkland Islands",
+    "locale": "FK"
+  },
+  {
+    "code": "298",
+    "pinyin": "FALUOQUNDAO",
+    "name": "Føroyar",
+    "locale": "FO"
+  },
+  {
+    "code": "679",
+    "pinyin": "FEIJI",
+    "name": "Fiji",
+    "locale": "FJ"
+  },
+  {
+    "code": "358",
+    "pinyin": "FENLAN",
+    "name": "Suomi",
+    "locale": "FI"
+  },
+  {
+    "code": "33",
+    "pinyin": "FAGUO",
+    "name": "France",
+    "locale": "FR"
+  },
+  {
+    "code": "594",
+    "pinyin": "FASHUGUIYANEI",
+    "name": "Guyane française",
+    "locale": "GF"
+  },
+  {
+    "code": "689",
+    "pinyin": "FASHUBOLINIXIYA",
+    "name": "Polynésie française",
+    "locale": "PF"
+  },
+  {
+    "code": "262",
+    "pinyin": "FASHUNANBULINGDI",
+    "name": "Territoire des Terres australes et antarctiques fr",
+    "locale": "TF"
+  },
+  {
+    "code": "241",
+    "pinyin": "JIAPENG",
+    "name": "Gabon",
+    "locale": "GA"
+  },
+  {
+    "code": "220",
+    "pinyin": "GANGBIYA",
+    "name": "Gambia",
+    "locale": "GM"
+  },
+  {
+    "code": "995",
+    "pinyin": "GELUJIYA",
+    "name": "საქართველო",
+    "locale": "GE"
+  },
+  {
+    "code": "49",
+    "pinyin": "DEGUO",
+    "name": "Deutschland",
+    "locale": "DE"
+  },
+  {
+    "code": "233",
+    "pinyin": "JIANA",
+    "name": "Ghana",
+    "locale": "GH"
+  },
+  {
+    "code": "350",
+    "pinyin": "ZHIBULUOTUO",
+    "name": "Gibraltar",
+    "locale": "GI"
+  },
+  {
+    "code": "30",
+    "pinyin": "XILA",
+    "name": "Ελλάδα",
+    "locale": "GR"
+  },
+  {
+    "code": "299",
+    "pinyin": "GELINGLAN",
+    "name": "Kalaallit Nunaat",
+    "locale": "GL"
+  },
+  {
+    "code": "1473",
+    "pinyin": "GELINNADA",
+    "name": "Grenada",
+    "locale": "GD"
+  },
+  {
+    "code": "590",
+    "pinyin": "GUADELUOPU",
+    "name": "Guadeloupe",
+    "locale": "GP"
+  },
+  {
+    "code": "1671",
+    "pinyin": "GUANDAO",
+    "name": "Guam",
+    "locale": "GU"
+  },
+  {
+    "code": "502",
+    "pinyin": "WEIDIMALA",
+    "name": "Guatemala",
+    "locale": "GT"
+  },
+  {
+    "code": "44",
+    "pinyin": "GENXI",
+    "name": "Guernsey",
+    "locale": "GG"
+  },
+  {
+    "code": "224",
+    "pinyin": "JINEIYA",
+    "name": "Guinée",
+    "locale": "GN"
+  },
+  {
+    "code": "245",
+    "pinyin": "JINEIYABISHAO",
+    "name": "Guiné-Bissau",
+    "locale": "GW"
+  },
+  {
+    "code": "592",
+    "pinyin": "GUIYANEI",
+    "name": "Guyana",
+    "locale": "GY"
+  },
+  {
+    "code": "509",
+    "pinyin": "HAIDI",
+    "name": "Haïti",
+    "locale": "HT"
+  },
+  {
+    "code": "0",
+    "pinyin": "HEDEDAOHEMAIKETANGNAQUNDAO",
+    "name": "Heard Island and McDonald Islands",
+    "locale": "HM"
+  },
+  {
+    "code": "379",
+    "pinyin": "FANDIGANG",
+    "name": "Vaticano",
+    "locale": "VA"
+  },
+  {
+    "code": "504",
+    "pinyin": "HONGDOULASI",
+    "name": "Honduras",
+    "locale": "HN"
+  },
+  {
+    "code": "852",
+    "pinyin": "XIANGGANG",
+    "name": "HongKong",
+    "locale": "HK"
+  },
+  {
+    "code": "36",
+    "pinyin": "XIONGYALI",
+    "name": "Magyarország",
+    "locale": "HU"
+  },
+  {
+    "code": "354",
+    "pinyin": "BINGDAO",
+    "name": "Ísland",
+    "locale": "IS"
+  },
+  {
+    "code": "91",
+    "pinyin": "YINDU",
+    "name": "भारत",
+    "locale": "IN"
+  },
+  {
+    "code": "62",
+    "pinyin": "YINNI",
+    "name": "Indonesia",
+    "locale": "ID"
+  },
+  {
+    "code": "98",
+    "pinyin": "YILANG",
+    "name": "ایران",
+    "locale": "IR"
+  },
+  {
+    "code": "964",
+    "pinyin": "YILAKE",
+    "name": "العراق",
+    "locale": "IQ"
+  },
+  {
+    "code": "353",
+    "pinyin": "AIERLAN",
+    "name": "Éire",
+    "locale": "IE"
+  },
+  {
+    "code": "44",
+    "pinyin": "MAENDAO",
+    "name": "Isle of Man",
+    "locale": "IM"
+  },
+  {
+    "code": "972",
+    "pinyin": "YISELIE",
+    "name": "ישראל",
+    "locale": "IL"
+  },
+  {
+    "code": "39",
+    "pinyin": "YIDALI",
+    "name": "Italia",
+    "locale": "IT"
+  },
+  {
+    "code": "1876",
+    "pinyin": "YAMAIJIA",
+    "name": "Jamaica",
+    "locale": "JM"
+  },
+  {
+    "code": "81",
+    "pinyin": "RIBEN",
+    "name": "Japan",
+    "locale": "JP"
+  },
+  {
+    "code": "44",
+    "pinyin": "ZEXI",
+    "name": "Jersey",
+    "locale": "JE"
+  },
+  {
+    "code": "962",
+    "pinyin": "YUEDAN",
+    "name": "الأردن",
+    "locale": "JO"
+  },
+  {
+    "code": "7",
+    "pinyin": "HASAKESITAN",
+    "name": "Қазақстан",
+    "locale": "KZ"
+  },
+  {
+    "code": "254",
+    "pinyin": "KENNIYA",
+    "name": "Kenya",
+    "locale": "KE"
+  },
+  {
+    "code": "686",
+    "pinyin": "JILIBASI",
+    "name": "Kiribati",
+    "locale": "KI"
+  },
+  {
+    "code": "850",
+    "pinyin": "CHAOXIAN",
+    "name": "북한",
+    "locale": "KP"
+  },
+  {
+    "code": "82",
+    "pinyin": "HANGUO",
+    "name": "대한민국",
+    "locale": "KR"
+  },
+  {
+    "code": "383",
+    "pinyin": "KESUOWO",
+    "name": "Republika e Kosovës",
+    "locale": "XK"
+  },
+  {
+    "code": "965",
+    "pinyin": "KEWEITE",
+    "name": "الكويت",
+    "locale": "KW"
+  },
+  {
+    "code": "996",
+    "pinyin": "JIERJISISITAN",
+    "name": "Кыргызстан",
+    "locale": "KG"
+  },
+  {
+    "code": "856",
+    "pinyin": "LAOWO",
+    "name": "ສປປລາວ",
+    "locale": "LA"
+  },
+  {
+    "code": "371",
+    "pinyin": "LATUOWEIYA",
+    "name": "Latvija",
+    "locale": "LV"
+  },
+  {
+    "code": "961",
+    "pinyin": "LIBANEN",
+    "name": "لبنان",
+    "locale": "LB"
+  },
+  {
+    "code": "266",
+    "pinyin": "LAISUOTUO",
+    "name": "Lesotho",
+    "locale": "LS"
+  },
+  {
+    "code": "231",
+    "pinyin": "LIBILIYA",
+    "name": "Liberia",
+    "locale": "LR"
+  },
+  {
+    "code": "218",
+    "pinyin": "LIBIYA",
+    "name": "‏ليبيا",
+    "locale": "LY"
+  },
+  {
+    "code": "423",
+    "pinyin": "LIEZHIDUNSHIDENG",
+    "name": "Liechtenstein",
+    "locale": "LI"
+  },
+  {
+    "code": "370",
+    "pinyin": "LITAOWAN",
+    "name": "Lietuva",
+    "locale": "LT"
+  },
+  {
+    "code": "352",
+    "pinyin": "LUSENBAO",
+    "name": "Luxembourg",
+    "locale": "LU"
+  },
+  {
+    "code": "853",
+    "pinyin": "AOMEN",
+    "name": "Macao",
+    "locale": "MO"
+  },
+  {
+    "code": "389",
+    "pinyin": "BEIMAQIDUN",
+    "name": "Македонија",
+    "locale": "MK"
+  },
+  {
+    "code": "261",
+    "pinyin": "MADAJIASIJIA",
+    "name": "Madagasikara",
+    "locale": "MG"
+  },
+  {
+    "code": "265",
+    "pinyin": "MALAWEI",
+    "name": "Malawi",
+    "locale": "MW"
+  },
+  {
+    "code": "60",
+    "pinyin": "MALAIXIYA",
+    "name": "Malaysia",
+    "locale": "MY"
+  },
+  {
+    "code": "960",
+    "pinyin": "MAERDAIFU",
+    "name": "Maldives",
+    "locale": "MV"
+  },
+  {
+    "code": "223",
+    "pinyin": "MALI",
+    "name": "Mali",
+    "locale": "ML"
+  },
+  {
+    "code": "356",
+    "pinyin": "MAERTA",
+    "name": "Malta",
+    "locale": "MT"
+  },
+  {
+    "code": "692",
+    "pinyin": "MASHAOERQUNDAO",
+    "name": "M̧ajeļ",
+    "locale": "MH"
+  },
+  {
+    "code": "596",
+    "pinyin": "MATINIKE",
+    "name": "Martinique",
+    "locale": "MQ"
+  },
+  {
+    "code": "222",
+    "pinyin": "MAOLITANIYA",
+    "name": "موريتانيا",
+    "locale": "MR"
+  },
+  {
+    "code": "230",
+    "pinyin": "MAOLIQIUSI",
+    "name": "Maurice",
+    "locale": "MU"
+  },
+  {
+    "code": "262",
+    "pinyin": "MAYUETE",
+    "name": "Mayotte",
+    "locale": "YT"
+  },
+  {
+    "code": "52",
+    "pinyin": "MOXIGE",
+    "name": "México",
+    "locale": "MX"
+  },
+  {
+    "code": "691",
+    "pinyin": "MIKELUONIXIYALIANBANG",
+    "name": "Micronesia",
+    "locale": "FM"
+  },
+  {
+    "code": "373",
+    "pinyin": "MOERDUOWA",
+    "name": "Moldova",
+    "locale": "MD"
+  },
+  {
+    "code": "377",
+    "pinyin": "MONAGE",
+    "name": "Monaco",
+    "locale": "MC"
+  },
+  {
+    "code": "976",
+    "pinyin": "MENGGU",
+    "name": "Монгол улс",
+    "locale": "MN"
+  },
+  {
+    "code": "382",
+    "pinyin": "HEISHAN",
+    "name": "Црна Гора",
+    "locale": "ME"
+  },
+  {
+    "code": "1664",
+    "pinyin": "MENGTESAILATE",
+    "name": "Montserrat",
+    "locale": "MS"
+  },
+  {
+    "code": "212",
+    "pinyin": "MOLUOGE",
+    "name": "المغرب",
+    "locale": "MA"
+  },
+  {
+    "code": "258",
+    "pinyin": "MOSANGBIKE",
+    "name": "Moçambique",
+    "locale": "MZ"
+  },
+  {
+    "code": "95",
+    "pinyin": "MIANDIAN",
+    "name": "Myanmar",
+    "locale": "MM"
+  },
+  {
+    "code": "264",
+    "pinyin": "NAMIBIYA",
+    "name": "Namibia",
+    "locale": "NA"
+  },
+  {
+    "code": "674",
+    "pinyin": "NAOLU",
+    "name": "Nauru",
+    "locale": "NR"
+  },
+  {
+    "code": "977",
+    "pinyin": "NIBOER",
+    "name": "नेपाल",
+    "locale": "NP"
+  },
+  {
+    "code": "31",
+    "pinyin": "HELAN",
+    "name": "Nederland",
+    "locale": "NL"
+  },
+  {
+    "code": "687",
+    "pinyin": "XINKALIDUONIYA",
+    "name": "Nouvelle-Calédonie",
+    "locale": "NC"
+  },
+  {
+    "code": "64",
+    "pinyin": "XINXILAN",
+    "name": "New Zealand",
+    "locale": "NZ"
+  },
+  {
+    "code": "505",
+    "pinyin": "NIJIALAGUA",
+    "name": "Nicaragua",
+    "locale": "NI"
+  },
+  {
+    "code": "227",
+    "pinyin": "NIRIER",
+    "name": "Niger",
+    "locale": "NE"
+  },
+  {
+    "code": "234",
+    "pinyin": "NIRILIYA",
+    "name": "Nigeria",
+    "locale": "NG"
+  },
+  {
+    "code": "683",
+    "pinyin": "NIUAI",
+    "name": "Niuē",
+    "locale": "NU"
+  },
+  {
+    "code": "672",
+    "pinyin": "NUOFUKEDAO",
+    "name": "Norfolk Island",
+    "locale": "NF"
+  },
+  {
+    "code": "1670",
+    "pinyin": "BEIMALIYANAQUNDAO",
+    "name": "Northern Mariana Islands",
+    "locale": "MP"
+  },
+  {
+    "code": "47",
+    "pinyin": "NUOWEI",
+    "name": "Norge",
+    "locale": "NO"
+  },
+  {
+    "code": "968",
+    "pinyin": "AMAN",
+    "name": "عمان",
+    "locale": "OM"
+  },
+  {
+    "code": "92",
+    "pinyin": "BAJISITAN",
+    "name": "Pakistan",
+    "locale": "PK"
+  },
+  {
+    "code": "680",
+    "pinyin": "PALAO",
+    "name": "Palau",
+    "locale": "PW"
+  },
+  {
+    "code": "970",
+    "pinyin": "BALESITAN",
+    "name": "فلسطين",
+    "locale": "PS"
+  },
+  {
+    "code": "507",
+    "pinyin": "BANAMA",
+    "name": "Panamá",
+    "locale": "PA"
+  },
+  {
+    "code": "675",
+    "pinyin": "BABUYAXINJINEIYA",
+    "name": "Papua Niugini",
+    "locale": "PG"
+  },
+  {
+    "code": "595",
+    "pinyin": "BALAGUI",
+    "name": "Paraguay",
+    "locale": "PY"
+  },
+  {
+    "code": "51",
+    "pinyin": "MILU",
+    "name": "Perú",
+    "locale": "PE"
+  },
+  {
+    "code": "63",
+    "pinyin": "FEILVBIN",
+    "name": "Pilipinas",
+    "locale": "PH"
+  },
+  {
+    "code": "64",
+    "pinyin": "PITEKAIENQUNDAO",
+    "name": "Pitcairn Islands",
+    "locale": "PN"
+  },
+  {
+    "code": "48",
+    "pinyin": "BOLAN",
+    "name": "Polska",
+    "locale": "PL"
+  },
+  {
+    "code": "351",
+    "pinyin": "PUTAOYA",
+    "name": "Portugal",
+    "locale": "PT"
+  },
+  {
+    "code": "1939",
+    "pinyin": "BODUOLIGE",
+    "name": "Puerto Rico",
+    "locale": "PR"
+  },
+  {
+    "code": "1787",
+    "pinyin": "BODUOLIGE",
+    "name": "Puerto Rico",
+    "locale": "PR"
+  },
+  {
+    "code": "974",
+    "pinyin": "KATAER",
+    "name": "قطر",
+    "locale": "QA"
+  },
+  {
+    "code": "40",
+    "pinyin": "LUOMANIYA",
+    "name": "România",
+    "locale": "RO"
+  },
+  {
+    "code": "7",
+    "pinyin": "ELUOSI",
+    "name": "Россия",
+    "locale": "RU"
+  },
+  {
+    "code": "250",
+    "pinyin": "LUWANGDA",
+    "name": "Rwanda",
+    "locale": "RW"
+  },
+  {
+    "code": "262",
+    "pinyin": "LIUNIWANG",
+    "name": "La Réunion",
+    "locale": "RE"
+  },
+  {
+    "code": "590",
+    "pinyin": "SHENGBATAILEMI",
+    "name": "Saint-Barthélemy",
+    "locale": "BL"
+  },
+  {
+    "code": "290",
+    "pinyin": "SHENGHELENA、ASENSONGHETELISITAN-DAKUNIYA",
+    "name": "Saint Helena",
+    "locale": "SH"
+  },
+  {
+    "code": "1869",
+    "pinyin": "SHENGJICIHENIWEISI",
+    "name": "Saint Kitts and Nevis",
+    "locale": "KN"
+  },
+  {
+    "code": "1758",
+    "pinyin": "SHENGLUXIYA",
+    "name": "Saint Lucia",
+    "locale": "LC"
+  },
+  {
+    "code": "590",
+    "pinyin": "FASHUSHENGMADING",
+    "name": "Saint-Martin",
+    "locale": "MF"
+  },
+  {
+    "code": "508",
+    "pinyin": "SHENGPIAIERHEMIKELONG",
+    "name": "Saint-Pierre-et-Miquelon",
+    "locale": "PM"
+  },
+  {
+    "code": "1784",
+    "pinyin": "SHENGWENSENTEHEGELINNADINGSI",
+    "name": "Saint Vincent and the Grenadines",
+    "locale": "VC"
+  },
+  {
+    "code": "685",
+    "pinyin": "SAMOYA",
+    "name": "Samoa",
+    "locale": "WS"
+  },
+  {
+    "code": "378",
+    "pinyin": "SHENGMALINUO",
+    "name": "San Marino",
+    "locale": "SM"
+  },
+  {
+    "code": "239",
+    "pinyin": "SHENGDUOMEIHEPULINXIBI",
+    "name": "São Tomé e Príncipe",
+    "locale": "ST"
+  },
+  {
+    "code": "966",
+    "pinyin": "SHATEALABO",
+    "name": "العربية السعودية",
+    "locale": "SA"
+  },
+  {
+    "code": "221",
+    "pinyin": "SAINEIJIAER",
+    "name": "Sénégal",
+    "locale": "SN"
+  },
+  {
+    "code": "381",
+    "pinyin": "SAIERWEIYA",
+    "name": "Србија",
+    "locale": "RS"
+  },
+  {
+    "code": "248",
+    "pinyin": "SAISHEER",
+    "name": "Seychelles",
+    "locale": "SC"
+  },
+  {
+    "code": "232",
+    "pinyin": "SAILALIANG",
+    "name": "Sierra Leone",
+    "locale": "SL"
+  },
+  {
+    "code": "65",
+    "pinyin": "XINJIAPO",
+    "name": "Singapore",
+    "locale": "SG"
+  },
+  {
+    "code": "421",
+    "pinyin": "SILUOFAKE",
+    "name": "Slovensko",
+    "locale": "SK"
+  },
+  {
+    "code": "386",
+    "pinyin": "SILUOWENNIYA",
+    "name": "Slovenija",
+    "locale": "SI"
+  },
+  {
+    "code": "677",
+    "pinyin": "SUOLUOMENQUNDAO",
+    "name": "Solomon Islands",
+    "locale": "SB"
+  },
+  {
+    "code": "252",
+    "pinyin": "SUOMALI",
+    "name": "Soomaaliya",
+    "locale": "SO"
+  },
+  {
+    "code": "27",
+    "pinyin": "NANFEI",
+    "name": "South Africa",
+    "locale": "ZA"
+  },
+  {
+    "code": "211",
+    "pinyin": "NANSUDAN",
+    "name": "South Sudan",
+    "locale": "SS"
+  },
+  {
+    "code": "500",
+    "pinyin": "NANQIAOZHIYAHENANSANGWEIQIQUNDAO",
+    "name": "South Georgia",
+    "locale": "GS"
+  },
+  {
+    "code": "34",
+    "pinyin": "XIBANYA",
+    "name": "España",
+    "locale": "ES"
+  },
+  {
+    "code": "94",
+    "pinyin": "SILILANKA",
+    "name": "Sri Lanka",
+    "locale": "LK"
+  },
+  {
+    "code": "249",
+    "pinyin": "SUDAN",
+    "name": "السودان",
+    "locale": "SD"
+  },
+  {
+    "code": "597",
+    "pinyin": "SULINAN",
+    "name": "Suriname",
+    "locale": "SR"
+  },
+  {
+    "code": "47",
+    "pinyin": "SIWAERBAHEYANGMAYAN",
+    "name": "Svalbard og Jan Mayen",
+    "locale": "SJ"
+  },
+  {
+    "code": "268",
+    "pinyin": "SIWEISHILAN",
+    "name": "Swaziland",
+    "locale": "SZ"
+  },
+  {
+    "code": "46",
+    "pinyin": "RUIDIAN",
+    "name": "Sverige",
+    "locale": "SE"
+  },
+  {
+    "code": "41",
+    "pinyin": "RUISHI",
+    "name": "Schweiz",
+    "locale": "CH"
+  },
+  {
+    "code": "963",
+    "pinyin": "XULIYA",
+    "name": "سوريا",
+    "locale": "SY"
+  },
+  {
+    "code": "886",
+    "pinyin": "ZHONGGUOTAIWANSHENG",
+    "name": "Taiwan",
+    "locale": "TW"
+  },
+  {
+    "code": "992",
+    "pinyin": "TAJIKESITAN",
+    "name": "Тоҷикистон",
+    "locale": "TJ"
+  },
+  {
+    "code": "255",
+    "pinyin": "TANSANGNIYA",
+    "name": "Tanzania",
+    "locale": "TZ"
+  },
+  {
+    "code": "66",
+    "pinyin": "TAIGUO",
+    "name": "ประเทศไทย",
+    "locale": "TH"
+  },
+  {
+    "code": "670",
+    "pinyin": "DONGDIWEN",
+    "name": "Timor-Leste",
+    "locale": "TL"
+  },
+  {
+    "code": "228",
+    "pinyin": "DUOGE",
+    "name": "Togo",
+    "locale": "TG"
+  },
+  {
+    "code": "690",
+    "pinyin": "TUOKELAO",
+    "name": "Tokelau",
+    "locale": "TK"
+  },
+  {
+    "code": "676",
+    "pinyin": "TANGJIA",
+    "name": "Tonga",
+    "locale": "TO"
+  },
+  {
+    "code": "1868",
+    "pinyin": "TELINIDAHEDUOBAGE",
+    "name": "Trinidad and Tobago",
+    "locale": "TT"
+  },
+  {
+    "code": "216",
+    "pinyin": "TUNISI",
+    "name": "تونس",
+    "locale": "TN"
+  },
+  {
+    "code": "90",
+    "pinyin": "TUERQI",
+    "name": "Türkiye",
+    "locale": "TR"
+  },
+  {
+    "code": "993",
+    "pinyin": "TUKUMANSITAN",
+    "name": "Türkmenistan",
+    "locale": "TM"
+  },
+  {
+    "code": "1649",
+    "pinyin": "TEKESIHEKAIKESIQUNDAO",
+    "name": "Turks and Caicos Islands",
+    "locale": "TC"
+  },
+  {
+    "code": "688",
+    "pinyin": "TUWALU",
+    "name": "Tuvalu",
+    "locale": "TV"
+  },
+  {
+    "code": "256",
+    "pinyin": "WUGANDA",
+    "name": "Uganda",
+    "locale": "UG"
+  },
+  {
+    "code": "380",
+    "pinyin": "WUKELAN",
+    "name": "Україна",
+    "locale": "UA"
+  },
+  {
+    "code": "971",
+    "pinyin": "ALIANQIU",
+    "name": "دولة الإمارات العربية المتحدة",
+    "locale": "AE"
+  },
+  {
+    "code": "44",
+    "pinyin": "YINGGUO",
+    "name": "United Kingdom",
+    "locale": "GB"
+  },
+  {
+    "code": "1",
+    "pinyin": "MEIGUO",
+    "name": "United States",
+    "locale": "US"
+  },
+  {
+    "code": "598",
+    "pinyin": "WULAGUI",
+    "name": "Uruguay",
+    "locale": "UY"
+  },
+  {
+    "code": "998",
+    "pinyin": "WUZIBIEKESITAN",
+    "name": "O‘zbekiston",
+    "locale": "UZ"
+  },
+  {
+    "code": "678",
+    "pinyin": "WANUATU",
+    "name": "Vanuatu",
+    "locale": "VU"
+  },
+  {
+    "code": "58",
+    "pinyin": "WEINEIRUILA",
+    "name": "Venezuela",
+    "locale": "VE"
+  },
+  {
+    "code": "84",
+    "pinyin": "YUENAN",
+    "name": "Việt Nam",
+    "locale": "VN"
+  },
+  {
+    "code": "1284",
+    "pinyin": "YINGSHUWEIERJINGQUNDAO",
+    "name": "British Virgin Islands",
+    "locale": "VG"
+  },
+  {
+    "code": "1340",
+    "pinyin": "MEISHUWEIERJINGQUNDAO",
+    "name": "United States Virgin Islands",
+    "locale": "VI"
+  },
+  {
+    "code": "681",
+    "pinyin": "WALISIHEFUTUNA",
+    "name": "Wallis et Futuna",
+    "locale": "WF"
+  },
+  {
+    "code": "967",
+    "pinyin": "YEMEN",
+    "name": "اليَمَن",
+    "locale": "YE"
+  },
+  {
+    "code": "260",
+    "pinyin": "ZANBIYA",
+    "name": "Zambia",
+    "locale": "ZM"
+  },
+  {
+    "code": "263",
+    "pinyin": "JINBABUWEI",
+    "name": "Zimbabwe",
+    "locale": "ZW"
+  }
+]

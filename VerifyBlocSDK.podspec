@@ -23,10 +23,14 @@ Pod::Spec.new do |s|
 
   s.homepage         = 'https://www.verifybloc.com'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'yangyu' => 'yu.yang@mintinglabs.com' }
-  s.source           = { :git => 'https://github.com/mintinglabs/kyc-verifybloc-sdk-ios-pod', :tag => s.version.to_s }
+  s.author           = { 'mintinglabs' => 'yu.yang@mintinglabs.com' }
+  s.source           = { :git => 'git@github.com:mintinglabs/kyc-verifybloc-sdk-ios-pod.git', :tag => s.version.to_s }
+  
+  s.platform = :ios, '12.0'
 
-  s.ios.deployment_target = '10.0'
+  # Flutter.framework does not contain a i386 slice.
+  s.pod_target_xcconfig = { 'DEFINES_MODULE' => 'YES', 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'i386' }
+  s.swift_version = '5.0'
   
   s.vendored_frameworks = ['VerifyBlocSDK/Frameworks/VerifyBloc.xcframework']
   s.resource = 'VerifyBlocSDK/Bundles/VerifyBloc.bundle'

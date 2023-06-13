@@ -85,7 +85,7 @@
 "kycVerifyStatusSubmitAgain" = "Magsumite ulit";
 "kycVerifyStatusUnderReviewTip" = "Aabisuhan ka namin sa sandaling nakumpleto ang iyong beripikasyon Ito";
 "kycVerifyStatusRejectResubmissionTip" = "Mangyaring magsumite muli ng iyong aplikasyon para sa pagpapatunay.";
-"kycVerifyStatusRejectFinalTip1" = "Hindi namin ma-verify ang iyong profile. Mangyaring makipag-ugnayan sa";
+"kycVerifyStatusRejectFinalTip1" = "Hindi namin ma-verify ang iyong profile. Mangyaring Makipag-ugnay sa amin";
 "kycVerifyStatusRejectFinalTipLinkAddress" = "support@verifybloc.com";
 "kycVerifyStatusRejectFinalTip2" = " para sa karagdagang mga detalye.";
 "kycVerifyStatusApprovedTip" = "Ang iyong KYC application ay kumpleto at na-aprubahan!";
@@ -144,5 +144,5 @@
 "kycCorporateDocumentUploadSelectMenuTakePhoto" = "Kumuha ng litrato";
 "kycCorporateDocumentUploadSelectMenuChooseFiles" = "Pumili ng mga file";
 "emailInvalidError" = "Tiyakin na tama ang iyong email address";
-"kycBottomContactUsTips" = "Hindi mahanap ang uri ng iyong dokumento o bansang nag-isyu? Makipag-ugnayan sa amin";
+"kycBottomContactUsTips" = "Hindi mahanap ang uri ng iyong dokumento o bansang nag-isyu? Makipag-ugnay sa amin";
 "kycSomethingWentWrong" = "%@ - May nangyaring mali. Subukan muli mamaya.";

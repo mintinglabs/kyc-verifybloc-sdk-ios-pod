@@ -85,7 +85,7 @@
 "kycVerifyStatusSubmitAgain" = "tekrar gönder";
 "kycVerifyStatusUnderReviewTip" = "Doğrulamanız tamamlandığında sizi bilgilendireceğiz.";
 "kycVerifyStatusRejectResubmissionTip" = "Lütfen doğrulama başvurunuzu yeniden gönderin.";
-"kycVerifyStatusRejectFinalTip1" = "Profilinizi doğrulayamadık. Lütfen iletişime geçin";
+"kycVerifyStatusRejectFinalTip1" = "Profilinizi doğrulayamadık. Lütfen Bize Ulaşın";
 "kycVerifyStatusRejectFinalTipLinkAddress" = "support@verifybloc.com";
 "kycVerifyStatusRejectFinalTip2" = " ile iletişime geçin.";
 "kycVerifyStatusApprovedTip" = "KYC başvurunuz tamamlandı ve onaylandı!";
@@ -111,7 +111,7 @@
 "kycCorporateIdentityItemContent3" = "İşletmeniz bulunamadıysa, bu ayrıntıları doğrulamak için kabul edilen belgeleri yüklemeniz gerekebilir.";
 "kycCorporateLocatedTitle" = "Organizasyonunuz nerede bulunuyor?";
 "kycBottomWarmTips" = "Belgenizin türünü veya verildiği ülkeyi bulamıyor musunuz?";
-"kycBottomTermsLabel" = "\"İleri\"yi tıklayarak, Şartlar ve Koşullarımızı kabul etmiş ve kişisel verilerinizin işlenmesine onay vermiş sayılırsınız.";
+"kycBottomTermsLabel" = "\"İleri\"yi tıklayarak, Şartlar ve Koşullar ve Şartlar kabul etmiş ve kişisel verilerinizin işlenmesine onay vermiş sayılırsınız.";
 "kycBottomTermsLabelHighLightSpan" = "Koşullar ve Şartlar";
 "kycCorporateDetailTitle" = "Kuruluş ayrıntıları";
 "kycCorporateDetailSubtile" = "Bu ayrıntıları kullanarak, gerçek olduğunu onaylamak için örgütünüzün resmi kaydını arayacağız. Eşleşme yoksa, bu bilgileri doğrulamak için belgeler yükleyebilirsiniz.";

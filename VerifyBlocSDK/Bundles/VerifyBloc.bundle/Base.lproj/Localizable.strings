@@ -85,7 +85,7 @@
 "kycVerifyStatusSubmitAgain" = "Submit again";
 "kycVerifyStatusUnderReviewTip" = "We will notify you once your verification is completed.";
 "kycVerifyStatusRejectResubmissionTip" = "Please resubmit your application for verification.";
-"kycVerifyStatusRejectFinalTip1" = "We could not verify your profile. Please contact";
+"kycVerifyStatusRejectFinalTip1" = "We could not verify your profile.Please contact";
 "kycVerifyStatusRejectFinalTipLinkAddress" = "support@verifybloc.com";
 "kycVerifyStatusRejectFinalTip2" = "for more details.";
 "kycVerifyStatusApprovedTip" = "Your KYC application is completed and approved!";
@@ -111,8 +111,8 @@
 "kycCorporateIdentityItemContent3" = "You may need to upload accepted documents to confirm these details if your business is not found.";
 "kycCorporateLocatedTitle" = "What is your organisation located?";
 "kycBottomWarmTips" = "Can't find your document type or country of issue?";
-"kycBottomTermsLabel" = "By tapping “Next”, you accept our Terms &amp; Conditions and agree to our processing of your personal data.";
-"kycBottomTermsLabelHighLightSpan" = "Terms &amp; Conditions";
+"kycBottomTermsLabel" = "By tapping “Next”, you accept our Terms & Conditions and agree to our processing of your personal data.";
+"kycBottomTermsLabelHighLightSpan" = "Terms & Conditions";
 "kycCorporateDetailTitle" = "Organisation details";
 "kycCorporateDetailSubtile" = "We’ll use these details to look up an official record of your organisation to confirm that it’s real. If there’s no match, you can upload documents to verify this information.";
 "kycCorporateDetailName" = "Organisation name";

@@ -85,7 +85,7 @@
 "kycVerifyStatusSubmitAgain" = "Hantar semula";
 "kycVerifyStatusUnderReviewTip" = "Kami akan memberitahu anda setelah pengesahan anda selesai.";
 "kycVerifyStatusRejectResubmissionTip" = "Sila kemukakan semula permohonan anda untuk pengesahan.";
-"kycVerifyStatusRejectFinalTip1" = "Kami tidak dapat mengesahkan profil anda. Sila hubungi";
+"kycVerifyStatusRejectFinalTip1" = "Kami tidak dapat mengesahkan profil anda. Sila Hubungi Kami";
 "kycVerifyStatusRejectFinalTipLinkAddress" = "support@verifybloc.com";
 "kycVerifyStatusRejectFinalTip2" = " untuk mendapatkan butiran lanjut.";
 "kycVerifyStatusApprovedTip" = "Permohonan KYC anda telah selesai dan diluluskan!";

@@ -85,7 +85,7 @@
 "kycVerifyStatusSubmitAgain" = "再度送信";
 "kycVerifyStatusUnderReviewTip" = "審査が完了しましたらご連絡いたします。通";
 "kycVerifyStatusRejectResubmissionTip" = "検証のために、申請書を再提出してください。";
-"kycVerifyStatusRejectFinalTip1" = "プロファイルを確認できませんでした。ご連絡ください";
+"kycVerifyStatusRejectFinalTip1" = "プロファイルを確認できませんでした。ださいお問い合わせ先";
 "kycVerifyStatusRejectFinalTipLinkAddress" = "support@verifybloc.com";
 "kycVerifyStatusRejectFinalTip2" = "までお問い合わせください。";
 "kycVerifyStatusApprovedTip" = "KYCアプリケーションが完了し、承認されました！";

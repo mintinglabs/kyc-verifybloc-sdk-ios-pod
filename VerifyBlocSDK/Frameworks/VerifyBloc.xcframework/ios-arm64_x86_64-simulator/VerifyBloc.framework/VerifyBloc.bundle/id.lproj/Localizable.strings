@@ -85,7 +85,7 @@
 "kycVerifyStatusSubmitAgain" = "Kirim lagi";
 "kycVerifyStatusUnderReviewTip" = "Kami akan memberi tahu Anda setelah verifikasi Anda selesai. ";
 "kycVerifyStatusRejectResubmissionTip" = "Silakan ajukan ulang aplikasi verifikasi Anda.";
-"kycVerifyStatusRejectFinalTip1" = "Kami tidak dapat memverifikasi profil Anda. Silakan hubungi";
+"kycVerifyStatusRejectFinalTip1" = "Kami tidak dapat memverifikasi profil Anda. Silakan Hubungi kami";
 "kycVerifyStatusRejectFinalTipLinkAddress" = "support@verifybloc.com";
 "kycVerifyStatusRejectFinalTip2" = " untuk detail lebih lanjut.";
 "kycVerifyStatusApprovedTip" = "Aplikasi KYC Anda telah selesai dan disetujui!";
@@ -112,7 +112,7 @@
 "kycCorporateLocatedTitle" = "Di mana organisasi Anda berlokasi?";
 "kycBottomWarmTips" = "Tidak dapat menemukan jenis dokumen atau negara penerbit?";
 "kycBottomTermsLabel" = "Dengan mengetuk \"Berikutnya\", Anda menerima Syarat & Ketentuan kami dan menyetujui pemrosesan data pribadi Anda oleh kami.";
-"kycBottomTermsLabelHighLightSpan" = "Syarat dan Ketentuan";
+"kycBottomTermsLabelHighLightSpan" = "Syarat & Ketentuan";
 "kycCorporateDetailTitle" = "Rincian organisasi";
 "kycCorporateDetailSubtile" = "Kami akan menggunakan rincian ini untuk mencari catatan resmi tentang organisasi Anda untuk memastikan bahwa itu nyata. Jika tidak ada yang cocok, Anda dapat mengunggah dokumen untuk memverifikasi informasi ini.";
 "kycCorporateDetailName" = "Nama organisasi";

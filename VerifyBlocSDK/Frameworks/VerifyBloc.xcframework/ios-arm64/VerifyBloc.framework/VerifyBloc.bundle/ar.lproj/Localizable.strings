@@ -42,8 +42,8 @@
 "kycVerifyProcessCaptureIdCardFront" = "بطاقة الهوية الأمامية";
 "kycVerifyProcessCaptureIdCardBack" = "بطاقة الهوية الخلفية";
 "kycVerifyProcessCapturePassport" = "جواز سفر";
-"kycVerifyProcessCaptureDriverLicenseFront" = "واجهة رخصة القيادة";
-"kycVerifyProcessCaptureDriverLicenseBack" = "الجزء الخلفي من رخصة القيادة";
+"kycVerifyProcessCaptureDriverLicenseFront" = "الجزء الخلفي من رخصة القيادة";
+"kycVerifyProcessCaptureDriverLicenseBack" = "رخصة القيادة خلفي";
 "kycVerifyProcessCaptureSelfie" = "سيلفي";
 "kycVerifyProcessCaptureIdCardFrontTip" = "التقط صورة للوجه الأمامي لوثيقة هويتك";
 "kycVerifyProcessCaptureIdCardBackTip" = "التقط صورة للجزء الخلفي من وثيقة هويتك";
@@ -85,7 +85,7 @@
 "kycVerifyStatusSubmitAgain" = "إرسال مرة أخرى";
 "kycVerifyStatusUnderReviewTip" = "سنقوم بإخطارك بمجرد اكتمال التحقق الخاص بك. ";
 "kycVerifyStatusRejectResubmissionTip" = " يرجى إعادة تقديم طلب التحقق الخاص بك.";
-"kycVerifyStatusRejectFinalTip1" = "لم نتمكن من التحقق من ملف التعريف الخاص بك. يرجى الاتصال بـ";
+"kycVerifyStatusRejectFinalTip1" = "لم نتمكن من التحقق من ملف التعريف الخاص بك. يرجى اتصل بنا";
 "kycVerifyStatusRejectFinalTipLinkAddress" = "support@verifybloc.com";
 "kycVerifyStatusRejectFinalTip2" = " للحصول على مزيد من التفاصيل.";
 "kycVerifyStatusApprovedTip" = "تم إكمال طلب التحقق الخاص بك وتم الموافقة عليه!";
@@ -111,7 +111,7 @@
 "kycCorporateIdentityItemContent3" = "قد تحتاج إلى تحميل المستندات المقبولة لتأكيد هذه التفاصيل إذا لم يتم العثور على عملك.";
 "kycCorporateLocatedTitle" = "أين يقع منظمتك؟";
 "kycBottomWarmTips" = " لا يمكن العثور على نوع المستند أو بلد الإصدار الخاص بك؟";
-"kycBottomTermsLabel" = "عند الضغط على \"التالي\" ، فإنك تقبل شروطنا وأحكامنا وتوافق على معالجة بياناتك الشخصية.";
+"kycBottomTermsLabel" = "بالنقر فوق \"التالي\" ، فإنك تقبل الشروط والأحكام لدينا والموافقة على معالجة بياناتك الشخصية.\n";
 "kycBottomTermsLabelHighLightSpan" = "الشروط والأحكام";
 "kycCorporateDetailTitle" = "تفاصيل المنظمة";
 "kycCorporateDetailSubtile" = "سنستخدم هذه التفاصيل للبحث عن سجل رسمي لمؤسستك وتأكيد أنها حقيقية. إذا لم يتم العثور على تطابق، يمكنك تحميل المستندات للتحقق من هذه المعلومات.";

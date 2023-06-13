@@ -85,7 +85,7 @@
 "kycVerifyStatusSubmitAgain" = "Invia di nuovo";
 "kycVerifyStatusUnderReviewTip" = "Ti informeremo una volta completata la verifica. ";
 "kycVerifyStatusRejectResubmissionTip" = "Si prega di inviare nuovamente la domanda di verifica.";
-"kycVerifyStatusRejectFinalTip1" = "Non abbiamo potuto verificare il tuo profilo. Si prega di contattare";
+"kycVerifyStatusRejectFinalTip1" = "Non abbiamo potuto verificare il tuo profilo. Si prega di Contattaci";
 "kycVerifyStatusRejectFinalTipLinkAddress" = "support@verifybloc.com";
 "kycVerifyStatusRejectFinalTip2" = " per maggiori dettagli.";
 "kycVerifyStatusApprovedTip" = "La tua richiesta KYC è completata e approvata!";
@@ -111,7 +111,7 @@
 "kycCorporateIdentityItemContent3" = "Potrebbe essere necessario caricare documenti accettati per confermare questi dettagli se la tua attività non viene trovata.";
 "kycCorporateLocatedTitle" = "Dove si trova la tua organizzazione?";
 "kycBottomWarmTips" = "Non riesci a trovare il tipo di documento o il paese di emissione?";
-"kycBottomTermsLabel" = "Tocca \"Avanti\" per accettare i nostri Termini e condizioni e per acconsentire al trattamento dei tuoi dati personali.";
+"kycBottomTermsLabel" = "Tocca \"Avanti\" per accettare i nostri Termini e Condizioni e per acconsentire al trattamento dei tuoi dati personali.";
 "kycBottomTermsLabelHighLightSpan" = "Termini e Condizioni";
 "kycCorporateDetailTitle" = "Dettagli dell'organizzazione";
 "kycCorporateDetailSubtile" = "Utilizzeremo questi dettagli per cercare un record ufficiale della tua organizzazione per confermare che sia reale. Se non c'è una corrispondenza, puoi caricare documenti per verificare queste informazioni.";

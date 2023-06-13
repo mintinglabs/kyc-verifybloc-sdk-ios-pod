@@ -85,7 +85,7 @@
 "kycVerifyStatusSubmitAgain" = "Gửi lại";
 "kycVerifyStatusUnderReviewTip" = "Chúng tôi sẽ thông báo cho bạn sau khi xác minh của bạn hoàn tất. ";
 "kycVerifyStatusRejectResubmissionTip" = "Vui lòng gửi lại đơn xin xác minh của bạn.";
-"kycVerifyStatusRejectFinalTip1" = "Chúng tôi không thể xác minh hồ sơ của bạn. Vui lòng liên hệ với";
+"kycVerifyStatusRejectFinalTip1" = "Chúng tôi không thể xác minh hồ sơ của bạn. Vui lòng lLiên hệ với chúng tôi";
 "kycVerifyStatusRejectFinalTipLinkAddress" = "support@verifybloc.com";
 "kycVerifyStatusRejectFinalTip2" = " để biết thêm chi tiết.";
 "kycVerifyStatusApprovedTip" = "Đơn đăng ký KYC của bạn đã hoàn thành và được chấp thuận!";
@@ -112,7 +112,7 @@
 "kycCorporateLocatedTitle" = "Tổ chức của bạn đặt ở đâu?";
 "kycBottomWarmTips" = "Không tìm thấy loại tài liệu hoặc quốc gia phát hành của bạn?";
 "kycBottomTermsLabel" = "Bằng cách nhấp vào “Tiếp theo”, bạn chấp nhận Điều khoản & Điều kiện của chúng tôi và đồng ý với việc chúng tôi xử lý dữ liệu cá nhân của bạn.";
-"kycBottomTermsLabelHighLightSpan" = "Điều khoản và Điều kiện";
+"kycBottomTermsLabelHighLightSpan" = "Điều khoản & Điều kiện";
 "kycCorporateDetailTitle" = "Chi tiết tổ chức";
 "kycCorporateDetailSubtile" = "Chúng tôi sẽ sử dụng các chi tiết này để tìm kiếm hồ sơ chính thức của tổ chức của bạn để xác nhận rằng nó là thật sự. Nếu không có kết quả phù hợp, bạn có thể tải tài liệu lên để xác minh thông tin này.";
 "kycCorporateDetailName" = "Tên tổ chức";

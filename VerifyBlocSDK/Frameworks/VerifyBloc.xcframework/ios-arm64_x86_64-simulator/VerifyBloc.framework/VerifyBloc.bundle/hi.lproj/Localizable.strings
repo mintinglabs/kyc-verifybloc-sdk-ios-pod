@@ -85,7 +85,7 @@
 "kycVerifyStatusSubmitAgain" = "फिर से सबमिट करें";
 "kycVerifyStatusUnderReviewTip" = "एक बार आपका सत्यापन पूरा हो जाने पर हम आपको सूचित करेंगे। ";
 "kycVerifyStatusRejectResubmissionTip" = "कृपया सत्यापन के लिए अपनी अनुप्रयोग को दोबारा सबमिट करें।";
-"kycVerifyStatusRejectFinalTip1" = "हम आपकी प्रोफ़ाइल को सत्यापित नहीं कर सके। कृपया संपर्क करें";
+"kycVerifyStatusRejectFinalTip1" = "हम आपकी प्रोफ़ाइल को सत्यापित नहीं कर सके। कृपया हमें संपर्क करें";
 "kycVerifyStatusRejectFinalTipLinkAddress" = "support@verifybloc.com";
 "kycVerifyStatusRejectFinalTip2" = " संपर्क करें।";
 "kycVerifyStatusApprovedTip" = "आपका KYC आवेदन पूर्ण हो गया और स्वीकृत हो गया है!";

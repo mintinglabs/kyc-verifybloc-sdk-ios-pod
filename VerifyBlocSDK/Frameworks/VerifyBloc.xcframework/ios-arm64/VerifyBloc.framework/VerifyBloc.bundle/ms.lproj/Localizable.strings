@@ -38,7 +38,7 @@
 "kycVerifyDocumentIdCard" = "Kad pengenalan";
 "kycVerifyDocumentPassport" = "Pasport";
 "kycVerifyDocumentDriverLicense" = "Lesen memandu";
-"kycVerifyDocumentResidencePermit" = "Permit kediaman\n";
+"kycVerifyDocumentResidencePermit" = "Permit kediaman";
 "kycVerifyProcessCaptureIdCardFront" = "Muka depan kad pengenalan";
 "kycVerifyProcessCaptureIdCardBack" = "Belakang kad pengenalan";
 "kycVerifyProcessCapturePassport" = "Pasport";

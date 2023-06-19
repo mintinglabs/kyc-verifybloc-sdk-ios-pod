@@ -10,7 +10,7 @@
 		</data>
 		<key>Headers/VerifyBloc-Swift.h</key>
 		<data>
-		Q9J72fb8x+J8ptODPk+lmvVXVBQ=
+		HWovfX/9RjDveZmNYdsBhpn5gYc=
 		</data>
 		<key>Headers/VerifyBloc.h</key>
 		<data>
@@ -22,7 +22,7 @@
 		</data>
 		<key>Modules/VerifyBloc.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		iXfchCvHMoLf+Rv2c+YGAx5GVQE=
+		NOCsZ8mFSv9Q7awa37uWaftIarM=
 		</data>
 		<key>Modules/VerifyBloc.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Modules/VerifyBloc.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		J0zfPR6tWxjjUv2ZtnshY9Hii8w=
+		Vt7j1r7YhtL9xICmhVsrzLg5FQM=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -729,11 +729,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Q9J72fb8x+J8ptODPk+lmvVXVBQ=
+			HWovfX/9RjDveZmNYdsBhpn5gYc=
 			</data>
 			<key>hash2</key>
 			<data>
-			j0Y8WKelv0VBwaV8PuDwDtEdxWXDGZaLAy0xOx2Q348=
+			nFfU6tcAu7ewTa880QzUTY47C+E+0j85cuHO3WIoLIw=
 			</data>
 		</dict>
 		<key>Headers/VerifyBloc.h</key>
@@ -751,11 +751,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			iXfchCvHMoLf+Rv2c+YGAx5GVQE=
+			NOCsZ8mFSv9Q7awa37uWaftIarM=
 			</data>
 			<key>hash2</key>
 			<data>
-			hLM3lKQTgfAcb9htGT15YY8cFdod+s+mJfWTPkcJAnU=
+			990qY7ItESvmxG4SsKDyAM9JZTb92Sh+vZBA1bptMBM=
 			</data>
 		</dict>
 		<key>Modules/VerifyBloc.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -795,11 +795,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			J0zfPR6tWxjjUv2ZtnshY9Hii8w=
+			Vt7j1r7YhtL9xICmhVsrzLg5FQM=
 			</data>
 			<key>hash2</key>
 			<data>
-			dY4vokvZk8TwTHzjTUjTxgc0THNSJ2/iw7CXjMKPN0c=
+			+rZ76bDsCQQ9AdCOiPFgFHzUxKl6q7P40O1y4d+dFQg=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

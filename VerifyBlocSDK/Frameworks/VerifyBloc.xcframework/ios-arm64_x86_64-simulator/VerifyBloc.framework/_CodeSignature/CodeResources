@@ -10,7 +10,7 @@
 		</data>
 		<key>Headers/VerifyBloc-Swift.h</key>
 		<data>
-		JmGdCCvZcXoXCLxoaf2Ttue7JTw=
+		6KEEFsWvv3inDlkXW/o40qpekwQ=
 		</data>
 		<key>Headers/VerifyBloc.h</key>
 		<data>
@@ -22,7 +22,7 @@
 		</data>
 		<key>Modules/VerifyBloc.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		iXfchCvHMoLf+Rv2c+YGAx5GVQE=
+		NOCsZ8mFSv9Q7awa37uWaftIarM=
 		</data>
 		<key>Modules/VerifyBloc.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -38,11 +38,11 @@
 		</data>
 		<key>Modules/VerifyBloc.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		waI2tUXptq2GsoXy+PE66TfnhRo=
+		ELG99Bdxl6WRdxKa8F8khhgYmfg=
 		</data>
 		<key>Modules/VerifyBloc.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		iXfchCvHMoLf+Rv2c+YGAx5GVQE=
+		NOCsZ8mFSv9Q7awa37uWaftIarM=
 		</data>
 		<key>Modules/VerifyBloc.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -58,7 +58,7 @@
 		</data>
 		<key>Modules/VerifyBloc.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		wuh66I6euj760+uFobnG6ZEK6A0=
+		MemDHAUwRBh4qNhAMYhDXjf/lsU=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -749,11 +749,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			JmGdCCvZcXoXCLxoaf2Ttue7JTw=
+			6KEEFsWvv3inDlkXW/o40qpekwQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			KeV5H847eAcvxinvpO089U3oRpottVrhvClj8cTVunw=
+			qMShn99iLNhUUUQ/+YA1mUlSQii7Nz8FHqdsyXazrMo=
 			</data>
 		</dict>
 		<key>Headers/VerifyBloc.h</key>
@@ -771,11 +771,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			iXfchCvHMoLf+Rv2c+YGAx5GVQE=
+			NOCsZ8mFSv9Q7awa37uWaftIarM=
 			</data>
 			<key>hash2</key>
 			<data>
-			hLM3lKQTgfAcb9htGT15YY8cFdod+s+mJfWTPkcJAnU=
+			990qY7ItESvmxG4SsKDyAM9JZTb92Sh+vZBA1bptMBM=
 			</data>
 		</dict>
 		<key>Modules/VerifyBloc.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -815,22 +815,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			waI2tUXptq2GsoXy+PE66TfnhRo=
+			ELG99Bdxl6WRdxKa8F8khhgYmfg=
 			</data>
 			<key>hash2</key>
 			<data>
-			1kLiM9DG17EaRMOzmTNDHoyc87ZF1aG9SBK7FVE9CwY=
+			2Chi/wkBie/bflMjHyrl2daaWgOmgR4uRE2kUScRbyU=
 			</data>
 		</dict>
 		<key>Modules/VerifyBloc.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			iXfchCvHMoLf+Rv2c+YGAx5GVQE=
+			NOCsZ8mFSv9Q7awa37uWaftIarM=
 			</data>
 			<key>hash2</key>
 			<data>
-			hLM3lKQTgfAcb9htGT15YY8cFdod+s+mJfWTPkcJAnU=
+			990qY7ItESvmxG4SsKDyAM9JZTb92Sh+vZBA1bptMBM=
 			</data>
 		</dict>
 		<key>Modules/VerifyBloc.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -870,11 +870,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			wuh66I6euj760+uFobnG6ZEK6A0=
+			MemDHAUwRBh4qNhAMYhDXjf/lsU=
 			</data>
 			<key>hash2</key>
 			<data>
-			GPbRAa6/iCKdicaCADF+jCwYA/CYbW1ptv0IhWGTCYk=
+			3oEqTvTGHlJQFdtUeABtvTdtv+DFARsXaw+vcD1r7BY=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

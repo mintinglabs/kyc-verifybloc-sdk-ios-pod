@@ -22,7 +22,7 @@
 		</data>
 		<key>Modules/VerifyBloc.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		NOCsZ8mFSv9Q7awa37uWaftIarM=
+		cMM06pXIXcRCohwhNb6MilGUPow=
 		</data>
 		<key>Modules/VerifyBloc.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -42,7 +42,7 @@
 		</data>
 		<key>Modules/VerifyBloc.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		NOCsZ8mFSv9Q7awa37uWaftIarM=
+		cMM06pXIXcRCohwhNb6MilGUPow=
 		</data>
 		<key>Modules/VerifyBloc.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -771,11 +771,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			NOCsZ8mFSv9Q7awa37uWaftIarM=
+			cMM06pXIXcRCohwhNb6MilGUPow=
 			</data>
 			<key>hash2</key>
 			<data>
-			990qY7ItESvmxG4SsKDyAM9JZTb92Sh+vZBA1bptMBM=
+			t4wJvGgyhwqRND5bc2h84wQ/jRCBeO18mH2L5tcIBSQ=
 			</data>
 		</dict>
 		<key>Modules/VerifyBloc.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -826,11 +826,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			NOCsZ8mFSv9Q7awa37uWaftIarM=
+			cMM06pXIXcRCohwhNb6MilGUPow=
 			</data>
 			<key>hash2</key>
 			<data>
-			990qY7ItESvmxG4SsKDyAM9JZTb92Sh+vZBA1bptMBM=
+			t4wJvGgyhwqRND5bc2h84wQ/jRCBeO18mH2L5tcIBSQ=
 			</data>
 		</dict>
 		<key>Modules/VerifyBloc.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>

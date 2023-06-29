@@ -12,14 +12,12 @@
 		607FACDB1AFB9204008FA782 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 607FACD91AFB9204008FA782 /* Main.storyboard */; };
 		607FACDD1AFB9204008FA782 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 607FACDC1AFB9204008FA782 /* Images.xcassets */; };
 		607FACE01AFB9204008FA782 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 607FACDE1AFB9204008FA782 /* LaunchScreen.xib */; };
-		E73754A90EE432BB751D876D /* Pods_VerifyBlocSDK_Example.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FF04762711060E3C19141157 /* Pods_VerifyBlocSDK_Example.framework */; };
+		B38876E5DCBF5BB262CF4F9A /* Pods_VerifyBlocSDK_Example.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 870E0FE097BC0DD6888F9DB2 /* Pods_VerifyBlocSDK_Example.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		1FA2ED9D874E4C460A7D3DDC /* VerifyBlocSDK.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = VerifyBlocSDK.podspec; path = ../VerifyBlocSDK.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		252FDA563981D5CA0135B650 /* Pods-VerifyBlocSDK_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-VerifyBlocSDK_Example.release.xcconfig"; path = "Target Support Files/Pods-VerifyBlocSDK_Example/Pods-VerifyBlocSDK_Example.release.xcconfig"; sourceTree = "<group>"; };
 		25D1B87740C4AEA7C76332D5 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
-		2AC43CDDD1C493B87B99A748 /* Pods-VerifyBlocSDK_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-VerifyBlocSDK_Tests.debug.xcconfig"; path = "Target Support Files/Pods-VerifyBlocSDK_Tests/Pods-VerifyBlocSDK_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		4EA4282CAD759B2D44C2FD37 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		607FACD01AFB9204008FA782 /* VerifyBlocSDK_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = VerifyBlocSDK_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD41AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -31,10 +29,9 @@
 		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
 		86AA76D72A2EE03600CC758B /* VerifyBlocSDK_Example.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = VerifyBlocSDK_Example.entitlements; sourceTree = "<group>"; };
-		BE994E6A46632B134B2AFD2D /* Pods_VerifyBlocSDK_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_VerifyBlocSDK_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		D868F737937D3C92936FB595 /* Pods-VerifyBlocSDK_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-VerifyBlocSDK_Tests.release.xcconfig"; path = "Target Support Files/Pods-VerifyBlocSDK_Tests/Pods-VerifyBlocSDK_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		F699F35700A6B27C247F3255 /* Pods-VerifyBlocSDK_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-VerifyBlocSDK_Example.debug.xcconfig"; path = "Target Support Files/Pods-VerifyBlocSDK_Example/Pods-VerifyBlocSDK_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		FF04762711060E3C19141157 /* Pods_VerifyBlocSDK_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_VerifyBlocSDK_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		870E0FE097BC0DD6888F9DB2 /* Pods_VerifyBlocSDK_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_VerifyBlocSDK_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		DFF22AD6CF9D0CD83FEE7C3A /* Pods-VerifyBlocSDK_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-VerifyBlocSDK_Example.debug.xcconfig"; path = "Target Support Files/Pods-VerifyBlocSDK_Example/Pods-VerifyBlocSDK_Example.debug.xcconfig"; sourceTree = "<group>"; };
+		E2454E88B501A55E03D16B37 /* Pods-VerifyBlocSDK_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-VerifyBlocSDK_Example.release.xcconfig"; path = "Target Support Files/Pods-VerifyBlocSDK_Example/Pods-VerifyBlocSDK_Example.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -42,13 +39,21 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E73754A90EE432BB751D876D /* Pods_VerifyBlocSDK_Example.framework in Frameworks */,
+				B38876E5DCBF5BB262CF4F9A /* Pods_VerifyBlocSDK_Example.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		381679F4B2C39D505E04925A /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				870E0FE097BC0DD6888F9DB2 /* Pods_VerifyBlocSDK_Example.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		607FACC71AFB9204008FA782 = {
 			isa = PBXGroup;
 			children = (
@@ -57,7 +62,7 @@
 				607FACE81AFB9204008FA782 /* Tests */,
 				607FACD11AFB9204008FA782 /* Products */,
 				DAE294DC8AACF84B63486D41 /* Pods */,
-				8930398F9CFB349E34F6ADB0 /* Frameworks */,
+				381679F4B2C39D505E04925A /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -119,22 +124,11 @@
 			name = "Podspec Metadata";
 			sourceTree = "<group>";
 		};
-		8930398F9CFB349E34F6ADB0 /* Frameworks */ = {
-			isa = PBXGroup;
-			children = (
-				FF04762711060E3C19141157 /* Pods_VerifyBlocSDK_Example.framework */,
-				BE994E6A46632B134B2AFD2D /* Pods_VerifyBlocSDK_Tests.framework */,
-			);
-			name = Frameworks;
-			sourceTree = "<group>";
-		};
 		DAE294DC8AACF84B63486D41 /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				F699F35700A6B27C247F3255 /* Pods-VerifyBlocSDK_Example.debug.xcconfig */,
-				252FDA563981D5CA0135B650 /* Pods-VerifyBlocSDK_Example.release.xcconfig */,
-				2AC43CDDD1C493B87B99A748 /* Pods-VerifyBlocSDK_Tests.debug.xcconfig */,
-				D868F737937D3C92936FB595 /* Pods-VerifyBlocSDK_Tests.release.xcconfig */,
+				DFF22AD6CF9D0CD83FEE7C3A /* Pods-VerifyBlocSDK_Example.debug.xcconfig */,
+				E2454E88B501A55E03D16B37 /* Pods-VerifyBlocSDK_Example.release.xcconfig */,
 			);
 			path = Pods;
 			sourceTree = "<group>";
@@ -146,12 +140,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 607FACEF1AFB9204008FA782 /* Build configuration list for PBXNativeTarget "VerifyBlocSDK_Example" */;
 			buildPhases = (
-				6108BA49C0B3C58C35277ECE /* [CP] Check Pods Manifest.lock */,
+				630C1DCB301185B210ED14C1 /* [CP] Check Pods Manifest.lock */,
 				607FACCC1AFB9204008FA782 /* Sources */,
 				607FACCD1AFB9204008FA782 /* Frameworks */,
 				607FACCE1AFB9204008FA782 /* Resources */,
-				150D7D2C7F9CD88062BA09B2 /* [CP] Embed Pods Frameworks */,
-				BCB20779022C08A2E9C60677 /* [CP] Copy Pods Resources */,
+				5BBAB40EA314026C3B9A0D25 /* [CP] Embed Pods Frameworks */,
+				1A6EEA22897B6237F2047961 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -212,7 +206,25 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
-		150D7D2C7F9CD88062BA09B2 /* [CP] Embed Pods Frameworks */ = {
+		1A6EEA22897B6237F2047961 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-VerifyBlocSDK_Example/Pods-VerifyBlocSDK_Example-resources.sh",
+				"${PODS_ROOT}/../../VerifyBlocSDK/Bundles/VerifyBloc.bundle",
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/VerifyBloc.bundle",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-VerifyBlocSDK_Example/Pods-VerifyBlocSDK_Example-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		5BBAB40EA314026C3B9A0D25 /* [CP] Embed Pods Frameworks */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -230,7 +242,7 @@
 			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-VerifyBlocSDK_Example/Pods-VerifyBlocSDK_Example-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
-		6108BA49C0B3C58C35277ECE /* [CP] Check Pods Manifest.lock */ = {
+		630C1DCB301185B210ED14C1 /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -250,24 +262,6 @@
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
 			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
-			showEnvVarsInLog = 0;
-		};
-		BCB20779022C08A2E9C60677 /* [CP] Copy Pods Resources */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-VerifyBlocSDK_Example/Pods-VerifyBlocSDK_Example-resources.sh",
-				"${PODS_ROOT}/../../VerifyBlocSDK/Bundles/VerifyBloc.bundle",
-			);
-			name = "[CP] Copy Pods Resources";
-			outputPaths = (
-				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/VerifyBloc.bundle",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-VerifyBlocSDK_Example/Pods-VerifyBlocSDK_Example-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 /* End PBXShellScriptBuildPhase section */
@@ -405,7 +399,7 @@
 		};
 		607FACF01AFB9204008FA782 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = F699F35700A6B27C247F3255 /* Pods-VerifyBlocSDK_Example.debug.xcconfig */;
+			baseConfigurationReference = DFF22AD6CF9D0CD83FEE7C3A /* Pods-VerifyBlocSDK_Example.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_ENTITLEMENTS = VerifyBlocSDK/VerifyBlocSDK_Example.entitlements;
@@ -423,7 +417,7 @@
 		};
 		607FACF11AFB9204008FA782 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 252FDA563981D5CA0135B650 /* Pods-VerifyBlocSDK_Example.release.xcconfig */;
+			baseConfigurationReference = E2454E88B501A55E03D16B37 /* Pods-VerifyBlocSDK_Example.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_ENTITLEMENTS = VerifyBlocSDK/VerifyBlocSDK_Example.entitlements;
@@ -432,6 +426,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				MODULE_NAME = ExampleApp;
+				ONLY_ACTIVE_ARCH = NO;
 				PRODUCT_BUNDLE_IDENTIFIER = network.mintex.kyc.presslogic.demo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_SWIFT3_OBJC_INFERENCE = Default;

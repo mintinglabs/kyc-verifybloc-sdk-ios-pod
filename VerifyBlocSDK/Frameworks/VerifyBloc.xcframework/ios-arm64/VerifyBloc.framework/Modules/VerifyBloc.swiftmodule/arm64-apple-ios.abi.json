@@ -4653,28 +4653,35 @@
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool+Extension.swift",
       "kind": "StringLiteral",
-      "offset": 2787,
+      "offset": 2142,
+      "length": 8,
+      "value": "\"random\""
+    },
+    {
+      "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool+Extension.swift",
+      "kind": "StringLiteral",
+      "offset": 2832,
       "length": 26,
       "value": "\"\/v1\/internal\/verify-code\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool+Extension.swift",
       "kind": "StringLiteral",
-      "offset": 3174,
+      "offset": 3219,
       "length": 32,
       "value": "\"\/v1\/internal\/verify-code\/check\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool+Extension.swift",
       "kind": "StringLiteral",
-      "offset": 4013,
+      "offset": 4058,
       "length": 32,
       "value": "\"\/v1\/internal\/corporates\/submit\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool+Extension.swift",
       "kind": "StringLiteral",
-      "offset": 4300,
+      "offset": 4345,
       "length": 13,
       "value": "\"enter-fetch\""
     },
@@ -6109,1435 +6116,1491 @@
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 5075,
+      "offset": 4548,
+      "length": 89,
+      "value": "\"url = \""
+    },
+    {
+      "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
+      "kind": "StringLiteral",
+      "offset": 4567,
+      "length": 1,
+      "value": "\" \nheaders = \""
+    },
+    {
+      "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
+      "kind": "Dictionary",
+      "offset": 4613,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
+      "kind": "StringLiteral",
+      "offset": 4617,
+      "length": 1,
+      "value": "\"\nparam = \""
+    },
+    {
+      "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
+      "kind": "StringLiteral",
+      "offset": 4636,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
+      "kind": "StringLiteral",
+      "offset": 4661,
+      "length": 40,
+      "value": "\"url = \""
+    },
+    {
+      "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
+      "kind": "StringLiteral",
+      "offset": 4680,
+      "length": 1,
+      "value": "\" \nparam = \""
+    },
+    {
+      "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
+      "kind": "StringLiteral",
+      "offset": 4700,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
+      "kind": "StringLiteral",
+      "offset": 5071,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "IntegerLiteral",
-      "offset": 5085,
+      "offset": 5081,
       "length": 7,
       "value": "999999"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 5133,
+      "offset": 5129,
       "length": 7,
       "value": "\"Error\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 5363,
+      "offset": 5359,
       "length": 5,
       "value": "\"GET\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 5394,
+      "offset": 5390,
       "length": 3,
       "value": "\"?\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 5466,
+      "offset": 5462,
       "length": 18,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 5473,
+      "offset": 5469,
       "length": 1,
       "value": "\"=\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 5482,
+      "offset": 5478,
       "length": 1,
       "value": "\"&\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "IntegerLiteral",
-      "offset": 5660,
+      "offset": 5656,
       "length": 3,
       "value": "100"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "IntegerLiteral",
-      "offset": 5667,
+      "offset": 5663,
       "length": 2,
       "value": "29"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 5692,
+      "offset": 5688,
       "length": 64,
       "value": "\"abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "IntegerLiteral",
-      "offset": 5780,
+      "offset": 5776,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 6300,
+      "offset": 6296,
       "length": 6,
       "value": "\"code\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 6351,
+      "offset": 6347,
       "length": 9,
       "value": "\"message\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "IntegerLiteral",
-      "offset": 6400,
+      "offset": 6396,
       "length": 3,
       "value": "200"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "IntegerLiteral",
-      "offset": 6415,
+      "offset": 6411,
       "length": 3,
       "value": "201"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 6630,
+      "offset": 6626,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "IntegerLiteral",
-      "offset": 6672,
+      "offset": 6668,
       "length": 3,
       "value": "500"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 6751,
+      "offset": 6747,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "FloatLiteral",
-      "offset": 7157,
+      "offset": 7153,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "FloatLiteral",
-      "offset": 7185,
+      "offset": 7181,
       "length": 7,
       "value": "1024.0"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "FloatLiteral",
-      "offset": 7239,
+      "offset": 7235,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "FloatLiteral",
-      "offset": 7272,
+      "offset": 7268,
       "length": 7,
       "value": "1024.0"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "FloatLiteral",
-      "offset": 7544,
+      "offset": 7540,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "FloatLiteral",
-      "offset": 7724,
+      "offset": 7720,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "IntegerLiteral",
-      "offset": 7969,
+      "offset": 7965,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "IntegerLiteral",
-      "offset": 7975,
+      "offset": 7971,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "FloatLiteral",
-      "offset": 8200,
+      "offset": 8196,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "FloatLiteral",
-      "offset": 8272,
+      "offset": 8268,
       "length": 7,
       "value": "1024.0"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "FloatLiteral",
-      "offset": 8338,
+      "offset": 8334,
       "length": 3,
       "value": "0.9"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "FloatLiteral",
-      "offset": 8395,
+      "offset": 8391,
       "length": 3,
       "value": "0.1"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "FloatLiteral",
-      "offset": 8543,
+      "offset": 8539,
       "length": 7,
       "value": "1024.0"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "FloatLiteral",
-      "offset": 8577,
+      "offset": 8573,
       "length": 3,
       "value": "0.1"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 9071,
+      "offset": 9067,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 9300,
+      "offset": 9296,
       "length": 20,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 9308,
+      "offset": 9304,
       "length": 1,
       "value": "\"=\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 9318,
+      "offset": 9314,
       "length": 1,
       "value": "\"&\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 9505,
+      "offset": 9501,
       "length": 4,
       "value": "\"\n\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 9512,
+      "offset": 9508,
       "length": 14,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
+      "kind": "StringLiteral",
+      "offset": 9521,
+      "length": 5,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
       "offset": 9525,
-      "length": 5,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
-      "kind": "StringLiteral",
-      "offset": 9529,
       "length": 4,
       "value": "\"\n\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 9536,
+      "offset": 9532,
       "length": 17,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
+      "kind": "StringLiteral",
+      "offset": 9548,
+      "length": 5,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
       "offset": 9552,
-      "length": 5,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
-      "kind": "StringLiteral",
-      "offset": 9556,
       "length": 4,
       "value": "\"\n\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 9574,
+      "offset": 9570,
       "length": 4,
       "value": "\"\n\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 9944,
+      "offset": 9940,
       "length": 38,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 9971,
+      "offset": 9967,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 9981,
+      "offset": 9977,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 10130,
+      "offset": 10126,
       "length": 6,
       "value": "\"POST\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 10170,
+      "offset": 10166,
       "length": 33,
       "value": "\"KYCV1-SHA256-RSA2048 \""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 10202,
+      "offset": 10198,
       "length": 24,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 10225,
+      "offset": 10221,
       "length": 15,
       "value": "\"Authorization\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 10275,
+      "offset": 10271,
       "length": 14,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 10288,
+      "offset": 10284,
       "length": 24,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 10311,
+      "offset": 10307,
       "length": 21,
       "value": "\"x-current-timestamp\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 10367,
+      "offset": 10363,
       "length": 35,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 10401,
+      "offset": 10397,
       "length": 24,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 10424,
+      "offset": 10420,
       "length": 18,
       "value": "\"x-current-app-id\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 10477,
+      "offset": 10473,
       "length": 38,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 10514,
+      "offset": 10510,
       "length": 24,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 10537,
+      "offset": 10533,
       "length": 22,
       "value": "\"x-current-partner-id\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 10594,
+      "offset": 10590,
       "length": 36,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 10629,
+      "offset": 10625,
       "length": 24,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 10652,
+      "offset": 10648,
       "length": 19,
       "value": "\"x-current-user-id\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 10706,
+      "offset": 10702,
       "length": 17,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 10722,
+      "offset": 10718,
       "length": 24,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 10745,
+      "offset": 10741,
       "length": 21,
       "value": "\"x-current-nonce-str\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 10801,
+      "offset": 10797,
       "length": 5,
       "value": "\"ios\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 10828,
+      "offset": 10824,
       "length": 20,
       "value": "\"x-current-platform\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 10883,
+      "offset": 10879,
       "length": 9,
       "value": "\"english\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 10914,
+      "offset": 10910,
       "length": 18,
       "value": "\"x-current-locale\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 10967,
+      "offset": 10963,
       "length": 10,
       "value": "\"INTERNAL\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 10999,
+      "offset": 10995,
       "length": 15,
       "value": "\"x-auth-schema\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 11049,
+      "offset": 11045,
       "length": 18,
       "value": "\"application\/json\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 11089,
+      "offset": 11085,
       "length": 8,
       "value": "\"Accept\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 11151,
+      "offset": 11147,
       "length": 31,
       "value": "\"Boundary-\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 11181,
+      "offset": 11177,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 11216,
+      "offset": 11212,
       "length": 43,
       "value": "\"multipart\/form-data; boundary=\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 11258,
+      "offset": 11254,
       "length": 24,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 11281,
+      "offset": 11277,
       "length": 14,
       "value": "\"Content-Type\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "IntegerLiteral",
-      "offset": 11539,
+      "offset": 11535,
       "length": 5,
       "value": "1024"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "IntegerLiteral",
-      "offset": 11557,
+      "offset": 11553,
       "length": 5,
       "value": "1024"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 11639,
+      "offset": 11635,
       "length": 7,
       "value": "\".jpeg\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 11760,
+      "offset": 11756,
       "length": 12,
       "value": "\"image\/jpeg\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 12107,
+      "offset": 12103,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "IntegerLiteral",
-      "offset": 12117,
+      "offset": 12113,
       "length": 7,
       "value": "999999"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 12165,
+      "offset": 12161,
       "length": 7,
       "value": "\"Error\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 12581,
+      "offset": 12577,
       "length": 19,
       "value": "\"--\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 12595,
+      "offset": 12591,
       "length": 1,
       "value": "\"\r\n\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 12739,
+      "offset": 12735,
       "length": 57,
       "value": "\"Content-Disposition: form-data; name=\"\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 12785,
+      "offset": 12781,
       "length": 1,
       "value": "\"\"\r\n\r\n\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 12831,
+      "offset": 12827,
       "length": 14,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 12840,
+      "offset": 12836,
       "length": 1,
       "value": "\"\r\n\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 12946,
+      "offset": 12942,
       "length": 77,
       "value": "\"Content-Disposition: form-data; name=\"file\"; filename=\"\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 13016,
+      "offset": 13012,
       "length": 1,
       "value": "\"\"\r\n\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 13054,
+      "offset": 13050,
       "length": 35,
       "value": "\"Content-Type: \""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 13080,
+      "offset": 13076,
       "length": 1,
       "value": "\"\r\n\r\n\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 13149,
+      "offset": 13145,
       "length": 6,
       "value": "\"\r\n\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 13186,
+      "offset": 13182,
       "length": 4,
       "value": "\"--\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 13220,
+      "offset": 13216,
       "length": 4,
       "value": "\"--\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 13709,
+      "offset": 13705,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 13938,
+      "offset": 13934,
       "length": 20,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 13946,
+      "offset": 13942,
       "length": 1,
       "value": "\"=\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 13956,
+      "offset": 13952,
       "length": 1,
       "value": "\"&\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 14098,
+      "offset": 14094,
       "length": 4,
       "value": "\"\n\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 14105,
+      "offset": 14101,
       "length": 14,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
+      "kind": "StringLiteral",
+      "offset": 14114,
+      "length": 5,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
       "offset": 14118,
-      "length": 5,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
-      "kind": "StringLiteral",
-      "offset": 14122,
       "length": 4,
       "value": "\"\n\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 14129,
+      "offset": 14125,
       "length": 17,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
+      "kind": "StringLiteral",
+      "offset": 14141,
+      "length": 5,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
       "offset": 14145,
-      "length": 5,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
-      "kind": "StringLiteral",
-      "offset": 14149,
       "length": 4,
       "value": "\"\n\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 14167,
+      "offset": 14163,
       "length": 4,
       "value": "\"\n\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 14537,
+      "offset": 14533,
       "length": 38,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 14564,
+      "offset": 14560,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 14574,
+      "offset": 14570,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 14723,
+      "offset": 14719,
       "length": 6,
       "value": "\"POST\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 14763,
+      "offset": 14759,
       "length": 33,
       "value": "\"KYCV1-SHA256-RSA2048 \""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 14795,
+      "offset": 14791,
       "length": 24,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 14818,
+      "offset": 14814,
       "length": 15,
       "value": "\"Authorization\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 14868,
+      "offset": 14864,
       "length": 14,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 14881,
+      "offset": 14877,
       "length": 24,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 14904,
+      "offset": 14900,
       "length": 21,
       "value": "\"x-current-timestamp\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 14960,
+      "offset": 14956,
       "length": 35,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 14994,
+      "offset": 14990,
       "length": 24,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 15017,
+      "offset": 15013,
       "length": 18,
       "value": "\"x-current-app-id\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 15070,
+      "offset": 15066,
       "length": 38,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 15107,
+      "offset": 15103,
       "length": 24,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 15130,
+      "offset": 15126,
       "length": 22,
       "value": "\"x-current-partner-id\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 15187,
+      "offset": 15183,
       "length": 36,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 15222,
+      "offset": 15218,
       "length": 24,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 15245,
+      "offset": 15241,
       "length": 19,
       "value": "\"x-current-user-id\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 15299,
+      "offset": 15295,
       "length": 17,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 15315,
+      "offset": 15311,
       "length": 24,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 15338,
+      "offset": 15334,
       "length": 21,
       "value": "\"x-current-nonce-str\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 15394,
+      "offset": 15390,
       "length": 5,
       "value": "\"ios\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 15421,
+      "offset": 15417,
       "length": 20,
       "value": "\"x-current-platform\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 15476,
+      "offset": 15472,
       "length": 9,
       "value": "\"english\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 15507,
+      "offset": 15503,
       "length": 18,
       "value": "\"x-current-locale\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 15560,
+      "offset": 15556,
       "length": 10,
       "value": "\"INTERNAL\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 15592,
+      "offset": 15588,
       "length": 15,
       "value": "\"x-auth-schema\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 15642,
+      "offset": 15638,
       "length": 18,
       "value": "\"application\/json\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 15682,
+      "offset": 15678,
       "length": 8,
       "value": "\"Accept\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 15744,
+      "offset": 15740,
       "length": 31,
       "value": "\"Boundary-\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 15774,
+      "offset": 15770,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 15809,
+      "offset": 15805,
       "length": 43,
       "value": "\"multipart\/form-data; boundary=\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 15851,
+      "offset": 15847,
       "length": 24,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 15874,
+      "offset": 15870,
       "length": 14,
       "value": "\"Content-Type\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 16039,
+      "offset": 16035,
       "length": 6,
       "value": "\".mp4\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 16158,
+      "offset": 16154,
       "length": 11,
       "value": "\"video\/mp4\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 16503,
+      "offset": 16499,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "IntegerLiteral",
-      "offset": 16513,
+      "offset": 16509,
       "length": 7,
       "value": "999999"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 16561,
+      "offset": 16557,
       "length": 7,
       "value": "\"Error\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 17055,
+      "offset": 17051,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 17284,
+      "offset": 17280,
       "length": 20,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 17292,
+      "offset": 17288,
       "length": 1,
       "value": "\"=\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 17302,
+      "offset": 17298,
       "length": 1,
       "value": "\"&\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 17444,
+      "offset": 17440,
       "length": 4,
       "value": "\"\n\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 17451,
+      "offset": 17447,
       "length": 14,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
+      "kind": "StringLiteral",
+      "offset": 17460,
+      "length": 5,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
       "offset": 17464,
-      "length": 5,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
-      "kind": "StringLiteral",
-      "offset": 17468,
       "length": 4,
       "value": "\"\n\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 17475,
+      "offset": 17471,
       "length": 17,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
+      "kind": "StringLiteral",
+      "offset": 17487,
+      "length": 5,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
       "offset": 17491,
-      "length": 5,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
-      "kind": "StringLiteral",
-      "offset": 17495,
       "length": 4,
       "value": "\"\n\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 17513,
+      "offset": 17509,
       "length": 4,
       "value": "\"\n\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 17883,
+      "offset": 17879,
       "length": 38,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 17910,
+      "offset": 17906,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 17920,
+      "offset": 17916,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 18069,
+      "offset": 18065,
       "length": 6,
       "value": "\"POST\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 18109,
+      "offset": 18105,
       "length": 33,
       "value": "\"KYCV1-SHA256-RSA2048 \""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 18141,
+      "offset": 18137,
       "length": 24,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 18164,
+      "offset": 18160,
       "length": 15,
       "value": "\"Authorization\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 18214,
+      "offset": 18210,
       "length": 14,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 18227,
+      "offset": 18223,
       "length": 24,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 18250,
+      "offset": 18246,
       "length": 21,
       "value": "\"x-current-timestamp\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 18306,
+      "offset": 18302,
       "length": 35,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 18340,
+      "offset": 18336,
       "length": 24,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 18363,
+      "offset": 18359,
       "length": 18,
       "value": "\"x-current-app-id\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 18416,
+      "offset": 18412,
       "length": 38,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 18453,
+      "offset": 18449,
       "length": 24,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 18476,
+      "offset": 18472,
       "length": 22,
       "value": "\"x-current-partner-id\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 18533,
+      "offset": 18529,
       "length": 36,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 18568,
+      "offset": 18564,
       "length": 24,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 18591,
+      "offset": 18587,
       "length": 19,
       "value": "\"x-current-user-id\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 18645,
+      "offset": 18641,
       "length": 17,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 18661,
+      "offset": 18657,
       "length": 24,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 18684,
+      "offset": 18680,
       "length": 21,
       "value": "\"x-current-nonce-str\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 18740,
+      "offset": 18736,
       "length": 5,
       "value": "\"ios\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 18767,
+      "offset": 18763,
       "length": 20,
       "value": "\"x-current-platform\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 18822,
+      "offset": 18818,
       "length": 9,
       "value": "\"english\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 18853,
+      "offset": 18849,
       "length": 18,
       "value": "\"x-current-locale\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 18906,
+      "offset": 18902,
       "length": 10,
       "value": "\"INTERNAL\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 18938,
+      "offset": 18934,
       "length": 15,
       "value": "\"x-auth-schema\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 18988,
+      "offset": 18984,
       "length": 18,
       "value": "\"application\/json\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 19028,
+      "offset": 19024,
       "length": 8,
       "value": "\"Accept\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 19090,
+      "offset": 19086,
       "length": 31,
       "value": "\"Boundary-\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 19120,
+      "offset": 19116,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 19155,
+      "offset": 19151,
       "length": 43,
       "value": "\"multipart\/form-data; boundary=\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 19197,
+      "offset": 19193,
       "length": 24,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 19220,
+      "offset": 19216,
       "length": 14,
       "value": "\"Content-Type\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 19327,
+      "offset": 19323,
       "length": 6,
       "value": "\".pdf\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 19446,
+      "offset": 19442,
       "length": 10,
       "value": "\"text\/csv\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 19790,
+      "offset": 19786,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "IntegerLiteral",
-      "offset": 19800,
+      "offset": 19796,
       "length": 7,
       "value": "999999"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "StringLiteral",
-      "offset": 19848,
+      "offset": 19844,
       "length": 7,
       "value": "\"Error\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Http\/HttpTool.swift",
       "kind": "BooleanLiteral",
-      "offset": 20057,
+      "offset": 20053,
       "length": 5,
       "value": "false"
     },
@@ -26053,69 +26116,69 @@
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/VerifyWebVC.swift",
       "kind": "StringLiteral",
       "offset": 734,
-      "length": 44,
-      "value": "\"http:\/\/www.verifybloc.com\/terms-conditions\""
+      "length": 45,
+      "value": "\"https:\/\/www.verifybloc.com\/terms-conditions\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/VerifyWebVC.swift",
       "kind": "StringLiteral",
-      "offset": 987,
+      "offset": 988,
       "length": 9,
       "value": "\"#FFFFFF\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/VerifyWebVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 1220,
+      "offset": 1221,
       "length": 2,
       "value": "11"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/VerifyWebVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 1235,
+      "offset": 1236,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/VerifyWebVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 1321,
+      "offset": 1322,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/VerifyWebVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 1409,
+      "offset": 1410,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/VerifyWebVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 1493,
+      "offset": 1494,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/VerifyWebVC.swift",
       "kind": "StringLiteral",
-      "offset": 1704,
+      "offset": 1705,
       "length": 10,
       "value": "\"web_back\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/VerifyWebVC.swift",
       "kind": "StringLiteral",
-      "offset": 1776,
+      "offset": 1777,
       "length": 10,
       "value": "\"web_back\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/VerifyWebVC.swift",
       "kind": "StringLiteral",
-      "offset": 1850,
+      "offset": 1851,
       "length": 10,
       "value": "\"web_back\""
     },

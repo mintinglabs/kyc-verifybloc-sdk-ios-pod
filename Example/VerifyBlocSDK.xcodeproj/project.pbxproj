@@ -145,7 +145,7 @@
 				607FACCD1AFB9204008FA782 /* Frameworks */,
 				607FACCE1AFB9204008FA782 /* Resources */,
 				5BBAB40EA314026C3B9A0D25 /* [CP] Embed Pods Frameworks */,
-				1A6EEA22897B6237F2047961 /* [CP] Copy Pods Resources */,
+				1AFEF47E62D9BBB34C46784A /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -206,7 +206,7 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
-		1A6EEA22897B6237F2047961 /* [CP] Copy Pods Resources */ = {
+		1AFEF47E62D9BBB34C46784A /* [CP] Copy Pods Resources */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -232,10 +232,12 @@
 			inputPaths = (
 				"${PODS_ROOT}/Target Support Files/Pods-VerifyBlocSDK_Example/Pods-VerifyBlocSDK_Example-frameworks.sh",
 				"${BUILT_PRODUCTS_DIR}/SnapKit/SnapKit.framework",
+				"${PODS_XCFRAMEWORKS_BUILD_DIR}/VerifyBlocSDK/VerifyBloc.framework/VerifyBloc",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputPaths = (
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/SnapKit.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/VerifyBloc.framework",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -407,8 +409,9 @@
 				INFOPLIST_FILE = VerifyBlocSDK/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				MACH_O_TYPE = mh_execute;
 				MODULE_NAME = ExampleApp;
-				PRODUCT_BUNDLE_IDENTIFIER = network.mintex.kyc.presslogic.demo;
+				PRODUCT_BUNDLE_IDENTIFIER = network.mintex.kyc.presslogic.old.demo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_SWIFT3_OBJC_INFERENCE = Default;
 				SWIFT_VERSION = 4.0;
@@ -425,9 +428,10 @@
 				INFOPLIST_FILE = VerifyBlocSDK/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				MACH_O_TYPE = mh_execute;
 				MODULE_NAME = ExampleApp;
 				ONLY_ACTIVE_ARCH = NO;
-				PRODUCT_BUNDLE_IDENTIFIER = network.mintex.kyc.presslogic.demo;
+				PRODUCT_BUNDLE_IDENTIFIER = network.mintex.kyc.presslogic.old.demo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_SWIFT3_OBJC_INFERENCE = Default;
 				SWIFT_VERSION = 4.0;

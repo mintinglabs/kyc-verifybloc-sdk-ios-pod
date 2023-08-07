@@ -15,3 +15,4 @@ FOUNDATION_EXPORT const unsigned char VerifyBlocVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import
 #import <VerifyBloc/DataTool.h>
+#import <VerifyBloc/OpenCVWrapper.h>

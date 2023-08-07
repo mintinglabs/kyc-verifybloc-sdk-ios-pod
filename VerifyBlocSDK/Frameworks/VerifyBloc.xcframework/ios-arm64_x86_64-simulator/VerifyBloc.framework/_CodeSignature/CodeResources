@@ -8,13 +8,17 @@
 		<data>
 		y9WJMYWPtqE7r+0GUsF4uZclqEs=
 		</data>
+		<key>Headers/OpenCVWrapper.h</key>
+		<data>
+		tswXhHchH3SjLqFcRQXcSUrDWqw=
+		</data>
 		<key>Headers/VerifyBloc-Swift.h</key>
 		<data>
 		6KEEFsWvv3inDlkXW/o40qpekwQ=
 		</data>
 		<key>Headers/VerifyBloc.h</key>
 		<data>
-		R0Q5I2F4JjFgo5eRYwFd0bzGLcY=
+		vUnIjLv7KyAOBlhR7l4pjIPYhgA=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -22,7 +26,7 @@
 		</data>
 		<key>Modules/VerifyBloc.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		/AOnE+VJXTfv2ZdRZh4RulW42tQ=
+		W00yQ9Rh/bs8UbtIuLQYUNIg7dk=
 		</data>
 		<key>Modules/VerifyBloc.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -38,11 +42,11 @@
 		</data>
 		<key>Modules/VerifyBloc.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		CRzdEbpr97UBXgWsfBFwLeA4ztw=
+		BLueqf9SkszxdMiNhQ2kiL2LPJs=
 		</data>
 		<key>Modules/VerifyBloc.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		/AOnE+VJXTfv2ZdRZh4RulW42tQ=
+		W00yQ9Rh/bs8UbtIuLQYUNIg7dk=
 		</data>
 		<key>Modules/VerifyBloc.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -58,7 +62,7 @@
 		</data>
 		<key>Modules/VerifyBloc.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		f1IZFY/X0/ioa1SmqtNUkG3rpdM=
+		L8zDDiQP9ntNKGOOxZo7L+zQ6eo=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -68,7 +72,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			BlK4LSPtEKUbP6UkHMNwfXhyvs4=
+			q4hAyLXi1gt9G+Y9/QxcYtXJOR8=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -77,11 +81,23 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			J/wkiG01ESEhNj7M7JT+90gkxyg=
+			ZgDB64ZwBLw0nazAVrnMFoZm0DE=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>VerifyBloc.bundle/brightness.png</key>
+		<data>
+		gFTlEaI5fDhR8STZquPGaoCLrIE=
+		</data>
+		<key>VerifyBloc.bundle/brightness@2x.png</key>
+		<data>
+		ScdDjVbv6JPRLqR2f1mVk824bJU=
+		</data>
+		<key>VerifyBloc.bundle/brightness@3x.png</key>
+		<data>
+		0AUjEHxMDMWM6qZuxSYHW/UR/VM=
+		</data>
 		<key>VerifyBloc.bundle/confirm_connection.png</key>
 		<data>
 		JiVwjGs5lJ3qJhHAklKewSZYo4o=
@@ -126,7 +142,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			MVuqOo6OOY4ZjHng770zpQnQde0=
+			tqt2hAAMOKOqApRU1yXNn6f7jqw=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -183,7 +199,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			BlK4LSPtEKUbP6UkHMNwfXhyvs4=
+			q4hAyLXi1gt9G+Y9/QxcYtXJOR8=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -228,7 +244,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			T0Su7wXz6WChM1Y6A5S5vr/VKa4=
+			d6c0YZiqNG61U5bFi7o96cZSqys=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -237,7 +253,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			TO46en1bbsLDHMAqSWVAEG0V+dM=
+			D/LqO95pGh3qXKmSMYfD3KMk8tU=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -246,7 +262,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			AY/vzGtkPwWXt8h6fdD5aHW6L0M=
+			xESCrmkYv35wi0LUMVXT6lnm9rk=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -303,7 +319,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			JrBTthqsbzumKzbAu6Ai8Inc70A=
+			z3ZYoIpF9c9gc9ZWlLoUpOD3OUs=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -312,7 +328,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			WtSBNm4EAhffr7xpHqDPofcrIxE=
+			LVillgJjQgkIMkrJfqCrqrASews=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -321,7 +337,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			zdb6ipmtOSe2D2c3YVtN40IrQOg=
+			dVDYKrajyL56/gRuWNb7GrlXn5w=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -330,7 +346,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			wbU7/ZMSbXJyIxEB7gjbO75g5sM=
+			K0rPkLpfVh+RxleBrEXhTPiC6Nc=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -339,11 +355,23 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			1JAI/jJDHqA5mgLNl2oFnqsvcuw=
+			wPZODkNx/adZnZg0d36kYLUTlPk=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>VerifyBloc.bundle/kyc_details_edit.png</key>
+		<data>
+		AMD93/19rCF7I7gaIvFgIt0JngQ=
+		</data>
+		<key>VerifyBloc.bundle/kyc_details_edit@2x.png</key>
+		<data>
+		TfJ1lSZy+sV0CzFhGsoEA8ejqzY=
+		</data>
+		<key>VerifyBloc.bundle/kyc_details_edit@3x.png</key>
+		<data>
+		Xl//DmzqqBDmVwOtDkx3I2kCemU=
+		</data>
 		<key>VerifyBloc.bundle/loading_gif.gif</key>
 		<data>
 		CmqfiTzLOtylIWkvWkUDilOSCK8=
@@ -352,7 +380,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			h4lP9gMZu5tGlGqM7GNKqr86nbI=
+			JPirA1qIYAYnul4gEkttCAk+fIk=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -441,10 +469,6 @@
 		<data>
 		AmieJRkhXt7TJWraUpGQHOcY95Y=
 		</data>
-		<key>VerifyBloc.bundle/photo_gif.gif</key>
-		<data>
-		XYDEtVhoR+WLTj0R8erQ5YzLM2M=
-		</data>
 		<key>VerifyBloc.bundle/photo_light_off.png</key>
 		<data>
 		kA0O8nz+uCuHHfv6wzVF7NCkK74=
@@ -521,15 +545,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			mYWeyC6w/np9siFFqo9gr8IVzv4=
+			ymZkivszBE3mYq8bSV26I9AB3xI=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>VerifyBloc.bundle/selfie_gif.gif</key>
-		<data>
-		DbEzGE5OjpF0TbNOQIdOzyH5S50=
-		</data>
 		<key>VerifyBloc.bundle/snack_icon.png</key>
 		<data>
 		5swMO2Z0tC1zenJhSRL7PVTQNMU=
@@ -614,11 +634,167 @@
 		<data>
 		GAXAd4+ZwaYS34ymSfvIXIVWGs8=
 		</data>
+		<key>VerifyBloc.bundle/take_document_err1.png</key>
+		<data>
+		6FNI4irrgg3PwMLS0P/i3mV4L5g=
+		</data>
+		<key>VerifyBloc.bundle/take_document_err1@2x.png</key>
+		<data>
+		9s7N+Ymmg1Ws4+pp24WXt4EO+60=
+		</data>
+		<key>VerifyBloc.bundle/take_document_err1@3x.png</key>
+		<data>
+		TiPkBW4Px5qjNMATgfY2FDM+J3g=
+		</data>
+		<key>VerifyBloc.bundle/take_document_err2.png</key>
+		<data>
+		OvGFyNGN4YXgCHmsOeJQAZqAQNM=
+		</data>
+		<key>VerifyBloc.bundle/take_document_err2@2x.png</key>
+		<data>
+		zoMLHEiOmJaBFQFPLzsUPUjPHpU=
+		</data>
+		<key>VerifyBloc.bundle/take_document_err2@3x.png</key>
+		<data>
+		PuOjA1lSNaLzww28JnoLy4W3kwA=
+		</data>
+		<key>VerifyBloc.bundle/take_document_err3.png</key>
+		<data>
+		s13+du2d5N2U4dCJFJWCQaCzkAo=
+		</data>
+		<key>VerifyBloc.bundle/take_document_err3@2x.png</key>
+		<data>
+		RDfl5iSoUXDEdiNLP2G/Q/A2uhA=
+		</data>
+		<key>VerifyBloc.bundle/take_document_err3@3x.png</key>
+		<data>
+		TGoSWt7rcsiiKPutm81NNzA1wNs=
+		</data>
+		<key>VerifyBloc.bundle/take_document_err4.png</key>
+		<data>
+		0ECXPieiYGgvZOp1WMDdVdwPDiU=
+		</data>
+		<key>VerifyBloc.bundle/take_document_err4@2x.png</key>
+		<data>
+		HuS59euAov056UXTpQ2i0BML3ZY=
+		</data>
+		<key>VerifyBloc.bundle/take_document_err4@3x.png</key>
+		<data>
+		SeAG6NW5EkvsboRY/M0fYvClp5E=
+		</data>
+		<key>VerifyBloc.bundle/take_document_err5.png</key>
+		<data>
+		lWvmQE3+ZhO7Vzw+uk7PcDBXp/U=
+		</data>
+		<key>VerifyBloc.bundle/take_document_err5@2x.png</key>
+		<data>
+		kZ85p/eD/mNYcyDVumrcu8CKe2Q=
+		</data>
+		<key>VerifyBloc.bundle/take_document_err5@3x.png</key>
+		<data>
+		xcneeLBDizvIw6dgPgmonSVS+9A=
+		</data>
+		<key>VerifyBloc.bundle/take_document_err6.png</key>
+		<data>
+		aflgpglN488fworInXaMetISIKw=
+		</data>
+		<key>VerifyBloc.bundle/take_document_err6@2x.png</key>
+		<data>
+		D3FNNnJGPRM4bFG/iY4qZVkizYQ=
+		</data>
+		<key>VerifyBloc.bundle/take_document_err6@3x.png</key>
+		<data>
+		KgbnT6vIjg9uqPCSPKGzWvQmSQ4=
+		</data>
+		<key>VerifyBloc.bundle/take_document_err7.png</key>
+		<data>
+		HpWClezNgXgWtZZYaZdb2Toe6x0=
+		</data>
+		<key>VerifyBloc.bundle/take_document_err7@2x.png</key>
+		<data>
+		3vVRtYVUnOBoIRnUmLgYQzX4Nr4=
+		</data>
+		<key>VerifyBloc.bundle/take_document_err7@3x.png</key>
+		<data>
+		I51CS0Y7wpgyojUmgDGWJR+fU+g=
+		</data>
+		<key>VerifyBloc.bundle/take_document_err8.png</key>
+		<data>
+		uhiot1BRhr1KJIVSKMY3YRs8sHg=
+		</data>
+		<key>VerifyBloc.bundle/take_document_err8@2x.png</key>
+		<data>
+		kDmvPmbiTainGkGCHU84u43mAVk=
+		</data>
+		<key>VerifyBloc.bundle/take_document_err8@3x.png</key>
+		<data>
+		5MwcIm+ScPzUpyOHB8qSb1odkDk=
+		</data>
+		<key>VerifyBloc.bundle/take_document_success.png</key>
+		<data>
+		cXJDZKDImjsQaLleH9Fq3wyhWoE=
+		</data>
+		<key>VerifyBloc.bundle/take_document_success@2x.png</key>
+		<data>
+		kg3X6v5iVm044eA/IqpE++/Z8r0=
+		</data>
+		<key>VerifyBloc.bundle/take_document_success@3x.png</key>
+		<data>
+		xyqXFn1oLtjOhLFotou5DxaRY50=
+		</data>
+		<key>VerifyBloc.bundle/take_video_document_err1.png</key>
+		<data>
+		aBqlhsgLkLbHopvHCqg8VfziBdU=
+		</data>
+		<key>VerifyBloc.bundle/take_video_document_err1@2x.png</key>
+		<data>
+		ohObOQiFBW0wT48QC0hyttsjxTw=
+		</data>
+		<key>VerifyBloc.bundle/take_video_document_err1@3x.png</key>
+		<data>
+		xULtVVdwQj9z8FINF2pKCJp7wW8=
+		</data>
+		<key>VerifyBloc.bundle/take_video_document_err2.png</key>
+		<data>
+		IpP6/1DBmCkjEom6Nd6jAJfmKe4=
+		</data>
+		<key>VerifyBloc.bundle/take_video_document_err2@2x.png</key>
+		<data>
+		11KK+UPLiDCcO55dg8F9F5RF6/I=
+		</data>
+		<key>VerifyBloc.bundle/take_video_document_err2@3x.png</key>
+		<data>
+		zi+uENa4pRq3B0Y7MgY0OZU8vFk=
+		</data>
+		<key>VerifyBloc.bundle/take_video_document_err3.png</key>
+		<data>
+		puwCy8hvaToFcK++PzA3y4kZe8A=
+		</data>
+		<key>VerifyBloc.bundle/take_video_document_err3@2x.png</key>
+		<data>
+		XjNcN9jmxVZc182TvAS/rDe0wAU=
+		</data>
+		<key>VerifyBloc.bundle/take_video_document_err3@3x.png</key>
+		<data>
+		2ujk+rcuOfVXhtCX+PM2ONN0R+I=
+		</data>
+		<key>VerifyBloc.bundle/take_video_document_success.png</key>
+		<data>
+		C9/Ogj48+ojQAhU7KZa4yVFCcVQ=
+		</data>
+		<key>VerifyBloc.bundle/take_video_document_success@2x.png</key>
+		<data>
+		9/FAnya5hhSvWMc7pEZmShJsd90=
+		</data>
+		<key>VerifyBloc.bundle/take_video_document_success@3x.png</key>
+		<data>
+		vP85pPXaVzEKu3noa48nI7FNJF4=
+		</data>
 		<key>VerifyBloc.bundle/th.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			EgGahRVQ2jPczmeMppRLWRbwb5U=
+			sEiyoUrk9QUAV0ADbWGhxkhqcks=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -639,7 +815,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ZTc06RFnoXHsX561EYsoKJ8pMSs=
+			d+u4f8q1YBmQosscbocBUZSaijg=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -684,7 +860,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			DviQzEEuGJgkVR/G3hNfZF5bdB8=
+			FFXGqGghGddIuyE4SLr+3PL1rAE=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -717,7 +893,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			kDhoAoAKkPTF0fCOf1sW63p1uTM=
+			qxXepPxNZRwuIiwInBBOT6ix7IM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -726,7 +902,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			GV45JA0Y/8Bvhil6gAfONBU7KcU=
+			lexDtKsc4wlCNcwa8lFsXFaTWec=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -736,21 +912,20 @@
 	<dict>
 		<key>Headers/DataTool.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			y9WJMYWPtqE7r+0GUsF4uZclqEs=
-			</data>
 			<key>hash2</key>
 			<data>
 			LMMLDEzAQ/ibPOaktWegvyU+Ku7E2zIeDlOaov40rTA=
 			</data>
 		</dict>
+		<key>Headers/OpenCVWrapper.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			7LvGNTBhS7ZcCgNwgH3ZHNGk3ckLIlWGTWHsGLHXtbI=
+			</data>
+		</dict>
 		<key>Headers/VerifyBloc-Swift.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			6KEEFsWvv3inDlkXW/o40qpekwQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			qMShn99iLNhUUUQ/+YA1mUlSQii7Nz8FHqdsyXazrMo=
@@ -758,32 +933,20 @@
 		</dict>
 		<key>Headers/VerifyBloc.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			R0Q5I2F4JjFgo5eRYwFd0bzGLcY=
-			</data>
 			<key>hash2</key>
 			<data>
-			Y7y+8XCGIP39b8Emww3pe2mkTuTZps49/I490T9Utn4=
+			Tw37JFnea4QtsMpCyMzOG37j5gtnNLxeIGlXcif79SM=
 			</data>
 		</dict>
 		<key>Modules/VerifyBloc.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			/AOnE+VJXTfv2ZdRZh4RulW42tQ=
-			</data>
 			<key>hash2</key>
 			<data>
-			SKVf69VOgpV//GaHiqr2X4BcXSd7cQ9Mn7u9se1RThU=
+			OS9LgmpxJGIVJbiF5uQit7bzP6iEyOp+aqe2JUnFEvQ=
 			</data>
 		</dict>
 		<key>Modules/VerifyBloc.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			9r2b8fy65+pCMjPwzesHrVqI+j4=
-			</data>
 			<key>hash2</key>
 			<data>
 			pyE3xCMcT/5rCp2rIMeqwlS32uGBYaEslRdsfJIBuEk=
@@ -791,10 +954,6 @@
 		</dict>
 		<key>Modules/VerifyBloc.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			a9D+9ExLxjmrCpHrgNgVbI2CTeY=
-			</data>
 			<key>hash2</key>
 			<data>
 			jAhQ/EIfJvur3EgTWBUWAIGNZtBQskKv7NAdDcCncdU=
@@ -802,10 +961,6 @@
 		</dict>
 		<key>Modules/VerifyBloc.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			9r2b8fy65+pCMjPwzesHrVqI+j4=
-			</data>
 			<key>hash2</key>
 			<data>
 			pyE3xCMcT/5rCp2rIMeqwlS32uGBYaEslRdsfJIBuEk=
@@ -813,32 +968,20 @@
 		</dict>
 		<key>Modules/VerifyBloc.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			CRzdEbpr97UBXgWsfBFwLeA4ztw=
-			</data>
 			<key>hash2</key>
 			<data>
-			5qmrNTH+xWo4djgGe0F7u5lcO7goz14+9aBLuh8u1hQ=
+			4eNhqVRPW1hRIE0Tlfn44WpbFtQPYzYMIumf128fyWE=
 			</data>
 		</dict>
 		<key>Modules/VerifyBloc.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			/AOnE+VJXTfv2ZdRZh4RulW42tQ=
-			</data>
 			<key>hash2</key>
 			<data>
-			SKVf69VOgpV//GaHiqr2X4BcXSd7cQ9Mn7u9se1RThU=
+			OS9LgmpxJGIVJbiF5uQit7bzP6iEyOp+aqe2JUnFEvQ=
 			</data>
 		</dict>
 		<key>Modules/VerifyBloc.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			kkJsf7PueT1pGo0cN8PHipab/ew=
-			</data>
 			<key>hash2</key>
 			<data>
 			igB1jkJpbDQaEow0uWLPLc9PlwR+58H3ST69vymfI+w=
@@ -846,10 +989,6 @@
 		</dict>
 		<key>Modules/VerifyBloc.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			G0Fb5t783UXxlWo2522IhhYVcxg=
-			</data>
 			<key>hash2</key>
 			<data>
 			f5TwWQ+3LtDUDe5kkwpoM2qLEWsBEr3bwoMsc/wsCk0=
@@ -857,10 +996,6 @@
 		</dict>
 		<key>Modules/VerifyBloc.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			kkJsf7PueT1pGo0cN8PHipab/ew=
-			</data>
 			<key>hash2</key>
 			<data>
 			igB1jkJpbDQaEow0uWLPLc9PlwR+58H3ST69vymfI+w=
@@ -868,21 +1003,13 @@
 		</dict>
 		<key>Modules/VerifyBloc.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			f1IZFY/X0/ioa1SmqtNUkG3rpdM=
-			</data>
 			<key>hash2</key>
 			<data>
-			yduZ1aqjB6g5yzvrjTF5S6cngUdqJ1AXG5P6+wy+l6U=
+			e4zEyy7tBNM45QgoZwO4Chhmnw2e8QJ+P1mhcZ0rpYc=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			+TzE2/d40GWUH99216NKhHzz17g=
-			</data>
 			<key>hash2</key>
 			<data>
 			avp2Rplstdb68cdiv4P6Bv0AB17maaAUnliWMaU2MRM=
@@ -890,36 +1017,45 @@
 		</dict>
 		<key>VerifyBloc.bundle/Base.lproj/Localizable.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			BlK4LSPtEKUbP6UkHMNwfXhyvs4=
-			</data>
 			<key>hash2</key>
 			<data>
-			qvL/BzC0XXg5CxirT8Fjlu+BfAux9laMGSUvBrMH8RY=
+			d2V35JRaVXDjY4qLJd4sCwQnoDTxGpCdn2/cWh5EaIA=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
 		<key>VerifyBloc.bundle/ar.lproj/Localizable.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			J/wkiG01ESEhNj7M7JT+90gkxyg=
-			</data>
 			<key>hash2</key>
 			<data>
-			MowJ/5tTBTp/QFDH3ksXGv6Do7DqkI6iq6kTztrQUAQ=
+			F7fdtLbj/mg5uswc9Qggamy6+eKM3etc3ih91WKNvMk=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>VerifyBloc.bundle/brightness.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			XAb5vNMDFdwNzdrJHhXAXc3tdexvW4ZnnG0DyJKMW8U=
+			</data>
+		</dict>
+		<key>VerifyBloc.bundle/brightness@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			4Qh9AohIzrtrqAIi4mGHf1G4z0lqpOoRA7J1BMiD3Bg=
+			</data>
+		</dict>
+		<key>VerifyBloc.bundle/brightness@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			GYk4nMt3+IqEoBoRxr+qa5X5k7q6kb5aDlmwA3OIhrg=
+			</data>
+		</dict>
 		<key>VerifyBloc.bundle/confirm_connection.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			JiVwjGs5lJ3qJhHAklKewSZYo4o=
-			</data>
 			<key>hash2</key>
 			<data>
 			ExeIu1fEImsurIoW9lKu9IhL1z81tdYWrvqGfiqgiGk=
@@ -927,10 +1063,6 @@
 		</dict>
 		<key>VerifyBloc.bundle/confirm_connection@2x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			TnXoRLnMzQsQkDyXwRw+1D7FjTc=
-			</data>
 			<key>hash2</key>
 			<data>
 			oQgj4thaEYgTnyVZZVT/FyPXVxLps6nPK3glb0uBfFM=
@@ -938,10 +1070,6 @@
 		</dict>
 		<key>VerifyBloc.bundle/confirm_connection@3x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			s/DpEBZ8JRJxfPA1wAbbo7oITyY=
-			</data>
 			<key>hash2</key>
 			<data>
 			VwKswAphPTZh1zDkbboRWSx54ZLzW6qwd8LdfSuAhlU=
@@ -949,10 +1077,6 @@
 		</dict>
 		<key>VerifyBloc.bundle/country_arrow_right.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			PBnInSXUgK2wuoUGDyJIxplIyHc=
-			</data>
 			<key>hash2</key>
 			<data>
 			zLS4lXO8BsqE+CTnbgIoiU40odGB8goN7BxoWH19FOU=
@@ -960,10 +1084,6 @@
 		</dict>
 		<key>VerifyBloc.bundle/country_arrow_right@2x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			9xdG5pe1xKoQYCn0QEsy5XEH0pI=
-			</data>
 			<key>hash2</key>
 			<data>
 			6KK4LKO+d8Ht62TfL1Z4lEIFdkXpQGgYqjUv1gPAxYw=
@@ -971,10 +1091,6 @@
 		</dict>
 		<key>VerifyBloc.bundle/country_arrow_right@3x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Z6Ay92879MTgy8R2JWExbsIxu9Q=
-			</data>
 			<key>hash2</key>
 			<data>
 			a+BdZrdjMotRfSeepQbv8eVF06fyTZMu4iKNFVLsfyk=
@@ -982,10 +1098,6 @@
 		</dict>
 		<key>VerifyBloc.bundle/country_phone_code.json</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			3ulWUpfW2O5Auusl3dlVhWHZOcA=
-			</data>
 			<key>hash2</key>
 			<data>
 			fpSY8swko3+A+RxIPQEQ8lIWwHYz94GQlTVRAE4ooAE=
@@ -993,10 +1105,6 @@
 		</dict>
 		<key>VerifyBloc.bundle/country_search.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			8rZiw2pAHAOidRYhoN0zEi5Cllk=
-			</data>
 			<key>hash2</key>
 			<data>
 			dMZwWIAraoOEntRdmUNp5GBldAHqxEURd9mOzukXVrE=
@@ -1004,10 +1112,6 @@
 		</dict>
 		<key>VerifyBloc.bundle/country_search@2x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			KgG0Eyx0UVpeBA6CVvSIIoNW41U=
-			</data>
 			<key>hash2</key>
 			<data>
 			vBh5/h15OdyRrHebQsDUGrhBGT8WfnKzk2zaA3gYRrc=
@@ -1015,10 +1119,6 @@
 		</dict>
 		<key>VerifyBloc.bundle/country_search@3x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			anU313C3nFqnIEJiEzk7zkwfUcw=
-			</data>
 			<key>hash2</key>
 			<data>
 			QhVQRwWF7Vwr2/9T4+wwoFkI1q9uaEkgahsZzGt86hg=
@@ -1026,23 +1126,15 @@
 		</dict>
 		<key>VerifyBloc.bundle/de.lproj/Localizable.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			MVuqOo6OOY4ZjHng770zpQnQde0=
-			</data>
 			<key>hash2</key>
 			<data>
-			+COjsiUFZVHjhrQqxwegbaLANLAOtcXyA8TPjCdGKTg=
+			QanNmWPXMw56mQDKhP7FDkDH7JFI+Z/Lyk0p4LmaEVg=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
 		<key>VerifyBloc.bundle/del_back_dark.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			RYR86mrvMsYm3TyqffTSTWAnm7U=
-			</data>
 			<key>hash2</key>
 			<data>
 			7e/xo5kefnD2vOdZkXCKpTqy0QHNqPg2Zkz3jGS83Z8=
@@ -1050,10 +1142,6 @@
 		</dict>
 		<key>VerifyBloc.bundle/del_back_dark@2x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			HNWqhfRfrAcWLyHa2CIPag+abSE=
-			</data>
 			<key>hash2</key>
 			<data>
 			re28uvqDhROw5uhTfkmsH+J7sAOI9C9x1Q4gCrX/qp8=
@@ -1061,10 +1149,6 @@
 		</dict>
 		<key>VerifyBloc.bundle/del_back_dark@3x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			diEoHCM3intGHTqAozVM9cXoZWc=
-			</data>
 			<key>hash2</key>
 			<data>
 			RLvaKKfOJpI1TIi8GgQGx+m4c+prHp+F9I4oEZ3m8Io=
@@ -1072,10 +1156,6 @@
 		</dict>
 		<key>VerifyBloc.bundle/del_back_light.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			QfmxUI8CbckLukdeB+opyN8mDIE=
-			</data>
 			<key>hash2</key>
 			<data>
 			iTEq8mWJdOUZ1oCSnB0gYZzB3r/JHEv5yej8yrEEC/Q=
@@ -1083,10 +1163,6 @@
 		</dict>
 		<key>VerifyBloc.bundle/del_back_light@2x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			3mBkhAmZRPFVyXFTVHA/J+tY9xA=
-			</data>
 			<key>hash2</key>
 			<data>
 			5ZguTqlj2IC8TDSFZY0soyeRvYbe1aKSY/fqt0iGA+U=
@@ -1094,10 +1170,6 @@
 		</dict>
 		<key>VerifyBloc.bundle/del_back_light@3x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			wcFVZ8bq4xUj4fVNyTGfX5JfvGw=
-			</data>
 			<key>hash2</key>
 			<data>
 			I73bAvoHIOuDk9QUTlHSOzwKEfE7ql0FX3U+3borwHQ=
@@ -1105,10 +1177,6 @@
 		</dict>
 		<key>VerifyBloc.bundle/document_pdf.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			9fspksQ3LDBn6ukZUvTbBDKuE14=
-			</data>
 			<key>hash2</key>
 			<data>
 			FDfrtdo5yaSAIiEJ3QD4HdAu4+NCgDFWmqsYuxdtr0s=
@@ -1116,10 +1184,6 @@
 		</dict>
 		<key>VerifyBloc.bundle/document_pdf@2x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			4cj4KhdTfiWXr2aRlN7/pe+/q1g=
-			</data>
 			<key>hash2</key>
 			<data>
 			fEwlF9lVMD+QbFvltVYsmYNLWE3pijTi7qssprYgbTE=
@@ -1127,10 +1191,6 @@
 		</dict>
 		<key>VerifyBloc.bundle/document_pdf@3x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			XIgAoBj8MqtJrpwB2mniInpVMLQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			sb2x/sc25ZYt3Rp5cjk5OEAsjnWYmEK+nBvc6kcdC10=
@@ -1138,10 +1198,6 @@
 		</dict>
 		<key>VerifyBloc.bundle/document_remove.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			D17OSxAETNhpn8zqpf0rOxa8GS8=
-			</data>
 			<key>hash2</key>
 			<data>
 			4vQb1LCMHFBFpdlr+Mn+0nTxWwoaLrH4gPqf6Ox1g0o=
@@ -1149,10 +1205,6 @@
 		</dict>
 		<key>VerifyBloc.bundle/document_remove@2x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			QVAl5fEA6CUvewC5Taona2KytaQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			yVMGLAcrOoLBP5ecT0Jge8MWNtnyvsdp10mwXBMKNHg=
@@ -1160,10 +1212,6 @@
 		</dict>
 		<key>VerifyBloc.bundle/document_remove@3x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			qgbhSPZjWa6SJprXrsFQtoml3ng=
-			</data>
 			<key>hash2</key>
 			<data>
 			pfLjKLHQ/XKX6cOP3tmmCcCSxrvd9y0H/59WzmfDidw=
@@ -1171,23 +1219,15 @@
 		</dict>
 		<key>VerifyBloc.bundle/en.lproj/Localizable.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			BlK4LSPtEKUbP6UkHMNwfXhyvs4=
-			</data>
 			<key>hash2</key>
 			<data>
-			qvL/BzC0XXg5CxirT8Fjlu+BfAux9laMGSUvBrMH8RY=
+			d2V35JRaVXDjY4qLJd4sCwQnoDTxGpCdn2/cWh5EaIA=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
 		<key>VerifyBloc.bundle/enter_identity.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Tym1JDHJeeAmiCrXw5auJZpV43M=
-			</data>
 			<key>hash2</key>
 			<data>
 			mQ5o/O/YnWrFhVMcsaGonjSf9SWhjV3XU58IemYEsEg=
@@ -1195,10 +1235,6 @@
 		</dict>
 		<key>VerifyBloc.bundle/enter_identity@2x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			lJJqq/cuR2VMZZlX9IcaPBztUzM=
-			</data>
 			<key>hash2</key>
 			<data>
 			L8b46MN+UwpY2Hb/EpqZqFwkRndH8KsYyNGFohNX7BY=
@@ -1206,10 +1242,6 @@
 		</dict>
 		<key>VerifyBloc.bundle/enter_identity@3x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			DrqqEaxc4rWU4JoiJxSBiC3ArMs=
-			</data>
 			<key>hash2</key>
 			<data>
 			R4FjezJpyR5TBp9GHDydTew9wS3RKZu+NTu3ZtVeLH0=
@@ -1217,10 +1249,6 @@
 		</dict>
 		<key>VerifyBloc.bundle/enter_personal.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			CENxqKoSMBEFKo2nwG5PmDhmloY=
-			</data>
 			<key>hash2</key>
 			<data>
 			PO/cK9URpfatTqvFDpyY2jV5scvxhANwjtsYZDCGsNg=
@@ -1228,10 +1256,6 @@
 		</dict>
 		<key>VerifyBloc.bundle/enter_personal@2x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			4nf7deR3tjHnBxNBZXnH3uB6OfY=
-			</data>
 			<key>hash2</key>
 			<data>
 			akmBmDNUUpSkLRR/C/HazWkLyVnTdlN/UEUtAFFLM8E=
@@ -1239,10 +1263,6 @@
 		</dict>
 		<key>VerifyBloc.bundle/enter_personal@3x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			6D3OBykqcXkhXXgTDM3C0RWHzEc=
-			</data>
 			<key>hash2</key>
 			<data>
 			a5XOy0xAUG/ASO2INa+3JfUdld0RvydZEY4bypi9gBA=
@@ -1250,10 +1270,6 @@
 		</dict>
 		<key>VerifyBloc.bundle/enter_selfie.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			5hjUAlrqzDR0Qd34X8xvfsIjZc0=
-			</data>
 			<key>hash2</key>
 			<data>
 			TJZNj0eVYaSNTa9KpZrM1ZE5Tixr4a8wrjytQbdSfig=
@@ -1261,10 +1277,6 @@
 		</dict>
 		<key>VerifyBloc.bundle/enter_selfie@2x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ABrKP7EIt+1Keo5nZ93nqlZN/yU=
-			</data>
 			<key>hash2</key>
 			<data>
 			gPA8U0K4mlfHH6R26iyzoxe0NFe+364UVH9szcgXa+Q=
@@ -1272,10 +1284,6 @@
 		</dict>
 		<key>VerifyBloc.bundle/enter_selfie@3x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			FJVE+o72XoYluXilaVBmRc68L+4=
-			</data>
 			<key>hash2</key>
 			<data>
 			+PR2SsooLVtTXfaHiffklOqF+XdknWv7ua2Ip5JZ0OM=
@@ -1283,49 +1291,33 @@
 		</dict>
 		<key>VerifyBloc.bundle/es.lproj/Localizable.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			T0Su7wXz6WChM1Y6A5S5vr/VKa4=
-			</data>
 			<key>hash2</key>
 			<data>
-			wfuAtRzDbf5nFd6vK+AGmktBfJVKz5CPQfg5vK9rhiM=
+			ER78iOy1P124d0iXR2P/OWKaCXXUtDpXeLZTB9713LQ=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
 		<key>VerifyBloc.bundle/fil.lproj/Localizable.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			TO46en1bbsLDHMAqSWVAEG0V+dM=
-			</data>
 			<key>hash2</key>
 			<data>
-			E/r++RH23lQKa2AW1G2FCi0hAV+h7/9CqGc3oRZUTUA=
+			FpEmO935RY5Ac4tcFOwV6dmJ7OZ6VqZspmZvyYaEl4c=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
 		<key>VerifyBloc.bundle/fr.lproj/Localizable.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			AY/vzGtkPwWXt8h6fdD5aHW6L0M=
-			</data>
 			<key>hash2</key>
 			<data>
-			R+mmH7f1UWxBq2UNjn0vWeRrvjezPyZxuWXz5oAWga8=
+			I2L5GRpfSi/ps6ZkTRaRDlDqwYOejECkDAoz9ag+Ua0=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
 		<key>VerifyBloc.bundle/gender_arrow_down_dark.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			44MV2ntn7c/MDwPm1c9RHU7XxLI=
-			</data>
 			<key>hash2</key>
 			<data>
 			+RHQYSBZXlcwCzanm3T11ZWZvEbHtO0Qm/VI7Jf5S1I=
@@ -1333,10 +1325,6 @@
 		</dict>
 		<key>VerifyBloc.bundle/gender_arrow_down_dark@2x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ZfzsImrwdoJJmo2BSLZ0jLLeACA=
-			</data>
 			<key>hash2</key>
 			<data>
 			Fj5AMQ5Nl3/6Y/KDkkbybALpyiYhyxKvyu2P2Bq91TM=
@@ -1344,10 +1332,6 @@
 		</dict>
 		<key>VerifyBloc.bundle/gender_arrow_down_dark@3x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			5uqkzTUp7aADu0qMzDua9wBTzS4=
-			</data>
 			<key>hash2</key>
 			<data>
 			Uz6FJy1j3EYAa7rTsiHxr9yUkBB92J0IYxilIPDB1q0=
@@ -1355,10 +1339,6 @@
 		</dict>
 		<key>VerifyBloc.bundle/gender_arrow_down_light.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			K1aoJcYd6ifodynfiYNZvf9oVes=
-			</data>
 			<key>hash2</key>
 			<data>
 			8JHN1G66PNWGTLqVm0lURyx3ldFB3q4mp1YvllV5v0M=
@@ -1366,10 +1346,6 @@
 		</dict>
 		<key>VerifyBloc.bundle/gender_arrow_down_light@2x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			QrVbcdKowCAFks7vICwZfuQuGRw=
-			</data>
 			<key>hash2</key>
 			<data>
 			dmVDN0QryFjJC3JJ5+Yzu98/aOCas6o8qImYFUdf8MU=
@@ -1377,10 +1353,6 @@
 		</dict>
 		<key>VerifyBloc.bundle/gender_arrow_down_light@3x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			U/eJPagCe4FB6W7GCue9sNFMqb0=
-			</data>
 			<key>hash2</key>
 			<data>
 			DAsQL/xpVs2uWCiQ1sWejEjlEoXJlHDSExB3rQ39RX8=
@@ -1388,10 +1360,6 @@
 		</dict>
 		<key>VerifyBloc.bundle/gender_choosed.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			MTyi922GlE1hCd/R3mZUux3ceKo=
-			</data>
 			<key>hash2</key>
 			<data>
 			H7VHfsrztomW5wbW3paACAsQ8UHDDULkBzO6mm0H6lQ=
@@ -1399,10 +1367,6 @@
 		</dict>
 		<key>VerifyBloc.bundle/gender_choosed@2x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			0o7gDEpH25lvCBVAzKQ16AdciAM=
-			</data>
 			<key>hash2</key>
 			<data>
 			+6dTG1BQ75l8fvh4IXAWK4l6V6PVR6K5RwzaollXEBg=
@@ -1410,10 +1374,6 @@
 		</dict>
 		<key>VerifyBloc.bundle/gender_choosed@3x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			4TgJKqu85G3f1JUFzS1q200qTSw=
-			</data>
 			<key>hash2</key>
 			<data>
 			KMAkt4gKhdi2yLFeaJX47iWkhOkFYTN8+nQSXtR7YLw=
@@ -1421,10 +1381,6 @@
 		</dict>
 		<key>VerifyBloc.bundle/gender_normal.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			JPqxZ2yUPSida2CBNRyN2EGqzp4=
-			</data>
 			<key>hash2</key>
 			<data>
 			ke1UVUB5TrLKWI/L6ixLLY7dzbQ39AEXfoiPywboSF8=
@@ -1432,10 +1388,6 @@
 		</dict>
 		<key>VerifyBloc.bundle/gender_normal@2x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Cj9mpmJUjxz+jQZs1RQScJEJPo8=
-			</data>
 			<key>hash2</key>
 			<data>
 			zWF1AABlQRDyQuqnPUQ2l21RYqrppnUXVwzkX1Ny7hE=
@@ -1443,10 +1395,6 @@
 		</dict>
 		<key>VerifyBloc.bundle/gender_normal@3x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Chp8aE7QI2g35lNOx4H5CqP+KE8=
-			</data>
 			<key>hash2</key>
 			<data>
 			I0UU6lPGlS40lfxz7hcZG74f5y+evqmsc1Qw1Dmn3oQ=
@@ -1454,75 +1402,72 @@
 		</dict>
 		<key>VerifyBloc.bundle/hi.lproj/Localizable.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			JrBTthqsbzumKzbAu6Ai8Inc70A=
-			</data>
 			<key>hash2</key>
 			<data>
-			RGZ2d6rsPN/NCIGs4sQZe22mx54dSLNNq+OErSdafQ0=
+			BAi89LgYpP07Mqe613GDsRJtIoC72qaM66tNMoazzOI=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
 		<key>VerifyBloc.bundle/id.lproj/Localizable.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			WtSBNm4EAhffr7xpHqDPofcrIxE=
-			</data>
 			<key>hash2</key>
 			<data>
-			4h1NbraDqGBhorcsZ/R5xnIoA0ZTQyau0eTrQq6B1zw=
+			Tdr5gPMORXgTcCHPoI9x/7P0a+qM8lpTYH3ZBcGaMQs=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
 		<key>VerifyBloc.bundle/it.lproj/Localizable.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			zdb6ipmtOSe2D2c3YVtN40IrQOg=
-			</data>
 			<key>hash2</key>
 			<data>
-			56cqiKP8wi+AoMrVgJu8sYFD/MIt9eEgvH2Re1+1HdE=
+			dMaDGPW7/byyp1aV6W+VukxN3Aotar+DQP3le6pdjhI=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
 		<key>VerifyBloc.bundle/ja.lproj/Localizable.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			wbU7/ZMSbXJyIxEB7gjbO75g5sM=
-			</data>
 			<key>hash2</key>
 			<data>
-			bvHBxIhl8i8PlKXzh5O/0NkEgkm4Mcju/Lc9xVxQXJA=
+			7hzfwFUpmKBrZ8E2ei+PEwQ1qjKKKVYqadxXrrBcPSc=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
 		<key>VerifyBloc.bundle/ko.lproj/Localizable.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			1JAI/jJDHqA5mgLNl2oFnqsvcuw=
-			</data>
 			<key>hash2</key>
 			<data>
-			bY4ePr6pp5q5gX1jpKYyYTU/U2SmzSGwq/fAbT5WyeY=
+			Y8KJ2c5ri+ouQQLZWekaIJ7j1MF6tGI3qP8Vf7gD0Co=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>VerifyBloc.bundle/kyc_details_edit.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			D+mFZPOkcFoCH7aWpZZYvD2WFE132eCu7qIdJYYdY/A=
+			</data>
+		</dict>
+		<key>VerifyBloc.bundle/kyc_details_edit@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			FHDcNGVf7PBqtqXic3S26A/X9N2TdUOZNyPJ9MyZ1Es=
+			</data>
+		</dict>
+		<key>VerifyBloc.bundle/kyc_details_edit@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			K8jl/ecPgIwVvfHPzJAcgY5NIK6OuCPBccQ+3zIZJrU=
+			</data>
+		</dict>
 		<key>VerifyBloc.bundle/loading_gif.gif</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			CmqfiTzLOtylIWkvWkUDilOSCK8=
-			</data>
 			<key>hash2</key>
 			<data>
 			3q6zABGXP2kEUI6vqeTSx4b3AZXAf3IiiDsgKkfcq2o=
@@ -1530,23 +1475,15 @@
 		</dict>
 		<key>VerifyBloc.bundle/ms.lproj/Localizable.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			h4lP9gMZu5tGlGqM7GNKqr86nbI=
-			</data>
 			<key>hash2</key>
 			<data>
-			TidCXsGDRDKnOkrwYPgKmsOWODYHLCaYZ8pN87x4nIY=
+			vHRQbsd7clsVZ/rVvTa2TMxycX4xOp3EWSCdr5rbnNg=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
 		<key>VerifyBloc.bundle/nav_back_dark.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			avN2cui54Yl6AOCXBfTVXp3Ua2I=
-			</data>
 			<key>hash2</key>
 			<data>
 			XysI/oafJ0fn4hS46IJ+fP7Fzceenr4lp0bYp7TO4jQ=
@@ -1554,10 +1491,6 @@
 		</dict>
 		<key>VerifyBloc.bundle/nav_back_dark@2x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			1+ebjtxEpXFhk7p4RtVT9iyOrCg=
-			</data>
 			<key>hash2</key>
 			<data>
 			MupyUqJsV1bwWxl0usDBG73Rk68tuszp5LDdVK9riOY=
@@ -1565,10 +1498,6 @@
 		</dict>
 		<key>VerifyBloc.bundle/nav_back_dark@3x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ItA0flrnShMbLH20Zgn+RxZPeU8=
-			</data>
 			<key>hash2</key>
 			<data>
 			Ok715aHGJ4SwgBHOVKCWfj+B8BSUY7HydIRXL2mO+Hw=
@@ -1576,10 +1505,6 @@
 		</dict>
 		<key>VerifyBloc.bundle/nav_back_light.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			sPLN3s9NUkVEYwM4pI256flSMS8=
-			</data>
 			<key>hash2</key>
 			<data>
 			NWjAFpkGN3EjjjQy2ay6NWzH3G9YSF9ICpDJz7XBvu4=
@@ -1587,10 +1512,6 @@
 		</dict>
 		<key>VerifyBloc.bundle/nav_back_light@2x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			zEmUt5Q3pkMDcqoxqDPVeeQEMzU=
-			</data>
 			<key>hash2</key>
 			<data>
 			F8Nvm/3woUGg4whb0nTt5lWS4Kz6nsMoonym3zZTDak=
@@ -1598,10 +1519,6 @@
 		</dict>
 		<key>VerifyBloc.bundle/nav_back_light@3x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			22BmXH1Ix+ikUlMNm3E/CUy9fwc=
-			</data>
 			<key>hash2</key>
 			<data>
 			pz2FgIfAzr61hUy0RS2MLOYFNxJqouP9ybysKKkV4io=
@@ -1609,10 +1526,6 @@
 		</dict>
 		<key>VerifyBloc.bundle/organisation_details.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			sVPCjxvaTkMp5jL6x4sRrfRofTA=
-			</data>
 			<key>hash2</key>
 			<data>
 			Hi5bpdXsn3TFFbvew4Lx6X/q4w/tsZ0jibqJM66z95Q=
@@ -1620,10 +1533,6 @@
 		</dict>
 		<key>VerifyBloc.bundle/organisation_details@2x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			n8fEvN9Kv/0vUtkL8Gpj9gSnHm4=
-			</data>
 			<key>hash2</key>
 			<data>
 			A0UCILu5NiPEQeb2rWO1WEMqEkEIHsl4qFQHxvlKOjo=
@@ -1631,10 +1540,6 @@
 		</dict>
 		<key>VerifyBloc.bundle/organisation_details@3x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ZUYN5vPKfr0g/+hAF55/QhrtBuY=
-			</data>
 			<key>hash2</key>
 			<data>
 			m42aknUKIYWmerIPbCj/pCBa9pEvPI7e7phR0fcCL5E=
@@ -1642,10 +1547,6 @@
 		</dict>
 		<key>VerifyBloc.bundle/photo_box_bottom_left.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			/Any4DZDfnQpxvDnegPLPEQl91M=
-			</data>
 			<key>hash2</key>
 			<data>
 			PT92Yy7q2WdPErcUSNMLFOPsYCvwDq6w3+wEGZvwG50=
@@ -1653,10 +1554,6 @@
 		</dict>
 		<key>VerifyBloc.bundle/photo_box_bottom_left@2x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			P3NWLLHp3BC9ZvBtmZTs+K6pt9M=
-			</data>
 			<key>hash2</key>
 			<data>
 			Y3TYlhsigLYHXdr7IMlnefp++/qNMjIuvmdilVG8Tfk=
@@ -1664,10 +1561,6 @@
 		</dict>
 		<key>VerifyBloc.bundle/photo_box_bottom_left@3x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Fg3Mspqy4iHNQLGDpYK2WwGD5Ik=
-			</data>
 			<key>hash2</key>
 			<data>
 			afSf3ZnpHWtiD9QxqBA3uRpUuRmcE8YHmug96l4RQuA=
@@ -1675,10 +1568,6 @@
 		</dict>
 		<key>VerifyBloc.bundle/photo_box_bottom_right.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ibcr2+/ZAt78PVfXX1NAE3iZlpI=
-			</data>
 			<key>hash2</key>
 			<data>
 			iHtK7aHBrjRDimSyIwYGarF+c+RN+n9XcKkp/SsAlw4=
@@ -1686,10 +1575,6 @@
 		</dict>
 		<key>VerifyBloc.bundle/photo_box_bottom_right@2x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			lKVOD/eehmn7HkEEImw6zOpgUOU=
-			</data>
 			<key>hash2</key>
 			<data>
 			alDU4yYj2QpPBU79DEXp33LjMAvByc4OhJVleaxlzak=
@@ -1697,10 +1582,6 @@
 		</dict>
 		<key>VerifyBloc.bundle/photo_box_bottom_right@3x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			OgMdgxgijC4dIjDB1nGWHfb4uxc=
-			</data>
 			<key>hash2</key>
 			<data>
 			/0sFTEIQggD705txna//8j7+bWwqPkJX+kQPCy/UvOk=
@@ -1708,10 +1589,6 @@
 		</dict>
 		<key>VerifyBloc.bundle/photo_box_top_left.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			veseQsiUjem9BWznCMfKbmGOObI=
-			</data>
 			<key>hash2</key>
 			<data>
 			IxCrYnLUa+QEAyY24TWyKM01QtJlTLpos6dx2cZkTdg=
@@ -1719,10 +1596,6 @@
 		</dict>
 		<key>VerifyBloc.bundle/photo_box_top_left@2x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ERsppEhrTDzuahI0myNCzzcVg3k=
-			</data>
 			<key>hash2</key>
 			<data>
 			p+f05RY8AUPwJoFssbABBeE9mEfyIkrA9yWyp6Fb7Ng=
@@ -1730,10 +1603,6 @@
 		</dict>
 		<key>VerifyBloc.bundle/photo_box_top_left@3x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			aICpYmAc0ValJsh4teGccRTyUJY=
-			</data>
 			<key>hash2</key>
 			<data>
 			as4XKU+YDEHKQgWdyIiNLQDGWTIt9Zba9iy31qNQqOE=
@@ -1741,10 +1610,6 @@
 		</dict>
 		<key>VerifyBloc.bundle/photo_box_top_right.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			j1TUIqgPm0ZWW1clLvdVw0Dus6w=
-			</data>
 			<key>hash2</key>
 			<data>
 			LXedtnWA3MGKqM+e6YlbPHQaHLO7/h3VMMwbrrUFfSk=
@@ -1752,10 +1617,6 @@
 		</dict>
 		<key>VerifyBloc.bundle/photo_box_top_right@2x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			7EOWd4fVX8KCoWu9SzQrQv4/3f4=
-			</data>
 			<key>hash2</key>
 			<data>
 			EPCcPk9lh6HvdUpk30qUeRkUdBI7Nb48T2/gtQkZ10g=
@@ -1763,32 +1624,13 @@
 		</dict>
 		<key>VerifyBloc.bundle/photo_box_top_right@3x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			AmieJRkhXt7TJWraUpGQHOcY95Y=
-			</data>
 			<key>hash2</key>
 			<data>
 			Wk9Ak15XpFwNf1eBPmed4greAPKbQh7sxUCDiZrVM3E=
 			</data>
 		</dict>
-		<key>VerifyBloc.bundle/photo_gif.gif</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			XYDEtVhoR+WLTj0R8erQ5YzLM2M=
-			</data>
-			<key>hash2</key>
-			<data>
-			9248yMjJI5Ew3nMck3R1aTR+w/lGUoEjcPfupmzpxDs=
-			</data>
-		</dict>
 		<key>VerifyBloc.bundle/photo_light_off.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			kA0O8nz+uCuHHfv6wzVF7NCkK74=
-			</data>
 			<key>hash2</key>
 			<data>
 			oHxrBE2HAmXQnV7KpQ2grfDVW6l4Byo65k7avu0pFuU=
@@ -1796,10 +1638,6 @@
 		</dict>
 		<key>VerifyBloc.bundle/photo_light_off@2x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			8VXQNwGZp16onbmmc+lKC+hv/Ao=
-			</data>
 			<key>hash2</key>
 			<data>
 			iH8cMz7J7WWZmwPTLnDTvSvDMpC5cEZdLavSZbbm67o=
@@ -1807,10 +1645,6 @@
 		</dict>
 		<key>VerifyBloc.bundle/photo_light_off@3x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			FHJCy3G/laPE0wyURUcFO+2MLRs=
-			</data>
 			<key>hash2</key>
 			<data>
 			an22i+HI4f0Vu/RkDOTHf9HtBUrJp9xRJcS8brWhHGQ=
@@ -1818,10 +1652,6 @@
 		</dict>
 		<key>VerifyBloc.bundle/photo_light_on.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			DdkskVWoi1KEB2KQPVObXyVeZn8=
-			</data>
 			<key>hash2</key>
 			<data>
 			9wYCiEGHASDPReJ8/4he4WGjXguGdaOGQc1jQCUlvEo=
@@ -1829,10 +1659,6 @@
 		</dict>
 		<key>VerifyBloc.bundle/photo_light_on@2x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			aJ+aYKi1ym9UuIoyd1HtZSRZ2ZU=
-			</data>
 			<key>hash2</key>
 			<data>
 			y2hGu6e2o/gJxXDiUd8xBI1qK2+aZZFGbgPB0uDk3Ro=
@@ -1840,10 +1666,6 @@
 		</dict>
 		<key>VerifyBloc.bundle/photo_light_on@3x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			nub0BP0DevSCtU50DPnEo4NHgts=
-			</data>
 			<key>hash2</key>
 			<data>
 			vscjqkncJsLJ88m/Rt35EFK7+hEmdoXjkjjMi5BrSOU=
@@ -1851,10 +1673,6 @@
 		</dict>
 		<key>VerifyBloc.bundle/photo_position.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Tpn0LpHCPZKeoT0FrbWY3+w3CPI=
-			</data>
 			<key>hash2</key>
 			<data>
 			uDSwl+WoKQQZy2b9lfjdTLLcUq8Heu9rt916p+xP+DA=
@@ -1862,10 +1680,6 @@
 		</dict>
 		<key>VerifyBloc.bundle/photo_position@2x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			DYsy97/ofvplJlOEvIF7RbBbQK4=
-			</data>
 			<key>hash2</key>
 			<data>
 			sSf+mdgVhfe8jUI7XNgdibzv9MV7ycKt4NhWXEqV0RM=
@@ -1873,10 +1687,6 @@
 		</dict>
 		<key>VerifyBloc.bundle/photo_position@3x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			8LMvvfzauUJX3zw3UIznVVLl7r0=
-			</data>
 			<key>hash2</key>
 			<data>
 			jPbdsi85cuKwBwFd0k/vcJtubdH/AncNe2q34wyYDlQ=
@@ -1884,10 +1694,6 @@
 		</dict>
 		<key>VerifyBloc.bundle/photo_take.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			AOl12H/G+AzsWy7h0scy3oaez4I=
-			</data>
 			<key>hash2</key>
 			<data>
 			jaFTceMJb+ixpKgXFEv6Esd30CA5gInF/aYEvu3qG8E=
@@ -1895,10 +1701,6 @@
 		</dict>
 		<key>VerifyBloc.bundle/photo_take@2x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			fyagRhhXxh+X+/q+i3hFOMhqi1w=
-			</data>
 			<key>hash2</key>
 			<data>
 			7JR/Fb3AoZVauCdzQlo5pn0jE4mo3Nw9pMhTE4abQJ0=
@@ -1906,10 +1708,6 @@
 		</dict>
 		<key>VerifyBloc.bundle/photo_take@3x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			YOQwdrkMts3w1VoB8l/09Llciyw=
-			</data>
 			<key>hash2</key>
 			<data>
 			7pKiMnkmT5i85E1SxzEuC19xtgVSffzKPVePIKSOYhI=
@@ -1917,10 +1715,6 @@
 		</dict>
 		<key>VerifyBloc.bundle/power_by_dark.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			YLTn3UfqLi4JszsmAIPzRuUYjJA=
-			</data>
 			<key>hash2</key>
 			<data>
 			gwxENaPukkRyG6zABN7K/aisuzpNu/xKi7rLxxKUOp8=
@@ -1928,10 +1722,6 @@
 		</dict>
 		<key>VerifyBloc.bundle/power_by_dark@2x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			8j5yYqas7RioI/iPlQ0iL3njfjo=
-			</data>
 			<key>hash2</key>
 			<data>
 			OU++cD+L+cw7t/8Mbx4qcSpjGkMrwLNpTN5DCF6XXz0=
@@ -1939,10 +1729,6 @@
 		</dict>
 		<key>VerifyBloc.bundle/power_by_dark@3x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			brWi3/I1oe6tjSqR5niE7NOqQXo=
-			</data>
 			<key>hash2</key>
 			<data>
 			M6KaYGg8pAYZ0+gnVKfOFNhSqP+MIEB0rDC8UGqHfoU=
@@ -1950,10 +1736,6 @@
 		</dict>
 		<key>VerifyBloc.bundle/power_by_light.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			B9jsKhUOZfsb20Rnz+iIxDbb42Y=
-			</data>
 			<key>hash2</key>
 			<data>
 			nJun1/aFPed8sden9/jutWvtqGcWQPGNWa2AugGeTzw=
@@ -1961,10 +1743,6 @@
 		</dict>
 		<key>VerifyBloc.bundle/power_by_light@2x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			lU9EHBfcO5A7B+gtQ7CqEuTTiBQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			RCMH6sIR0/jFI+3lCRGI498U1flkX0GCmHRlIyZo2ZQ=
@@ -1972,10 +1750,6 @@
 		</dict>
 		<key>VerifyBloc.bundle/power_by_light@3x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			m7gOtz9RNnpy8L0OQfRTzQag0Ow=
-			</data>
 			<key>hash2</key>
 			<data>
 			d4VZLRCz51QS6/jhQR5MYoxSPlG2SzcLa8Md23JvC1I=
@@ -1983,34 +1757,15 @@
 		</dict>
 		<key>VerifyBloc.bundle/pt.lproj/Localizable.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			mYWeyC6w/np9siFFqo9gr8IVzv4=
-			</data>
 			<key>hash2</key>
 			<data>
-			SaAvINXFVOU2JdZHevJnvcnVzoxDBvwEt/P5WFQMzPs=
+			6sd673ePxffcPaDze/+nMRq86GDM/+2kIOWqDdYbKY0=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>VerifyBloc.bundle/selfie_gif.gif</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			DbEzGE5OjpF0TbNOQIdOzyH5S50=
-			</data>
-			<key>hash2</key>
-			<data>
-			wQpDZddh1sSi76LaPggWRmnGH4w0ru0VWJikLcCkvHA=
-			</data>
-		</dict>
 		<key>VerifyBloc.bundle/snack_icon.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			5swMO2Z0tC1zenJhSRL7PVTQNMU=
-			</data>
 			<key>hash2</key>
 			<data>
 			SVmxYPbik3+qX/R2/4n4eu0pYnBGKFHpM1w0cPFOjFY=
@@ -2018,10 +1773,6 @@
 		</dict>
 		<key>VerifyBloc.bundle/snack_icon@2x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			hul+pP3zRayESRu/Yjh+a901xO8=
-			</data>
 			<key>hash2</key>
 			<data>
 			Rre6vVJgxZfxTRVVkQANH2GBABUqUajjhubfJBmzQlU=
@@ -2029,10 +1780,6 @@
 		</dict>
 		<key>VerifyBloc.bundle/snack_icon@3x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			AV3iQ8yENNuwSe5+UluzfpAD0U4=
-			</data>
 			<key>hash2</key>
 			<data>
 			04UL8yJ1wEFWov00o7YIVM3Q9Rhrjb7kr1cRHLAdvIc=
@@ -2040,10 +1787,6 @@
 		</dict>
 		<key>VerifyBloc.bundle/start_drive.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			LOhfQF2UjACZ0QHGS1+wBiK/Edc=
-			</data>
 			<key>hash2</key>
 			<data>
 			v5WyCix7wcl031Tm9V2foZp1nLOJ86229sFg96BKI/Y=
@@ -2051,10 +1794,6 @@
 		</dict>
 		<key>VerifyBloc.bundle/start_drive@2x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Przscz348VCtcfruux7FCj+b2u8=
-			</data>
 			<key>hash2</key>
 			<data>
 			bol69I1Q8Ea2r+DqQ6AcCNANouUnMFDnyMVBfHaToXc=
@@ -2062,10 +1801,6 @@
 		</dict>
 		<key>VerifyBloc.bundle/start_drive@3x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			S4tWPJYn/msaq+W3je1mP00UFU4=
-			</data>
 			<key>hash2</key>
 			<data>
 			HoKZnpiIoB9emI7HtSzlCohUBDuhJD8IRDYyVJWfuFg=
@@ -2073,10 +1808,6 @@
 		</dict>
 		<key>VerifyBloc.bundle/start_id.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			6jrMHG2Vh0Oq/30T4+uW1zZl7BA=
-			</data>
 			<key>hash2</key>
 			<data>
 			asS7Z+mRKAGpWJVv+AFpWwC2Pd30Y1132qy52U2uw4w=
@@ -2084,10 +1815,6 @@
 		</dict>
 		<key>VerifyBloc.bundle/start_id@2x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			x+5Fptedkzo8OGloHijbi9DWw9k=
-			</data>
 			<key>hash2</key>
 			<data>
 			5Gg7H7dCbX88F/joS0rB0/aoGxGpQs7/c2cmR+LSG9E=
@@ -2095,10 +1822,6 @@
 		</dict>
 		<key>VerifyBloc.bundle/start_id@3x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			VBGy40x0yfGEAnmVISwkoE2iulk=
-			</data>
 			<key>hash2</key>
 			<data>
 			snaqOsEhY6NYmDSKgjPPCokLb13INOQZ+ubSZmE/Stg=
@@ -2106,10 +1829,6 @@
 		</dict>
 		<key>VerifyBloc.bundle/start_passport.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			1OLTGdK1zX5utQhjOgQ0NOS61ts=
-			</data>
 			<key>hash2</key>
 			<data>
 			I4rR3rxvegm7PSxS/wlrM9rPtmPGnbxu0rSEHhc87lg=
@@ -2117,10 +1836,6 @@
 		</dict>
 		<key>VerifyBloc.bundle/start_passport@2x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			BhT+DW14Os2dkZyMLbYJjzWkpUw=
-			</data>
 			<key>hash2</key>
 			<data>
 			6RX3l/n5HFxk4FwbyTdEkAjMyY6sv6JgnLnaSftYpuU=
@@ -2128,10 +1843,6 @@
 		</dict>
 		<key>VerifyBloc.bundle/start_passport@3x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			FB43Qe7dMA44Dopd03VrWNEXrmI=
-			</data>
 			<key>hash2</key>
 			<data>
 			EvnvQVzPNZF7r78P1HJiQYvpgBYvJzKfMLl12lw1h0o=
@@ -2139,10 +1850,6 @@
 		</dict>
 		<key>VerifyBloc.bundle/status_approved.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			SdWdk4LoBx7DsScRL1blTpFOWOc=
-			</data>
 			<key>hash2</key>
 			<data>
 			hfgh1ZLkirPaSE5QxLZjZm8b3RjUAVZ9jVBS7hiDbv8=
@@ -2150,10 +1857,6 @@
 		</dict>
 		<key>VerifyBloc.bundle/status_approved@2x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			NCT+r/iK/gG0vJqBPoV1GGgnCPQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			osPON9E5nNeLOzWGSUJGKNxoomsOZV3qEHr6AxRYyBQ=
@@ -2161,10 +1864,6 @@
 		</dict>
 		<key>VerifyBloc.bundle/status_approved@3x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			nf7kC1OH/gv/uIfhNPdqxpqG9RE=
-			</data>
 			<key>hash2</key>
 			<data>
 			c9467Xxn3w6w0F6ToA5ahtTFG2vjGXqhraGMFsJcz+I=
@@ -2172,10 +1871,6 @@
 		</dict>
 		<key>VerifyBloc.bundle/status_reject.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			0EZbXZaiiyp0Nnm3F4k4+qlGfxs=
-			</data>
 			<key>hash2</key>
 			<data>
 			le/xPjeJRqFKMLTR7wsm+tkjK685TFBbL2Tk+1hDD4Y=
@@ -2183,10 +1878,6 @@
 		</dict>
 		<key>VerifyBloc.bundle/status_reject@2x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			cxWeTenQeI9LczWSnKFwfKSNelQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			21YBOzzzvNTdSA/yGyh2TZGN6gDNs/mNcUADrmf4Wz8=
@@ -2194,10 +1885,6 @@
 		</dict>
 		<key>VerifyBloc.bundle/status_reject@3x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			dThQ6eMGr/5K6xU6rs5K7wNgSYA=
-			</data>
 			<key>hash2</key>
 			<data>
 			4ZLwjG3tNIDxw9g29i6zfvJ4rdTevZmEC19gfJHm+/0=
@@ -2205,10 +1892,6 @@
 		</dict>
 		<key>VerifyBloc.bundle/status_underreview.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			oYACNHneDFn69o7W3Giy0zQ+Z0M=
-			</data>
 			<key>hash2</key>
 			<data>
 			Jn22VbStmbb+1fRx1THtjoDGGrhd//hKrf5LQMbpE6k=
@@ -2216,10 +1899,6 @@
 		</dict>
 		<key>VerifyBloc.bundle/status_underreview@2x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			n0NopOFSWJk7l22EXRgbWc3D9mY=
-			</data>
 			<key>hash2</key>
 			<data>
 			4HS8/+oNcUn7+j2INKfuldAoZ9BbvrbHuXtcp3ey7o0=
@@ -2227,34 +1906,295 @@
 		</dict>
 		<key>VerifyBloc.bundle/status_underreview@3x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			GAXAd4+ZwaYS34ymSfvIXIVWGs8=
-			</data>
 			<key>hash2</key>
 			<data>
 			MfW3cG/eLb2fHSKuJ1a/WKiyMJWGvPjNMxpR8Yk/kug=
 			</data>
 		</dict>
-		<key>VerifyBloc.bundle/th.lproj/Localizable.strings</key>
+		<key>VerifyBloc.bundle/take_document_err1.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			EgGahRVQ2jPczmeMppRLWRbwb5U=
-			</data>
 			<key>hash2</key>
 			<data>
-			l8QubsXmiaWYV8/VvN2ZfPaFAAznGSzs/HH8lRlhNOI=
+			V9L/Gzo+18Vs69iZ38hnWyhA33OOQZwyigf50RtuAew=
+			</data>
+		</dict>
+		<key>VerifyBloc.bundle/take_document_err1@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			HCGxYaDUbto1kf0x/7LFGMHUV4PmniuhntNLoywNcDU=
+			</data>
+		</dict>
+		<key>VerifyBloc.bundle/take_document_err1@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			0kIkANfjUTEaNQZ54iI5n39D+AeQLFnJs7lh7YnCn0o=
+			</data>
+		</dict>
+		<key>VerifyBloc.bundle/take_document_err2.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			FnMYrsvPDi0cPwN7g4sQMdtrTX+14Dvb4tnO289KsK0=
+			</data>
+		</dict>
+		<key>VerifyBloc.bundle/take_document_err2@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			wS80j5wj5eyxjfc/6ObCnAoGHojZgxMGizYwus6Vaao=
+			</data>
+		</dict>
+		<key>VerifyBloc.bundle/take_document_err2@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			L7nDhXcLdz1X/dJJZML+LHcaoCvZJuNQ0MdUso7Ewtg=
+			</data>
+		</dict>
+		<key>VerifyBloc.bundle/take_document_err3.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			iCrVIYqnyBAc/RISqB94Is7oD9oP3FP6d/NbcbZTlic=
+			</data>
+		</dict>
+		<key>VerifyBloc.bundle/take_document_err3@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			2d5vPJymoNGV3kGRnWL1fDYTA8I3uk+LCKAff9xqEAc=
+			</data>
+		</dict>
+		<key>VerifyBloc.bundle/take_document_err3@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ngwsdK8mSxoO1sbJikR5se+FxRfbbyMlQYQKNtpAHdM=
+			</data>
+		</dict>
+		<key>VerifyBloc.bundle/take_document_err4.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			K7lEdobMv/zBI1ZaKQ1ko2gtehePGevA+pagwRRDY/g=
+			</data>
+		</dict>
+		<key>VerifyBloc.bundle/take_document_err4@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			diclZb9UUzFh8Iq1+mJi2IAIqHI6C3ZXhJlJERKL7cE=
+			</data>
+		</dict>
+		<key>VerifyBloc.bundle/take_document_err4@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			LOOBtzIHvdSVQ4VyIKRIYgm66yLoFO7b1+rq504GhNg=
+			</data>
+		</dict>
+		<key>VerifyBloc.bundle/take_document_err5.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			+ausAolVJCPdCV8AitdTbLkSY8CUeZVAnmkCGebbUrg=
+			</data>
+		</dict>
+		<key>VerifyBloc.bundle/take_document_err5@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			q02tIjMjkD+l+qlVtiLx0scg7Qz6podtUKgytmSKQg8=
+			</data>
+		</dict>
+		<key>VerifyBloc.bundle/take_document_err5@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			H3W9VKujVMYTnuyrTlJqV6MENqmMUX3inwfla+JFv6w=
+			</data>
+		</dict>
+		<key>VerifyBloc.bundle/take_document_err6.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			569UEY8cJnKQns3pkeZU06kV/vP5QrdiT++J216wQ6c=
+			</data>
+		</dict>
+		<key>VerifyBloc.bundle/take_document_err6@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			6x6oDBsEBMfAwKLc97hvZjO/Wb/vOezexfX5559sUqk=
+			</data>
+		</dict>
+		<key>VerifyBloc.bundle/take_document_err6@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			lpVQWuQIRjKrh52EkH7WjnI38qjiz59RUewH9+iF9Oo=
+			</data>
+		</dict>
+		<key>VerifyBloc.bundle/take_document_err7.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			64uGz1CvReAOMdfIFFBYORq42nGCEaJRp0paL9VUh0Y=
+			</data>
+		</dict>
+		<key>VerifyBloc.bundle/take_document_err7@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			dI6g7HX/tPbjDnKYJwqLGZL+0G9L+4Wu3c6XMdNjNdo=
+			</data>
+		</dict>
+		<key>VerifyBloc.bundle/take_document_err7@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			5Vtb7mwitjJ3Q7QHAVldwGlkAbq7YhH/K6FaY+dyvuk=
+			</data>
+		</dict>
+		<key>VerifyBloc.bundle/take_document_err8.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			WcxYz/5g4+VBy2AOBGG9pPvn1O+BS7AW09QuXpF0QIE=
+			</data>
+		</dict>
+		<key>VerifyBloc.bundle/take_document_err8@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			RzlNDU2WO2M4Lim8KykAPwIVOt4eWflo/82rtz/tdIQ=
+			</data>
+		</dict>
+		<key>VerifyBloc.bundle/take_document_err8@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			c6LXs+X7i7hyXbassPlP2E2kz4AP5jrIlVoj98dMTaM=
+			</data>
+		</dict>
+		<key>VerifyBloc.bundle/take_document_success.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			RA4+/ZtK6aPXKWFZY+ZPjBmjatCvjLXsBTRJEr4iddw=
+			</data>
+		</dict>
+		<key>VerifyBloc.bundle/take_document_success@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			jKYEwDB848jGliccigL237zHmsK/VP/2ZcIvwnf9dfs=
+			</data>
+		</dict>
+		<key>VerifyBloc.bundle/take_document_success@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			BA5pQHDHU7xm/SdL+9fsjnfR0V6GOancwrmXzNIvHMU=
+			</data>
+		</dict>
+		<key>VerifyBloc.bundle/take_video_document_err1.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			tms4EoXVGOHS7qhgoikStYxyyogE+nfixzm38/InoxY=
+			</data>
+		</dict>
+		<key>VerifyBloc.bundle/take_video_document_err1@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			8D9NEY3Usl6dBb6pZzI9yKVxnTS7Z2CUxVoOJXvoiIc=
+			</data>
+		</dict>
+		<key>VerifyBloc.bundle/take_video_document_err1@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			gXywkESmc3QsguixkuP7tpxsbWtoD3vZx8E+6QGo4Xs=
+			</data>
+		</dict>
+		<key>VerifyBloc.bundle/take_video_document_err2.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			18vBkNQ/C677xc8WAW8B/eRSGF6yk/gaEVGzdG8S1F8=
+			</data>
+		</dict>
+		<key>VerifyBloc.bundle/take_video_document_err2@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			iZ5SvsYwc8OL9x0IgrqCaQ6WYX2MXNH8rjYMkHW2AAk=
+			</data>
+		</dict>
+		<key>VerifyBloc.bundle/take_video_document_err2@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Eg52WVB7f4Xuego70jTH6AzKDooZtgblhQZsvCzE3CU=
+			</data>
+		</dict>
+		<key>VerifyBloc.bundle/take_video_document_err3.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			N7s04rt/bQIKyigBtHJu0Bd0Qh8UgaCbG9MgmpH5Lk8=
+			</data>
+		</dict>
+		<key>VerifyBloc.bundle/take_video_document_err3@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			WUTb+kEIepm71hxxyVfh94nZYTULPLrA/EmZGrEcrrU=
+			</data>
+		</dict>
+		<key>VerifyBloc.bundle/take_video_document_err3@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			NL8duVRy+I+9mkUPm+30BhSKBZlZiNkzQ7PwPNRm9Yg=
+			</data>
+		</dict>
+		<key>VerifyBloc.bundle/take_video_document_success.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			zrL92iV2fiQ8+nAd8uniG1eqyqykTlaFTcBzTIMyyTo=
+			</data>
+		</dict>
+		<key>VerifyBloc.bundle/take_video_document_success@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			TcijXXAkZBOEiyOrI3QVVdb02hCPeY87Ezk5c9bZS7U=
+			</data>
+		</dict>
+		<key>VerifyBloc.bundle/take_video_document_success@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Tc9FBjmfAmBLmwSDBDMzOGpNYiVcFZWIfA8RpaxTnCI=
+			</data>
+		</dict>
+		<key>VerifyBloc.bundle/th.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			1CUV4jVgGFy+ze7dVxXVL/ZohFhQUHuzDThCAM9P9GU=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
 		<key>VerifyBloc.bundle/tip_icon.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			i8E6c5ZBUhSSRPlyLrBwPw7rFJM=
-			</data>
 			<key>hash2</key>
 			<data>
 			gX2ByIjqS69Q2uXi+phcRvkGWNNeg1pI8djEtBjBU7c=
@@ -2262,10 +2202,6 @@
 		</dict>
 		<key>VerifyBloc.bundle/tip_icon@2x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			nscUuDTo0GIn2yazgfSGNtYkJ+w=
-			</data>
 			<key>hash2</key>
 			<data>
 			3lm498yfaEeLZL9FQ+PDbiI1bW0/OFc6I+Wm1IpEeBc=
@@ -2273,10 +2209,6 @@
 		</dict>
 		<key>VerifyBloc.bundle/tip_icon@3x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			7KBXmwVHPLsYf5DUP45Jq1/bwa8=
-			</data>
 			<key>hash2</key>
 			<data>
 			HkG2WcQUXqTFPNGxBpyohvfKRel3GFPE06Wd/iEu7V0=
@@ -2284,23 +2216,15 @@
 		</dict>
 		<key>VerifyBloc.bundle/tr.lproj/Localizable.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ZTc06RFnoXHsX561EYsoKJ8pMSs=
-			</data>
 			<key>hash2</key>
 			<data>
-			5Gx9tgrBSk0m4V7dte6Q9ndjIIvcybyj4+PyJavzUQ0=
+			TRtpbVfO1ar2GpsPdFtYU8KRA4Oh/PwA8xuXKESIg3E=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
 		<key>VerifyBloc.bundle/upload_documents.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Fg9MPBgHft1SSH0I/sIkrOAzrSs=
-			</data>
 			<key>hash2</key>
 			<data>
 			Rs4F8etenl9o0C1cBB3+VDTuQn8nRdoK39JI1m0OyWA=
@@ -2308,10 +2232,6 @@
 		</dict>
 		<key>VerifyBloc.bundle/upload_documents@2x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			hIGAAlA8MQW3KeGKMbw2rEpjDhg=
-			</data>
 			<key>hash2</key>
 			<data>
 			A8zq5UIIq1jvNXQirB/9iOq748I5zz+4VO82SRSunMo=
@@ -2319,10 +2239,6 @@
 		</dict>
 		<key>VerifyBloc.bundle/upload_documents@3x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			xmfVDsi917Cl3o6gWxLnB80aDHI=
-			</data>
 			<key>hash2</key>
 			<data>
 			MYNuk0WZ3coV9w6Q/bQ0vDxpe37kI34KHyKB2B+VU5k=
@@ -2330,10 +2246,6 @@
 		</dict>
 		<key>VerifyBloc.bundle/user_arrow_down.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			FeIh5l0tnDVl5qeEEzzXP3D0XmQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			k91cvwoeddq4P6H/JadytC9IEQ/ZFC5nkUCOVq7QsVM=
@@ -2341,10 +2253,6 @@
 		</dict>
 		<key>VerifyBloc.bundle/user_arrow_down@2x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			PUpQXO2DXmHiVcEIbhShKxVXhLU=
-			</data>
 			<key>hash2</key>
 			<data>
 			iZoKfyHfA/dC/XXyNZQzaezXyQXJvF94iDgMy8V9qRQ=
@@ -2352,10 +2260,6 @@
 		</dict>
 		<key>VerifyBloc.bundle/user_arrow_down@3x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			MNd3RpwQfp4fpy/CzW8SZLTv9Io=
-			</data>
 			<key>hash2</key>
 			<data>
 			3b1ZW3b4/0pZivK2Zdj83y7g60ZotG4BGoVS1+tfx7c=
@@ -2363,10 +2267,6 @@
 		</dict>
 		<key>VerifyBloc.bundle/verify_flow.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			nrSwhtXt8XeFIqhhc0J7o5ssM6g=
-			</data>
 			<key>hash2</key>
 			<data>
 			cHPuG9CDJ5+BVJaTIrEoIQZrVya/hXLpWfyhUGz5Tto=
@@ -2374,10 +2274,6 @@
 		</dict>
 		<key>VerifyBloc.bundle/verify_flow@2x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			daQrgmQqLwy4PmkPU74IMGeOUlw=
-			</data>
 			<key>hash2</key>
 			<data>
 			U6JUAcAwlbYMrD32b90qJLls8F365CRON8x93s46bn0=
@@ -2385,10 +2281,6 @@
 		</dict>
 		<key>VerifyBloc.bundle/verify_flow@3x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			j6LleDKRTlE6inBYRloMYmXAnl0=
-			</data>
 			<key>hash2</key>
 			<data>
 			C24gy6uIJT6A/FxZtQkGJPkYUNh6z8BZxVWxq+0aHcY=
@@ -2396,23 +2288,15 @@
 		</dict>
 		<key>VerifyBloc.bundle/vi.lproj/Localizable.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			DviQzEEuGJgkVR/G3hNfZF5bdB8=
-			</data>
 			<key>hash2</key>
 			<data>
-			nyX2JQSIMrutTr7XzPAUU/xcsVooSFp7DJefbpRSoGo=
+			xrxnvjMTGEdSrOFFdt2w9+WMB/ITlk0RSqEN0C1YOt4=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
 		<key>VerifyBloc.bundle/video_finish.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			mNo6EaskZMoyc/shzNVP9pMLKf4=
-			</data>
 			<key>hash2</key>
 			<data>
 			FUxOBb10umfFDnn8cWAo+Zvz+ibOt0/yzvfsHZcbe6Y=
@@ -2420,10 +2304,6 @@
 		</dict>
 		<key>VerifyBloc.bundle/video_finish@2x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			rNXpUt1bYS/+zSTa0DTtG6E18ig=
-			</data>
 			<key>hash2</key>
 			<data>
 			Yqi2SDFQfUv7n8PwxjBnsSQ5zh0fekK0JPPydswFdSg=
@@ -2431,10 +2311,6 @@
 		</dict>
 		<key>VerifyBloc.bundle/video_finish@3x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			0N72LkVVsB5m/JytBk6LI/81XxQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			v4gkbdmEejxGCK8ZEwHDQCseAr3dUX3jm+efgIGY6VE=
@@ -2442,10 +2318,6 @@
 		</dict>
 		<key>VerifyBloc.bundle/web_back.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			QfmxUI8CbckLukdeB+opyN8mDIE=
-			</data>
 			<key>hash2</key>
 			<data>
 			iTEq8mWJdOUZ1oCSnB0gYZzB3r/JHEv5yej8yrEEC/Q=
@@ -2453,10 +2325,6 @@
 		</dict>
 		<key>VerifyBloc.bundle/web_back@2x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			3mBkhAmZRPFVyXFTVHA/J+tY9xA=
-			</data>
 			<key>hash2</key>
 			<data>
 			5ZguTqlj2IC8TDSFZY0soyeRvYbe1aKSY/fqt0iGA+U=
@@ -2464,10 +2332,6 @@
 		</dict>
 		<key>VerifyBloc.bundle/web_back@3x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			wcFVZ8bq4xUj4fVNyTGfX5JfvGw=
-			</data>
 			<key>hash2</key>
 			<data>
 			I73bAvoHIOuDk9QUTlHSOzwKEfE7ql0FX3U+3borwHQ=
@@ -2475,26 +2339,18 @@
 		</dict>
 		<key>VerifyBloc.bundle/zh-Hans.lproj/Localizable.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			kDhoAoAKkPTF0fCOf1sW63p1uTM=
-			</data>
 			<key>hash2</key>
 			<data>
-			wBBgeKozEIVdgQvi/jBvj5rpTzC/xVmlBelaKT2wEFQ=
+			/5X44uQ4ZXt7C68vBwEyAQxk7chbKt7qq9VnkSGYTNY=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
 		<key>VerifyBloc.bundle/zh-Hant.lproj/Localizable.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			GV45JA0Y/8Bvhil6gAfONBU7KcU=
-			</data>
 			<key>hash2</key>
 			<data>
-			Us1vytYmZLXKw4srFaN0Om2sWhGRsxiAgx/hqMx4Pj4=
+			r6CtSteQeg9U4pD/03ECJ7NX73Dz35Fyg322XGWYhI8=
 			</data>
 			<key>optional</key>
 			<true/>

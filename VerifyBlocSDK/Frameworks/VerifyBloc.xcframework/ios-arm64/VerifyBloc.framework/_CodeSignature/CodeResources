@@ -26,7 +26,7 @@
 		</data>
 		<key>Modules/VerifyBloc.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		7I/ZEOdDzwEV2FGRqXP1J06P+4U=
+		qqGl/xSydN8bbsU/RAVZIBkDV7g=
 		</data>
 		<key>Modules/VerifyBloc.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -42,7 +42,7 @@
 		</data>
 		<key>Modules/VerifyBloc.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		m3+iTyZuB8LZltRQJ199NcGfooA=
+		BKcVwWPsCBaQ2rXlsPhnY7WaHhQ=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -922,7 +922,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			oSk5/e7yMaFfI4XywBgDb4FwVnlKkYQKw44fnCQrFp4=
+			Ts4tlV1zGGyzCkgOJ8oI0zai3jCnDRdBLtkvfLUIeg8=
 			</data>
 		</dict>
 		<key>Modules/VerifyBloc.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -950,7 +950,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			V53hYoIU9GkbHtYTd3E8Y12yu2n02dZBHmWI3OG2d3Q=
+			PnqnVpeKxg7io8FesRm/Ww1vEbzHa5AD+BHanFn33XE=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

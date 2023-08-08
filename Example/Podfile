@@ -4,7 +4,7 @@ platform :ios, '12.0'
 
 target 'VerifyBlocSDK_Example' do
   pod 'VerifyBlocSDK', :path => '../'
-#  pod 'VerifyBlocSDK', '0.4.0'
+#  pod 'VerifyBlocSDK', '0.4.1'
   pod 'SnapKit'
   
 end

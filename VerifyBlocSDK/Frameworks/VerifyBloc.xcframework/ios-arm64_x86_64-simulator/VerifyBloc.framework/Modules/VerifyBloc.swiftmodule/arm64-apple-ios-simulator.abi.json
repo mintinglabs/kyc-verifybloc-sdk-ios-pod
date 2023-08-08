@@ -23693,35 +23693,28 @@
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/TakePhotoVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 22456,
+      "offset": 22550,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/TakePhotoVC.swift",
       "kind": "StringLiteral",
-      "offset": 23252,
+      "offset": 23346,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/TakePhotoVC.swift",
       "kind": "StringLiteral",
-      "offset": 23354,
+      "offset": 23448,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/TakePhotoVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 23602,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/TakePhotoVC.swift",
-      "kind": "BooleanLiteral",
-      "offset": 24717,
+      "offset": 23696,
       "length": 4,
       "value": "true"
     },
@@ -23729,286 +23722,293 @@
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/TakePhotoVC.swift",
       "kind": "BooleanLiteral",
       "offset": 24811,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/TakePhotoVC.swift",
+      "kind": "BooleanLiteral",
+      "offset": 24905,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/TakePhotoVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 24884,
+      "offset": 24978,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/TakePhotoVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 25033,
+      "offset": 25127,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/TakePhotoVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 25106,
+      "offset": 25200,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/TakePhotoVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 25291,
+      "offset": 25385,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/TakePhotoVC.swift",
       "kind": "StringLiteral",
-      "offset": 25378,
+      "offset": 25472,
       "length": 7,
       "value": "\"PHOTO\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/TakePhotoVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 25470,
+      "offset": 25564,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/TakePhotoVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 25547,
+      "offset": 25641,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/TakePhotoVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 25659,
+      "offset": 25753,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/TakePhotoVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 25736,
+      "offset": 25830,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/TakePhotoVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 26069,
+      "offset": 26163,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/TakePhotoVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 26127,
+      "offset": 26221,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/TakePhotoVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 26185,
+      "offset": 26279,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/TakePhotoVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 26245,
+      "offset": 26339,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/TakePhotoVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 26306,
+      "offset": 26400,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/TakePhotoVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 26576,
+      "offset": 26670,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/TakePhotoVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 26634,
+      "offset": 26728,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/TakePhotoVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 26692,
+      "offset": 26786,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/TakePhotoVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 26752,
+      "offset": 26846,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/TakePhotoVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 26813,
+      "offset": 26907,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/TakePhotoVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 27212,
+      "offset": 27306,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/TakePhotoVC.swift",
       "kind": "StringLiteral",
-      "offset": 27977,
+      "offset": 28174,
       "length": 23,
       "value": "\"无法访问摄像头\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/TakePhotoVC.swift",
       "kind": "StringLiteral",
-      "offset": 29455,
+      "offset": 29652,
       "length": 26,
       "value": "\"无法创建输入设备\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/TakePhotoVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 29674,
+      "offset": 29945,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/TakePhotoVC.swift",
       "kind": "StringLiteral",
-      "offset": 29814,
+      "offset": 30085,
       "length": 29,
       "value": "\"无法获取摄像头连接\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/TakePhotoVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 30223,
+      "offset": 30656,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/TakePhotoVC.swift",
-      "kind": "BooleanLiteral",
-      "offset": 31958,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/TakePhotoVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 32011,
+      "offset": 32456,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/TakePhotoVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 32759,
+      "offset": 32611,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/TakePhotoVC.swift",
+      "kind": "BooleanLiteral",
+      "offset": 33323,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/TakePhotoVC.swift",
       "kind": "FloatLiteral",
-      "offset": 33535,
+      "offset": 34099,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/TakePhotoVC.swift",
       "kind": "FloatLiteral",
-      "offset": 33944,
+      "offset": 34508,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/TakePhotoVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 34671,
+      "offset": 35235,
       "length": 3,
       "value": "100"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/TakePhotoVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 34686,
+      "offset": 35250,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/TakePhotoVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 34795,
+      "offset": 35359,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/TakePhotoVC.swift",
       "kind": "FloatLiteral",
-      "offset": 34991,
+      "offset": 35555,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/TakePhotoVC.swift",
       "kind": "FloatLiteral",
-      "offset": 36126,
+      "offset": 36690,
       "length": 3,
       "value": "2.0"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/TakePhotoVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 36147,
+      "offset": 36711,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/TakePhotoVC.swift",
       "kind": "FloatLiteral",
-      "offset": 36464,
+      "offset": 37028,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/TakePhotoVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 37319,
+      "offset": 37883,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/TakePhotoVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 37546,
+      "offset": 38110,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/TakePhotoVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 37552,
+      "offset": 38116,
       "length": 1,
       "value": "0"
     },
@@ -24812,512 +24812,519 @@
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Personal\/TakeVideoVC.swift",
+      "kind": "BooleanLiteral",
+      "offset": 11473,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Personal\/TakeVideoVC.swift",
       "kind": "StringLiteral",
-      "offset": 12028,
+      "offset": 12247,
       "length": 23,
       "value": "\"无法访问摄像头\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Personal\/TakeVideoVC.swift",
       "kind": "StringLiteral",
-      "offset": 13375,
+      "offset": 13594,
       "length": 26,
       "value": "\"无法创建输入设备\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Personal\/TakeVideoVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 13982,
+      "offset": 14201,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Personal\/TakeVideoVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 14223,
+      "offset": 14536,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Personal\/TakeVideoVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 14377,
+      "offset": 14690,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Personal\/TakeVideoVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 14452,
+      "offset": 14765,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Personal\/TakeVideoVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 15116,
+      "offset": 15429,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Personal\/TakeVideoVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 15211,
+      "offset": 15524,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Personal\/TakeVideoVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 15990,
+      "offset": 16303,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Personal\/TakeVideoVC.swift",
       "kind": "FloatLiteral",
-      "offset": 16594,
+      "offset": 16907,
       "length": 3,
       "value": "2.0"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Personal\/TakeVideoVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 16615,
+      "offset": 16928,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Personal\/TakeVideoVC.swift",
       "kind": "FloatLiteral",
-      "offset": 16932,
+      "offset": 17245,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Personal\/TakeVideoVC.swift",
       "kind": "StringLiteral",
-      "offset": 18287,
+      "offset": 18600,
       "length": 48,
       "value": "\"图片(normal_image)是否模糊: \""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Personal\/TakeVideoVC.swift",
       "kind": "StringLiteral",
-      "offset": 18334,
+      "offset": 18647,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Personal\/TakeVideoVC.swift",
       "kind": "StringLiteral",
-      "offset": 18498,
+      "offset": 18811,
       "length": 48,
       "value": "\"图片(normal_image)是否模糊: \""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Personal\/TakeVideoVC.swift",
       "kind": "StringLiteral",
-      "offset": 18545,
+      "offset": 18858,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Personal\/TakeVideoVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 19376,
+      "offset": 19689,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Personal\/TakeVideoVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 19530,
+      "offset": 19843,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Personal\/TakeVideoVC.swift",
       "kind": "Array",
-      "offset": 19758,
+      "offset": 20071,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Personal\/TakeVideoVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 19791,
+      "offset": 20104,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Personal\/TakeVideoVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 20700,
+      "offset": 21013,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Personal\/TakeVideoVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 20969,
+      "offset": 21282,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Personal\/TakeVideoVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 21011,
+      "offset": 21324,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Personal\/TakeVideoVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 21052,
+      "offset": 21365,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Personal\/TakeVideoVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 21156,
+      "offset": 21469,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Personal\/TakeVideoVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 21197,
+      "offset": 21510,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Personal\/TakeVideoVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 21398,
+      "offset": 21711,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Personal\/TakeVideoVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 21442,
+      "offset": 21755,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Personal\/TakeVideoVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 21568,
+      "offset": 21881,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Personal\/TakeVideoVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 21659,
+      "offset": 21972,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Personal\/TakeVideoVC.swift",
       "kind": "StringLiteral",
-      "offset": 21704,
+      "offset": 22017,
       "length": 3,
       "value": "\"3\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Personal\/TakeVideoVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 21852,
+      "offset": 22165,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Personal\/TakeVideoVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 21890,
+      "offset": 22203,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Personal\/TakeVideoVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 21922,
+      "offset": 22235,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Personal\/TakeVideoVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 22052,
+      "offset": 22365,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Personal\/TakeVideoVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 22103,
+      "offset": 22416,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Personal\/TakeVideoVC.swift",
       "kind": "FloatLiteral",
-      "offset": 22304,
+      "offset": 22617,
       "length": 3,
       "value": "0.5"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Personal\/TakeVideoVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 22585,
+      "offset": 22898,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Personal\/TakeVideoVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 22635,
+      "offset": 22948,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Personal\/TakeVideoVC.swift",
       "kind": "StringLiteral",
-      "offset": 22684,
+      "offset": 22997,
       "length": 11,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Personal\/TakeVideoVC.swift",
       "kind": "StringLiteral",
-      "offset": 22694,
+      "offset": 23007,
       "length": 16,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Personal\/TakeVideoVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 23120,
+      "offset": 23433,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Personal\/TakeVideoVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 23153,
+      "offset": 23466,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Personal\/TakeVideoVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 23256,
+      "offset": 23569,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Personal\/TakeVideoVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 23298,
+      "offset": 23611,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Personal\/TakeVideoVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 23349,
+      "offset": 23662,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Personal\/TakeVideoVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 23587,
+      "offset": 23900,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Personal\/TakeVideoVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 23874,
+      "offset": 24187,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Personal\/TakeVideoVC.swift",
       "kind": "StringLiteral",
-      "offset": 23897,
+      "offset": 24210,
       "length": 24,
       "value": "\"verifybloc-\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Personal\/TakeVideoVC.swift",
       "kind": "StringLiteral",
-      "offset": 23916,
+      "offset": 24229,
       "length": 1,
       "value": "\".mp4\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Personal\/TakeVideoVC.swift",
       "kind": "Dictionary",
-      "offset": 24202,
+      "offset": 24515,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Personal\/TakeVideoVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 24555,
+      "offset": 24868,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Personal\/TakeVideoVC.swift",
       "kind": "StringLiteral",
-      "offset": 24985,
+      "offset": 25298,
       "length": 7,
       "value": "\" (3s)\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Personal\/TakeVideoVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 25031,
+      "offset": 25344,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Personal\/TakeVideoVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 25217,
+      "offset": 25530,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Personal\/TakeVideoVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 25358,
+      "offset": 25671,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Personal\/TakeVideoVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 25407,
+      "offset": 25720,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Personal\/TakeVideoVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 25473,
+      "offset": 25786,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Personal\/TakeVideoVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 25544,
+      "offset": 25857,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Personal\/TakeVideoVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 25585,
+      "offset": 25898,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Personal\/TakeVideoVC.swift",
       "kind": "StringLiteral",
-      "offset": 25678,
+      "offset": 25991,
       "length": 19,
       "value": "\" (\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Personal\/TakeVideoVC.swift",
       "kind": "StringLiteral",
-      "offset": 25694,
+      "offset": 26007,
       "length": 1,
       "value": "\"s)\""
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Personal\/TakeVideoVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 25908,
+      "offset": 26221,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Personal\/TakeVideoVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 26110,
+      "offset": 26423,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Personal\/TakeVideoVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 26144,
+      "offset": 26457,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Personal\/TakeVideoVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 26217,
+      "offset": 26530,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Personal\/TakeVideoVC.swift",
       "kind": "BooleanLiteral",
-      "offset": 26336,
+      "offset": 26649,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Personal\/TakeVideoVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 26375,
+      "offset": 26688,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Personal\/TakeVideoVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 26401,
+      "offset": 26714,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Personal\/TakeVideoVC.swift",
       "kind": "FloatLiteral",
-      "offset": 26609,
+      "offset": 26922,
       "length": 3,
       "value": "0.5"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Personal\/TakeVideoVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 27099,
+      "offset": 27412,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Personal\/TakeVideoVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 27694,
+      "offset": 28007,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/yangyu\/Documents\/work\/kyc\/kyc-verifybloc-sdk-ios\/VerifyBlocSDK\/Classes\/Module\/VC\/Personal\/TakeVideoVC.swift",
       "kind": "IntegerLiteral",
-      "offset": 28063,
+      "offset": 28376,
       "length": 1,
       "value": "1"
     },

@@ -178,3 +178,5 @@
 "kycApplicationReviewSubtitle2" = "कृपया नीचे दिए गए डेटा की सटीकता की पुष्टि करें। आप जांच करना चाहते हैं, कृपया पुन: लेने का बटन या संपादन आइकन दबाएं।";
 "kycApplicationReviewSubtitle3" = "कृपया नीचे दिए गए डेटा की सटीकता की पुष्टि करें। आप जांच करना चाहते हैं, कृपया पुन: लेने का बटन या संपादन आइकन दबाएं।";
 "kycApplicationReviewDataTitle" = "डेटा";
+"kycTakePhotoLightLess" = "प्रकाश कम है।";
+"kycTakePhotoTooBright" = "बहुत चमकदार।";

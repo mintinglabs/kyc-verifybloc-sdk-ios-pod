@@ -178,3 +178,5 @@
 "kycApplicationReviewSubtitle2" = "아래에 제공된 데이터의 정확성을 확인하세요. 수정을 원하시면 다시 촬영 버튼 또는 편집 아이콘을 탭하세요.";
 "kycApplicationReviewSubtitle3" = "아래에 제공된 데이터의 정확성을 확인하세요. 수정을 원하시면 다시 촬영 버튼 또는 편집 아이콘을 탭하세요.";
 "kycApplicationReviewDataTitle" = "데이터";
+"kycTakePhotoLightLess" = "빛이 부족합니다";
+"kycTakePhotoTooBright" = "너무 밝습니다";

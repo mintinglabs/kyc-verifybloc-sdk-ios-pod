@@ -178,3 +178,5 @@
 "kycApplicationReviewSubtitle2" = "يرجى تأكيد دقة البيانات التي قدمتها أدناه. إذا كنت ترغب في إجراء تعديلات، يرجى النقر فوق زر إعادة التصوير أو أيقونة التحرير.\n";
 "kycApplicationReviewSubtitle3" = "يرجى تأكيد دقة البيانات التي قدمتها أدناه. إذا كنت ترغب في إجراء تعديلات، يرجى النقر فوق زر إعادة التصوير أو أيقونة التحرير.\n";
 "kycApplicationReviewDataTitle" = "بيانات";
+"kycTakePhotoLightLess" = "الإضاءة أقل";
+"kycTakePhotoTooBright" = "مشرق جدا ";

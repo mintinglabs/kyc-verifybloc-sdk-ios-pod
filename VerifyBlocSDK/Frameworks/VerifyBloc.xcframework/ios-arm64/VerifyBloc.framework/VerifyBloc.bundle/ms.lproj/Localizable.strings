@@ -178,3 +178,5 @@
 "kycApplicationReviewSubtitle2" = "Sila sahkan ketepatan data yang anda berikan di bawah. Jika anda ingin membuat suntingan, sila ketik butang ambil semula atau ikon edit.";
 "kycApplicationReviewSubtitle3" = "Sila sahkan ketepatan data yang anda berikan di bawah. Jika anda ingin membuat suntingan, sila ketik butang ambil semula atau ikon edit.";
 "kycApplicationReviewDataTitle" = "Data";
+"kycTakePhotoLightLess" = "Cahaya kurang";
+"kycTakePhotoTooBright" = "Terlalu terang";

@@ -178,3 +178,5 @@
 "kycApplicationReviewSubtitle2" = "Veuillez confirmer l'exactitude des données que vous avez fournies ci-dessous. Si vous souhaitez apporter des modifications, veuillez appuyer sur le bouton de reprise ou sur l'icône d'édition.";
 "kycApplicationReviewSubtitle3" = "Veuillez confirmer l'exactitude des données que vous avez fournies ci-dessous. Si vous souhaitez apporter des modifications, veuillez appuyer sur le bouton de reprise ou sur l'icône d'édition.";
 "kycApplicationReviewDataTitle" = "Données";
+"kycTakePhotoLightLess" = "Lumière insuffisante";
+"kycTakePhotoTooBright" = "Trop lumineux";

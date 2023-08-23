@@ -178,3 +178,5 @@
 "kycApplicationReviewSubtitle2" = "Lütfen sağladığınız verilerin doğruluğunu onaylayın. Düzenlemeler yapmak isterseniz, lütfen yeniden çekme düğmesine veya düzenleme simgesine dokunun.";
 "kycApplicationReviewSubtitle3" = "Lütfen sağladığınız verilerin doğruluğunu onaylayın. Düzenlemeler yapmak isterseniz, lütfen yeniden çekme düğmesine veya düzenleme simgesine dokunun.";
 "kycApplicationReviewDataTitle" = "Veri";
+"kycTakePhotoLightLess" = "Işık az";
+"kycTakePhotoTooBright" = "Çok parlak";

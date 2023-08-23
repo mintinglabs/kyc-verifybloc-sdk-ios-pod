@@ -178,3 +178,5 @@
 "kycApplicationReviewSubtitle2" = "Please confirm the accuracy of the data you provided below. Please tap retake button or the edit icon if you want to make edits.";
 "kycApplicationReviewSubtitle3" = "Please confirm the accuracy of the data you provided below. Please tap retake button or the edit icon if you want to make edits.";
 "kycApplicationReviewDataTitle" = "Data";
+"kycTakePhotoLightLess" = "Light less";
+"kycTakePhotoTooBright" = "Too bright";

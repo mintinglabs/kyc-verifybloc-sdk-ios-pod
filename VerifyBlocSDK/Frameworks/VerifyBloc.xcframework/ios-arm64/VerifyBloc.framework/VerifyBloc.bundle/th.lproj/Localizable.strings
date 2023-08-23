@@ -178,3 +178,5 @@
 "kycApplicationReviewSubtitle2" = "โปรดยืนยันความถูกต้องของข้อมูลที่คุณให้ด้านล่างนี้ หากคุณต้องการแก้ไข โปรดแตะปุ่มถ่ายภาพใหม่หรือไอคอนแก้ไข";
 "kycApplicationReviewSubtitle3" = "โปรดยืนยันความถูกต้องของข้อมูลที่คุณให้ด้านล่างนี้ หากคุณต้องการแก้ไข โปรดแตะปุ่มถ่ายภาพใหม่หรือไอคอนแก้ไข";
 "kycApplicationReviewDataTitle" = "ข้อมูล";
+"kycTakePhotoLightLess" = "แสงน้อยลง ";
+"kycTakePhotoTooBright" = "สว่างเกินไป ";

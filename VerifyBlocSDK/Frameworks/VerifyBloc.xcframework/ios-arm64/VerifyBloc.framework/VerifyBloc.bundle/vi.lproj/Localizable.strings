@@ -178,3 +178,5 @@
 "kycApplicationReviewSubtitle2" = "Vui lòng xác nhận tính chính xác của dữ liệu bạn cung cấp ở dưới. Nếu bạn muốn chỉnh sửa, vui lòng chạm vào nút chụp lại hoặc biểu tượng sửa.";
 "kycApplicationReviewSubtitle3" = "Vui lòng xác nhận tính chính xác của dữ liệu bạn cung cấp ở dưới. Nếu bạn muốn chỉnh sửa, vui lòng chạm vào nút chụp lại hoặc biểu tượng sửa.";
 "kycApplicationReviewDataTitle" = "Dữ liệu";
+"kycTakePhotoLightLess" = "Ánh sáng yếu";
+"kycTakePhotoTooBright" = "Quá sáng";

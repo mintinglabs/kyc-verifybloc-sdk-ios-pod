@@ -178,3 +178,5 @@
 "kycApplicationReviewSubtitle2" = "Pakipatunayan ang kapani-paniwala ng datos na ibinigay mo sa ibaba. Kung nais mong mag-edit, mangyaring i-tap ang retake button o ang icon ng edit.";
 "kycApplicationReviewSubtitle3" = "Pakipatunayan ang kapani-paniwala ng datos na ibinigay mo sa ibaba. Kung nais mong mag-edit, mangyaring i-tap ang retake button o ang icon ng edit.";
 "kycApplicationReviewDataTitle" = "Datos";
+"kycTakePhotoLightLess" = "Mababa ang ilaw";
+"kycTakePhotoTooBright" = "Masyadong maliwanag";

@@ -178,3 +178,5 @@
 "kycApplicationReviewSubtitle2" = "以下に提供されたデータの正確性を確認してください。編集を行いたい場合は、再撮影ボタンまたは編集アイコンをタップしてください。";
 "kycApplicationReviewSubtitle3" = "以下に提供されたデータの正確性を確認してください。編集を行いたい場合は、再撮影ボタンまたは編集アイコンをタップしてください。";
 "kycApplicationReviewDataTitle" = "データ";
+"kycTakePhotoLightLess" = "光が足りません";
+"kycTakePhotoTooBright" = "明るすぎます";

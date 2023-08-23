@@ -178,3 +178,5 @@
 "kycApplicationReviewSubtitle2" = "Bitte bestätigen Sie die Genauigkeit der von Ihnen unten angegebenen Daten. Wenn Sie Änderungen vornehmen möchten, tippen Sie bitte auf die Neuaufnahme-Schaltfläche oder das Bearbeitungssymbol.";
 "kycApplicationReviewSubtitle3" = "Bitte bestätigen Sie die Genauigkeit der von Ihnen unten angegebenen Daten. Wenn Sie Änderungen vornehmen möchten, tippen Sie bitte auf die Neuaufnahme-Schaltfläche oder das Bearbeitungssymbol.";
 "kycApplicationReviewDataTitle" = "Daten";
+"kycTakePhotoLightLess" = "Weniger Licht";
+"kycTakePhotoTooBright" = "Zu hell";

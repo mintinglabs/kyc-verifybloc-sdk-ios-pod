@@ -178,3 +178,5 @@
 "kycApplicationReviewSubtitle2" = "Harap konfirmasi keakuratan data yang Anda berikan di bawah ini. Jika Anda ingin melakukan perubahan, silakan ketuk tombol retake atau ikon edit.";
 "kycApplicationReviewSubtitle3" = "Harap konfirmasi keakuratan data yang Anda berikan di bawah ini. Jika Anda ingin melakukan perubahan, silakan ketuk tombol retake atau ikon edit.";
 "kycApplicationReviewDataTitle" = "Data";
+"kycTakePhotoLightLess" = "Cahaya kurang";
+"kycTakePhotoTooBright" = "Terlalu terang";
